@@ -7671,3 +7671,5 @@ Current: -1204.000000,-1336.000000,-34.000000|0.000000,0.000000,0.000000|1.70000
 [2020.03.30-19.56.46:911][665]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.03.30-19.57.12:150][950]LogAudioMixer: Display: Audio Buffer Underrun detected.
 [2020.03.30-19.57.13:817][955]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-19.57.29:966][  3]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-19.57.44:745][ 47]LogAudioMixer: Display: Audio Buffer Underrun detected.
