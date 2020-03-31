@@ -19029,3 +19029,72 @@ Please see Output Log for details.
 [2020.03.31-12.39.05:578][628]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.31-12.39.05:578][628]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.03.31-12.39.05:578][628]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.03.31-12.40.20:057][  4]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.41.18:875][179]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.41.44:063][254]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.41.49:456][270]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.42.37:765][414]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.42.39:445][419]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.43.45:866][617]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.43.58:328][654]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.44.19:800][718]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.46.51:878][171]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.47.14:347][238]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.49.04:898][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.03.31-12.49.04:906][566]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.056
+[2020.03.31-12.49.04:907][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Blueprints/BP_Torch] ([1] browsable assets)...
+[2020.03.31-12.49.04:937][566]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch]
+[2020.03.31-12.49.04:937][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Blueprints/BP_Torch]
+[2020.03.31-12.49.04:966][566]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/BP_Torch_Auto274E91A7245A91BBE06CCC8937599FF71.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/MedievalDungeon/Blueprints/BP_Torch_Auto2.uasset'
+[2020.03.31-12.49.04:967][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Materials/M_Stairs_10_Inst] ([1] browsable assets)...
+[2020.03.31-12.49.04:987][566]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/MedievalDungeon/Materials/M_Stairs_10_Inst.M_Stairs_10_Inst]
+[2020.03.31-12.49.04:987][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Materials/M_Stairs_10_Inst]
+[2020.03.31-12.49.05:008][566]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/M_Stairs_10_Inst_Auto2D913745B4175D13CB101C0B24C3A9B77.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/MedievalDungeon/Materials/M_Stairs_10_Inst_Auto2.uasset'
+[2020.03.31-12.49.05:009][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Materials_Creats/prova] ([1] browsable assets)...
+[2020.03.31-12.49.05:030][566]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Materials_Creats/prova.prova]
+[2020.03.31-12.49.05:030][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Materials_Creats/prova]
+[2020.03.31-12.49.05:030][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/prova" FILE="../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Materials/Materials_Creats/prova_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.31-12.49.05:053][566]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/prova_Auto2D128660F48A051F52B419E9BBF429B1B.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Materials/Materials_Creats/prova_Auto2.uasset'
+[2020.03.31-12.49.05:054][566]LogFileHelpers: Auto-saving content packages took 0.148
+[2020.03.31-12.52.06:046][108]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.53.02:261][276]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.57.16:034][ 33]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.02.51:956][ 35]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.07.05:812][792]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.07.10:498][806]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.10.46:533][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.10.51:231][462]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.10.54:567][472]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.11.14:714][532]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.11.39:235][605]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.13.04:051][857]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.13.22:571][912]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.13.28:272][929]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.13.38:664][960]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.14.16:247][ 72]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.17.58:790][733]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.21.32:937][369]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.22.37:101][560]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.29.33:053][794]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.32.59:658][407]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.33.14:119][450]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.35.39:676][882]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.40.47:033][794]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.41.44:756][965]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.45.28:741][630]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.47.38:309][ 15]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.51.12:508][651]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.51.25:569][690]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.51.26:918][694]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.57.01:584][687]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.58.11:323][894]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.00.07:475][239]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.05.11:339][142]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.15.41:736][ 14]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.23.54:740][478]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.24.15:634][540]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.28.57:376][377]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.29.13:256][424]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.29.45:252][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.30.49:247][709]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.35.03:868][465]LogAudioMixer: Display: Audio Buffer Underrun detected.
