@@ -19098,3 +19098,234 @@ Please see Output Log for details.
 [2020.03.31-14.29.45:252][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
 [2020.03.31-14.30.49:247][709]LogAudioMixer: Display: Audio Buffer Underrun detected.
 [2020.03.31-14.35.03:868][465]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.40.07:223][366]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-14.40.36:134][943]LogSlate: Window 'Message Log' being destroyed
+[2020.03.31-14.40.36:138][943]LogSlate: Window 'Message Log' being destroyed
+[2020.03.31-14.40.37:012][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.03.31-14.40.41:301][ 37]LogSlate: Window 'Save Content' being destroyed
+[2020.03.31-14.40.41:342][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/C_Sky_Horizon_Color" FILE="../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" SILENT=true
+[2020.03.31-14.40.41:462][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/C_Sky_Horizon_Color852B6AF847B07D87D8C56F96467C33EA.tmp' to '../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset'
+[2020.03.31-14.40.41:476][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/Parets_mazmo" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Parets_mazmo.uasset" SILENT=true
+[2020.03.31-14.40.41:483][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Parets_mazmoF6CA0AAF49C57FC12A02B0A8CCF830D6.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Parets_mazmo.uasset'
+[2020.03.31-14.40.41:490][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/prova" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova.uasset" SILENT=true
+[2020.03.31-14.40.41:502][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/prova60A7BCB546FD3CB1E1B994A8DD5CC193.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova.uasset'
+[2020.03.31-14.40.41:509][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/prova_Albedo" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_Albedo.uasset" SILENT=true
+[2020.03.31-14.40.42:189][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/prova_Albedo678CB43345B1A7FAE45419B3B48EAB48.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_Albedo.uasset'
+[2020.03.31-14.40.42:196][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/prova_AO" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_AO.uasset" SILENT=true
+[2020.03.31-14.40.42:628][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/prova_AODED6579742563206E239E3B4E327ECE6.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_AO.uasset'
+[2020.03.31-14.40.42:635][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/prova_Displacement" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_Displacement.uasset" SILENT=true
+[2020.03.31-14.40.42:836][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/prova_Displacement8ACEF16742092581D683638A81C8D376.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_Displacement.uasset'
+[2020.03.31-14.40.42:843][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/prova_Normal" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_Normal.uasset" SILENT=true
+[2020.03.31-14.40.43:635][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/prova_Normal5BE9C34742691C67374BB7ABA318D2ED.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_Normal.uasset'
+[2020.03.31-14.40.43:642][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/prova_Roughness" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_Roughness.uasset" SILENT=true
+[2020.03.31-14.40.44:028][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/prova_Roughness551C6C5844FCD9FEF3B8A68B5D648FC2.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_Roughness.uasset'
+[2020.03.31-14.40.44:035][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/prova_Specular" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_Specular.uasset" SILENT=true
+[2020.03.31-14.40.44:148][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/prova_Specular39B1650145D965B0039409A0FD147CAD.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/prova_Specular.uasset'
+[2020.03.31-14.40.44:155][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/Terra_1" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Terra_1.uasset" SILENT=true
+[2020.03.31-14.40.44:164][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Terra_13C8C2C234E606B17F39DDF8A1B1D9960.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Terra_1.uasset'
+[2020.03.31-14.40.44:171][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/Terra_mazmorra" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Terra_mazmorra.uasset" SILENT=true
+[2020.03.31-14.40.44:179][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Terra_mazmorraD59E57554032536D786E61BD4C75828C.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Terra_mazmorra.uasset'
+[2020.03.31-14.40.44:453][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/terra_mazmorra_Albedo6E88A0A3417975D72654E78EBF469A34.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Textures/terra_mazmorra_Albedo.uasset'
+[2020.03.31-14.40.44:600][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/terra_mazmorra_AO167CB6D04C207AF9D058B780EAC273FD.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Textures/terra_mazmorra_AO.uasset'
+[2020.03.31-14.40.44:645][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/terra_mazmorra_Metalness2B7D3E3841E0354D1EB53C9EB4E17AD9.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Textures/terra_mazmorra_Metalness.uasset'
+[2020.03.31-14.40.44:963][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/terra_mazmorra_Normal6ED4F3FD48BAC138D09A888B1DDDC71D.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Textures/terra_mazmorra_Normal.uasset'
+[2020.03.31-14.40.45:122][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/terra_mazmorra_Roughness4600C7FA45F897FFCB7E0ABC80580E16.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Textures/terra_mazmorra_Roughness.uasset'
+[2020.03.31-14.40.45:203][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/terra_mazmorra_Specular841AA7164D401D41B4DE068577A54A58.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Textures/terra_mazmorra_Specular.uasset'
+[2020.03.31-14.40.45:210][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Blueprints/BP_Torch" FILE="../../../../GladiatorArena/HnS/Content/MedievalDungeon/Blueprints/BP_Torch.uasset" SILENT=true
+[2020.03.31-14.40.45:227][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/BP_Torch521C1071419656EAC0F6D39765F5C85C.tmp' to '../../../../GladiatorArena/HnS/Content/MedievalDungeon/Blueprints/BP_Torch.uasset'
+[2020.03.31-14.40.45:233][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Materials/M_Skeleton_Dirty" FILE="../../../../GladiatorArena/HnS/Content/MedievalDungeon/Materials/M_Skeleton_Dirty.uasset" SILENT=true
+[2020.03.31-14.40.45:267][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/M_Skeleton_Dirty7939F9A846323BDE1021F784F37CD3F8.tmp' to '../../../../GladiatorArena/HnS/Content/MedievalDungeon/Materials/M_Skeleton_Dirty.uasset'
+[2020.03.31-14.40.45:273][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Materials/M_Stairs_10_Inst" FILE="../../../../GladiatorArena/HnS/Content/MedievalDungeon/Materials/M_Stairs_10_Inst.uasset" SILENT=true
+[2020.03.31-14.40.45:285][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/M_Stairs_10_Inst8C804AE545B6363D92B75AA30DB9AC43.tmp' to '../../../../GladiatorArena/HnS/Content/MedievalDungeon/Materials/M_Stairs_10_Inst.uasset'
+[2020.03.31-14.40.45:292][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/ColorLUT" FILE="../../../../GladiatorArena/HnS/Content/NewFolder/ColorLUT.uasset" SILENT=true
+[2020.03.31-14.40.45:298][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ColorLUT19882E42413997930D79E3AD7953CA2A.tmp' to '../../../../GladiatorArena/HnS/Content/NewFolder/ColorLUT.uasset'
+[2020.03.31-14.40.45:303][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Glow_Mat_Inst" FILE="../../../../GladiatorArena/HnS/Content/NewFolder/Glow_Mat_Inst.uasset" SILENT=true
+[2020.03.31-14.40.45:316][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Glow_Mat_Inst6E9943854FC318A40543D1A8CF277EEB.tmp' to '../../../../GladiatorArena/HnS/Content/NewFolder/Glow_Mat_Inst.uasset'
+[2020.03.31-14.40.45:322][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Moon_BP" FILE="../../../../GladiatorArena/HnS/Content/NewFolder/Moon_BP.uasset" SILENT=true
+[2020.03.31-14.40.45:348][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Moon_BPD0957EED42F454D16BE34E9654FA893A.tmp' to '../../../../GladiatorArena/HnS/Content/NewFolder/Moon_BP.uasset'
+[2020.03.31-14.40.45:354][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Moon_Diffuse" FILE="../../../../GladiatorArena/HnS/Content/NewFolder/Moon_Diffuse.uasset" SILENT=true
+[2020.03.31-14.40.45:526][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Moon_Diffuse6F39B4A94DF83EA14ACF46B828E234F7.tmp' to '../../../../GladiatorArena/HnS/Content/NewFolder/Moon_Diffuse.uasset'
+[2020.03.31-14.40.45:532][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Moon_Mat" FILE="../../../../GladiatorArena/HnS/Content/NewFolder/Moon_Mat.uasset" SILENT=true
+[2020.03.31-14.40.45:556][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Moon_Mat69C0546340A89F1275FC2CBAA3BD3467.tmp' to '../../../../GladiatorArena/HnS/Content/NewFolder/Moon_Mat.uasset'
+[2020.03.31-14.40.45:562][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Moon_Mat_Inst" FILE="../../../../GladiatorArena/HnS/Content/NewFolder/Moon_Mat_Inst.uasset" SILENT=true
+[2020.03.31-14.40.45:573][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Moon_Mat_InstF0E36A1D44F513C77376F58E184C5E8A.tmp' to '../../../../GladiatorArena/HnS/Content/NewFolder/Moon_Mat_Inst.uasset'
+[2020.03.31-14.40.45:579][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/EnemyBP" FILE="../../../../GladiatorArena/HnS/Content/ThirdPersonBP/Blueprints/EnemyBP.uasset" SILENT=true
+[2020.03.31-14.40.45:672][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/EnemyBP128C15B1490034246110F7A9F47677A3.tmp' to '../../../../GladiatorArena/HnS/Content/ThirdPersonBP/Blueprints/EnemyBP.uasset'
+[2020.03.31-14.40.45:678][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../GladiatorArena/HnS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.03.31-14.40.45:969][ 37]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ThirdPersonCharacterAF79FFF64C78F8EE6C1160A413B92255.tmp' to '../../../../GladiatorArena/HnS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.31-14.40.46:248][ 37]LogSlate: Window 'HnS - Unreal Editor' being destroyed
+[2020.03.31-14.40.46:261][ 37]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.31-14.40.46:348][ 37]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.31-14.40.46:348][ 37]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.46:348][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-14.40.47:222][ 37]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.31-14.40.47:222][ 37]LogContentValidation: Display: Validating CurveLinearColor /Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color
+[2020.03.31-14.40.47:222][ 37]LogContentValidation: Display: Validating Material /Game/Materials/Materials_Creats/Parets_mazmo.Parets_mazmo
+[2020.03.31-14.40.47:222][ 37]LogContentValidation: Display: Validating Material /Game/Materials/Materials_Creats/prova.prova
+[2020.03.31-14.40.47:222][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/prova_Albedo.prova_Albedo
+[2020.03.31-14.40.47:222][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/prova_AO.prova_AO
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/prova_Displacement.prova_Displacement
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/prova_Normal.prova_Normal
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/prova_Roughness.prova_Roughness
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/prova_Specular.prova_Specular
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Material /Game/Materials/Materials_Creats/Terra_1.Terra_1
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Material /Game/Materials/Materials_Creats/Terra_mazmorra.Terra_mazmorra
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/Textures/terra_mazmorra_Albedo.terra_mazmorra_Albedo
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/Textures/terra_mazmorra_AO.terra_mazmorra_AO
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/Textures/terra_mazmorra_Metalness.terra_mazmorra_Metalness
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/Textures/terra_mazmorra_Normal.terra_mazmorra_Normal
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/Textures/terra_mazmorra_Roughness.terra_mazmorra_Roughness
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/Textures/terra_mazmorra_Specular.terra_mazmorra_Specular
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Material /Game/MedievalDungeon/Materials/M_Skeleton_Dirty.M_Skeleton_Dirty
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MedievalDungeon/Materials/M_Stairs_10_Inst.M_Stairs_10_Inst
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/NewFolder/ColorLUT.ColorLUT
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/NewFolder/Glow_Mat_Inst.Glow_Mat_Inst
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Blueprint /Game/NewFolder/Moon_BP.Moon_BP
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Texture2D /Game/NewFolder/Moon_Diffuse.Moon_Diffuse
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Material /Game/NewFolder/Moon_Mat.Moon_Mat
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/NewFolder/Moon_Mat_Inst.Moon_Mat_Inst
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/EnemyBP.EnemyBP
+[2020.03.31-14.40.47:223][ 37]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.31-14.40.47:425][ 38]Cmd: QUIT_EDITOR
+[2020.03.31-14.40.47:457][ 38]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.31-14.40.47:580][ 38]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.31-14.40.47:606][ 38]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-14.40.48:531][ 38]LogExit: Preparing to exit.
+[2020.03.31-14.40.49:584][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:584][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:584][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:584][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:584][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:584][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:584][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:584][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:585][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:585][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:585][ 38]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:585][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:585][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:585][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:585][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:585][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:586][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:587][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:588][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:589][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:590][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:590][ 38]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:591][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:591][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:591][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:591][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:591][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:591][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:591][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:591][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:591][ 38]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:592][ 38]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:592][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:593][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:593][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:593][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:593][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:593][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:593][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:593][ 38]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-14.40.49:593][ 38]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-14.40.49:904][ 38]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.31-14.40.50:264][ 38]LogExit: Editor shut down
+[2020.03.31-14.40.50:266][ 38]LogExit: Transaction tracking system shut down
