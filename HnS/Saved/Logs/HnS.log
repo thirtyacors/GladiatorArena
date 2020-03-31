@@ -14510,3 +14510,41 @@ Please see Output Log for details.
 [2020.03.30-22.53.57:172][ 86]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.03.30-22.53.57:172][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.03.30-22.54.01:322][417]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-22.57.16:689][998]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-22.57.47:567][ 90]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-22.58.23:405][196]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-22.58.45:225][261]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-22.58.49:912][275]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-23.03.56:671][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.03.30-23.03.56:676][186]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.054
+[2020.03.30-23.03.56:676][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewFolder/Glow_Mat_Inst] ([1] browsable assets)...
+[2020.03.30-23.03.56:676][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewFolder/Glow_Mat_Inst]
+[2020.03.30-23.03.56:677][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Glow_Mat_Inst" FILE="../../../../GladiatorArena/HnS/Saved/Autosaves/Game/NewFolder/Glow_Mat_Inst_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.03.30-23.03.56:727][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.03.30-23.03.56:739][186]TextureStreamingBuild: Display: Compiling optional shaders took 0.012 seconds.
+[2020.03.30-23.03.56:786][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.03.30-23.03.56:800][186]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Glow_Mat_Inst_Auto69E86475E43DEEA883F74EC9E9D44679A.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/NewFolder/Glow_Mat_Inst_Auto6.uasset'
+[2020.03.30-23.03.56:800][186]LogFileHelpers: Auto-saving content packages took 0.125
+[2020.03.30-23.07.40:538][854]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-23.08.05:399][928]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-23.08.40:100][ 31]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-23.18.42:968][826]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-23.22.23:698][482]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-23.36.51:655][ 67]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-23.51.48:143][736]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.30-23.57.54:206][824]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.01.05:429][393]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.01.56:265][544]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.02.58:942][730]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.22.44:091][256]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.27.52:021][171]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.33.28:722][172]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.33.30:391][177]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.33.32:060][182]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.33.33:059][185]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.41.04:864][531]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.43.26:458][952]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.43.46:314][ 11]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.45.30:733][321]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.46.59:124][584]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-00.53.17:118][710]LogAudioMixer: Display: Audio Buffer Underrun detected.
