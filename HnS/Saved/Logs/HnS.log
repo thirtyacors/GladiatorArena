@@ -2645,3 +2645,1358 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.01-07.20.59:423][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
 [2020.04.01-07.20.59:449][928]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2020.04.01-07.20.59:449][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.21.01:772][119]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.21.01:776][119]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.21.17:588][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane421)
+[2020.04.01-07.21.58:352][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.04.01-07.21.58:820][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ThirdPersonExampleMap_Auto42EF2996E4E110282ABC90C933261CE36.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2020.04.01-07.21.58:825][261]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.513
+[2020.04.01-07.21.58:825][261]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.513
+[2020.04.01-07.21.58:826][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst] ([1] browsable assets)...
+[2020.04.01-07.21.58:839][261]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst.Forest_Mulch_2x2_M_00_inst]
+[2020.04.01-07.21.58:839][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst]
+[2020.04.01-07.21.58:856][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Forest_Mulch_2x2_M_00_inst_Auto43B859CED46D1F15264BAAEB315FB640D.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst_Auto4.uasset'
+[2020.04.01-07.21.58:857][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Albedo] ([1] browsable assets)...
+[2020.04.01-07.21.58:864][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Albedo.tjmnaerdy_2K_Albedo]
+[2020.04.01-07.21.58:864][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Albedo]
+[2020.04.01-07.21.58:911][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tjmnaerdy_2K_Albedo_Auto42515456A44CAA372F642FBBCF9E6A577.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Albedo_Auto4.uasset'
+[2020.04.01-07.21.58:911][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_AO] ([1] browsable assets)...
+[2020.04.01-07.21.58:917][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_AO.tjmnaerdy_2K_AO]
+[2020.04.01-07.21.58:917][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_AO]
+[2020.04.01-07.21.58:969][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tjmnaerdy_2K_AO_Auto4B2DD929848EA0F2AE0EE0986BD892BC6.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_AO_Auto4.uasset'
+[2020.04.01-07.21.58:970][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Displacement] ([1] browsable assets)...
+[2020.04.01-07.21.58:976][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Displacement.tjmnaerdy_2K_Displacement]
+[2020.04.01-07.21.58:976][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Displacement]
+[2020.04.01-07.21.58:998][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tjmnaerdy_2K_Displacement_Auto4FFAE6DD4454667E4E9016094E43266D8.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Displacement_Auto4.uasset'
+[2020.04.01-07.21.58:999][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Normal] ([1] browsable assets)...
+[2020.04.01-07.21.59:005][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Normal.tjmnaerdy_2K_Normal]
+[2020.04.01-07.21.59:005][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Normal]
+[2020.04.01-07.21.59:031][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tjmnaerdy_2K_Normal_Auto4452670C44AB397F224779A8A6EB7E618.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Normal_Auto4.uasset'
+[2020.04.01-07.21.59:032][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Roughness] ([1] browsable assets)...
+[2020.04.01-07.21.59:038][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Roughness.tjmnaerdy_2K_Roughness]
+[2020.04.01-07.21.59:038][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Roughness]
+[2020.04.01-07.21.59:060][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tjmnaerdy_2K_Roughness_Auto4593267534FF02E52BD86539A3CA4FE47.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Roughness_Auto4.uasset'
+[2020.04.01-07.21.59:061][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/Wild_Grass_And_Ferns_2x2_M_00_inst] ([1] browsable assets)...
+[2020.04.01-07.21.59:073][261]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/Wild_Grass_And_Ferns_2x2_M_00_inst.Wild_Grass_And_Ferns_2x2_M_00_inst]
+[2020.04.01-07.21.59:073][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/Wild_Grass_And_Ferns_2x2_M_00_inst]
+[2020.04.01-07.21.59:108][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Wild_Grass_And_Ferns_2x2_M_00_in2DF44D8C43BFDB24BEAA9EB9B41B154F.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/Wild_Grass_And_Ferns_2x2_M_00_inst_Auto4.uasset'
+[2020.04.01-07.21.59:109][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Albedo] ([1] browsable assets)...
+[2020.04.01-07.21.59:115][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Albedo.sglhagnk_2K_Albedo]
+[2020.04.01-07.21.59:115][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Albedo]
+[2020.04.01-07.21.59:174][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sglhagnk_2K_Albedo_Auto4E07568F1477A6BE742D4C7AC2A61B8CE.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Albedo_Auto4.uasset'
+[2020.04.01-07.21.59:175][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_AO] ([1] browsable assets)...
+[2020.04.01-07.21.59:181][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_AO.sglhagnk_2K_AO]
+[2020.04.01-07.21.59:181][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_AO]
+[2020.04.01-07.21.59:259][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sglhagnk_2K_AO_Auto4F0C2AA5640BE4154FB0200A6AA269E88.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_AO_Auto4.uasset'
+[2020.04.01-07.21.59:260][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Displacement] ([1] browsable assets)...
+[2020.04.01-07.21.59:266][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Displacement.sglhagnk_2K_Displacement]
+[2020.04.01-07.21.59:266][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Displacement]
+[2020.04.01-07.21.59:326][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sglhagnk_2K_Displacement_Auto45BAE14C94695444DE08A208A06BC7D7A.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Displacement_Auto4.uasset'
+[2020.04.01-07.21.59:327][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Normal] ([1] browsable assets)...
+[2020.04.01-07.21.59:334][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Normal.sglhagnk_2K_Normal]
+[2020.04.01-07.21.59:334][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Normal]
+[2020.04.01-07.21.59:364][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sglhagnk_2K_Normal_Auto4EF066C3C4292AA28C4B31FAFF46850B8.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Normal_Auto4.uasset'
+[2020.04.01-07.21.59:365][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Roughness] ([1] browsable assets)...
+[2020.04.01-07.21.59:371][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Roughness.sglhagnk_2K_Roughness]
+[2020.04.01-07.21.59:371][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Roughness]
+[2020.04.01-07.21.59:393][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sglhagnk_2K_Roughness_Auto44F95A7DB48F2876970D83EB3346F926F.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Roughness_Auto4.uasset'
+[2020.04.01-07.21.59:394][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/Scarce_Grass_On_Damp_Soil_00_inst] ([1] browsable assets)...
+[2020.04.01-07.21.59:405][261]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/Scarce_Grass_On_Damp_Soil_00_inst.Scarce_Grass_On_Damp_Soil_00_inst]
+[2020.04.01-07.21.59:405][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/Scarce_Grass_On_Damp_Soil_00_inst]
+[2020.04.01-07.21.59:423][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Scarce_Grass_On_Damp_Soil_00_ins92AE19D04F48D53AA4CF188F27CE0417.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/Scarce_Grass_On_Damp_Soil_00_inst_Auto4.uasset'
+[2020.04.01-07.21.59:424][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Albedo] ([1] browsable assets)...
+[2020.04.01-07.21.59:429][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Albedo.scmk3tp_2K_Albedo]
+[2020.04.01-07.21.59:429][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Albedo]
+[2020.04.01-07.21.59:454][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/scmk3tp_2K_Albedo_Auto496810DFA4F1A0066F72A38AE4CBCDAB7.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Albedo_Auto4.uasset'
+[2020.04.01-07.21.59:455][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_AO] ([1] browsable assets)...
+[2020.04.01-07.21.59:461][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_AO.scmk3tp_2K_AO]
+[2020.04.01-07.21.59:461][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_AO]
+[2020.04.01-07.21.59:483][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/scmk3tp_2K_AO_Auto4349DB8434166B0B3358C1B895A929169.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_AO_Auto4.uasset'
+[2020.04.01-07.21.59:484][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Displacement] ([1] browsable assets)...
+[2020.04.01-07.21.59:490][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Displacement.scmk3tp_2K_Displacement]
+[2020.04.01-07.21.59:490][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Displacement]
+[2020.04.01-07.21.59:510][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/scmk3tp_2K_Displacement_Auto4BDE2F68C4CC17946BBE6C688873EB4D3.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Displacement_Auto4.uasset'
+[2020.04.01-07.21.59:511][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Normal] ([1] browsable assets)...
+[2020.04.01-07.21.59:518][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Normal.scmk3tp_2K_Normal]
+[2020.04.01-07.21.59:519][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Normal]
+[2020.04.01-07.21.59:545][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/scmk3tp_2K_Normal_Auto43CE74C31441A1F2DBE2ECABA7A22AFF3.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Normal_Auto4.uasset'
+[2020.04.01-07.21.59:547][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Roughness] ([1] browsable assets)...
+[2020.04.01-07.21.59:553][261]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Roughness.scmk3tp_2K_Roughness]
+[2020.04.01-07.21.59:553][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Roughness]
+[2020.04.01-07.21.59:575][261]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/scmk3tp_2K_Roughness_Auto4AD3D072B41FE2F881EDF92BC56254C1E.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Roughness_Auto4.uasset'
+[2020.04.01-07.21.59:576][261]LogFileHelpers: Auto-saving content packages took 0.750
+[2020.04.01-07.22.58:650][438]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.24.22:841][688]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.24.34:740][723]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.25.58:962][972]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.26.56:514][142]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.27.23:778][223]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.27.33:214][250]MSLiveLinkLog: Successfully read asset json data
+[2020.04.01-07.27.33:263][250]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_2K_Albedo.jpg)
+[2020.04.01-07.27.33:401][250]LogTexture: Display: Building textures: Aset_wood_board_M_ricaS_2K_Albedo (AutoDXT, 2048X2048)
+[2020.04.01-07.27.34:238][250]LogTexture: Display: Building textures: Aset_wood_board_M_ricaS_2K_Albedo (BC7, 2048X2048)
+[2020.04.01-07.27.35:931][250]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_2K_Cavity.jpg)
+[2020.04.01-07.27.36:016][250]LogTexture: Display: Building textures: Aset_wood_board_M_ricaS_2K_Cavity (AutoDXT, 2048X2048)
+[2020.04.01-07.27.36:651][250]LogTexture: Display: Building textures: Aset_wood_board_M_ricaS_2K_Cavity (BC7, 2048X2048)
+[2020.04.01-07.27.38:286][250]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_2K_Normal_LOD0.jpg)
+[2020.04.01-07.27.38:472][250]LogTexture: Display: Building textures: Aset_wood_board_M_ricaS_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.04.01-07.27.38:708][250]LogTexture: Display: Building textures: Aset_wood_board_M_ricaS_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.04.01-07.27.38:909][250]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_2K_Roughness.jpg)
+[2020.04.01-07.27.38:975][250]LogTexture: Display: Building textures: Aset_wood_board_M_ricaS_2K_Roughness (AutoDXT, 2048X2048)
+[2020.04.01-07.27.39:223][250]LogTexture: Display: Building textures: Aset_wood_board_M_ricaS_2K_Roughness (BC7, 2048X2048)
+[2020.04.01-07.27.40:861][250]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD0.fbx)
+[2020.04.01-07.27.40:873][250]LogFbx: Loading FBX Scene from D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD0.fbx
+[2020.04.01-07.27.40:892][250]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.01-07.27.40:908][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0...
+[2020.04.01-07.27.40:929][250]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0
+[2020.04.01-07.27.40:954][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0...
+[2020.04.01-07.27.40:976][250]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0
+[2020.04.01-07.27.41:007][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0...
+[2020.04.01-07.27.41:034][250]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0
+[2020.04.01-07.27.41:064][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0...
+[2020.04.01-07.27.41:090][250]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0
+[2020.04.01-07.27.41:119][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0...
+[2020.04.01-07.27.41:144][250]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0
+[2020.04.01-07.27.41:182][250]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.01-07.27.41:478][250]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD1.fbx)
+[2020.04.01-07.27.41:489][250]LogFbx: Loading FBX Scene from D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD1.fbx
+[2020.04.01-07.27.41:504][250]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.01-07.27.41:516][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_00_LOD1...
+[2020.04.01-07.27.41:530][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_00_LOD1.Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_00_LOD1
+[2020.04.01-07.27.41:549][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_01_LOD1...
+[2020.04.01-07.27.41:567][250]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_01_LOD1.Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_01_LOD1
+[2020.04.01-07.27.41:586][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_02_LOD1...
+[2020.04.01-07.27.41:605][250]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_02_LOD1.Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_02_LOD1
+[2020.04.01-07.27.41:658][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_03_LOD1...
+[2020.04.01-07.27.41:675][250]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_03_LOD1.Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_03_LOD1
+[2020.04.01-07.27.41:703][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_04_LOD1...
+[2020.04.01-07.27.41:726][250]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_04_LOD1.Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_04_LOD1
+[2020.04.01-07.27.41:758][250]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.01-07.27.41:804][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0...
+[2020.04.01-07.27.41:854][250]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0
+[2020.04.01-07.27.41:913][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0...
+[2020.04.01-07.27.42:008][250]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0
+[2020.04.01-07.27.42:077][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0...
+[2020.04.01-07.27.42:161][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0
+[2020.04.01-07.27.42:234][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0...
+[2020.04.01-07.27.42:302][250]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0
+[2020.04.01-07.27.42:372][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0...
+[2020.04.01-07.27.42:448][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0
+[2020.04.01-07.27.43:301][250]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_04_LOD1.Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_04_LOD1
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_03_LOD1.Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_03_LOD1
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_02_LOD1.Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_02_LOD1
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_01_LOD1.Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_01_LOD1
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_00_LOD1.Aset_wood_board_M_ricaS_LOD1_Aset_wood_board_C_ricaS_00_LOD1
+[2020.04.01-07.27.54:408][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.01-07.27.54:473][250]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD2.fbx)
+[2020.04.01-07.27.54:483][250]LogFbx: Loading FBX Scene from D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD2.fbx
+[2020.04.01-07.27.54:497][250]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.01-07.27.54:506][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_00_LOD2...
+[2020.04.01-07.27.54:515][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_00_LOD2.Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_00_LOD2
+[2020.04.01-07.27.54:528][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_01_LOD2...
+[2020.04.01-07.27.54:540][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_01_LOD2.Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_01_LOD2
+[2020.04.01-07.27.54:555][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_02_LOD2...
+[2020.04.01-07.27.54:569][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_02_LOD2.Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_02_LOD2
+[2020.04.01-07.27.54:583][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_03_LOD2...
+[2020.04.01-07.27.54:595][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_03_LOD2.Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_03_LOD2
+[2020.04.01-07.27.54:613][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_04_LOD2...
+[2020.04.01-07.27.54:632][250]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_04_LOD2.Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_04_LOD2
+[2020.04.01-07.27.54:657][250]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.01-07.27.54:678][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0...
+[2020.04.01-07.27.54:747][250]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0
+[2020.04.01-07.27.54:807][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0...
+[2020.04.01-07.27.54:872][250]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0
+[2020.04.01-07.27.54:933][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0...
+[2020.04.01-07.27.55:012][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0
+[2020.04.01-07.27.55:076][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0...
+[2020.04.01-07.27.55:143][250]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0
+[2020.04.01-07.27.55:211][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0...
+[2020.04.01-07.27.55:287][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0
+[2020.04.01-07.27.56:093][250]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_04_LOD2.Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_04_LOD2
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_03_LOD2.Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_03_LOD2
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_02_LOD2.Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_02_LOD2
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_01_LOD2.Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_01_LOD2
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_00_LOD2.Aset_wood_board_M_ricaS_LOD2_Aset_wood_board_C_ricaS_00_LOD2
+[2020.04.01-07.27.57:245][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.01-07.27.57:295][250]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD3.fbx)
+[2020.04.01-07.27.57:305][250]LogFbx: Loading FBX Scene from D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD3.fbx
+[2020.04.01-07.27.57:317][250]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.01-07.27.57:324][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_00_LOD3...
+[2020.04.01-07.27.57:331][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_00_LOD3.Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_00_LOD3
+[2020.04.01-07.27.57:341][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_01_LOD3...
+[2020.04.01-07.27.57:350][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_01_LOD3.Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_01_LOD3
+[2020.04.01-07.27.57:361][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_02_LOD3...
+[2020.04.01-07.27.57:372][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_02_LOD3.Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_02_LOD3
+[2020.04.01-07.27.57:382][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_03_LOD3...
+[2020.04.01-07.27.57:391][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_03_LOD3.Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_03_LOD3
+[2020.04.01-07.27.57:404][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_04_LOD3...
+[2020.04.01-07.27.57:418][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_04_LOD3.Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_04_LOD3
+[2020.04.01-07.27.57:448][250]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.01-07.27.57:466][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0...
+[2020.04.01-07.27.57:538][250]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0
+[2020.04.01-07.27.57:597][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0...
+[2020.04.01-07.27.57:681][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0
+[2020.04.01-07.27.57:743][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0...
+[2020.04.01-07.27.57:823][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0
+[2020.04.01-07.27.57:884][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0...
+[2020.04.01-07.27.57:970][250]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0
+[2020.04.01-07.27.58:035][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0...
+[2020.04.01-07.27.58:133][250]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0
+[2020.04.01-07.27.58:934][250]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_04_LOD3.Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_04_LOD3
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_03_LOD3.Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_03_LOD3
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_02_LOD3.Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_02_LOD3
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_01_LOD3.Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_01_LOD3
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_00_LOD3.Aset_wood_board_M_ricaS_LOD3_Aset_wood_board_C_ricaS_00_LOD3
+[2020.04.01-07.28.00:156][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.01-07.28.00:222][250]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD4.fbx)
+[2020.04.01-07.28.00:232][250]LogFbx: Loading FBX Scene from D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD4.fbx
+[2020.04.01-07.28.00:241][250]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.01-07.28.00:247][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_00_LOD4...
+[2020.04.01-07.28.00:250][250]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_00_LOD4.Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_00_LOD4
+[2020.04.01-07.28.00:257][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_01_LOD4...
+[2020.04.01-07.28.00:261][250]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_01_LOD4.Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_01_LOD4
+[2020.04.01-07.28.00:270][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_02_LOD4...
+[2020.04.01-07.28.00:275][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_02_LOD4.Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_02_LOD4
+[2020.04.01-07.28.00:282][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_03_LOD4...
+[2020.04.01-07.28.00:288][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_03_LOD4.Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_03_LOD4
+[2020.04.01-07.28.00:298][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_04_LOD4...
+[2020.04.01-07.28.00:305][250]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_04_LOD4.Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_04_LOD4
+[2020.04.01-07.28.00:319][250]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.01-07.28.00:336][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0...
+[2020.04.01-07.28.00:408][250]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0
+[2020.04.01-07.28.00:466][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0...
+[2020.04.01-07.28.00:550][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0
+[2020.04.01-07.28.00:659][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0...
+[2020.04.01-07.28.00:745][250]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0
+[2020.04.01-07.28.00:807][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0...
+[2020.04.01-07.28.00:889][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0
+[2020.04.01-07.28.00:952][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0...
+[2020.04.01-07.28.01:057][250]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0
+[2020.04.01-07.28.01:864][250]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_04_LOD4.Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_04_LOD4
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_03_LOD4.Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_03_LOD4
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_02_LOD4.Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_02_LOD4
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_01_LOD4.Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_01_LOD4
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_00_LOD4.Aset_wood_board_M_ricaS_LOD4_Aset_wood_board_C_ricaS_00_LOD4
+[2020.04.01-07.28.03:025][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.01-07.28.03:148][250]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD5.fbx)
+[2020.04.01-07.28.03:158][250]LogFbx: Loading FBX Scene from D:\Downloaded\3d\wood_board_ricaS\Aset_wood_board_M_ricaS_LOD5.fbx
+[2020.04.01-07.28.03:166][250]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.01-07.28.03:171][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_00_LOD5...
+[2020.04.01-07.28.03:173][250]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_00_LOD5.Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_00_LOD5
+[2020.04.01-07.28.03:176][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_01_LOD5...
+[2020.04.01-07.28.03:179][250]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_01_LOD5.Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_01_LOD5
+[2020.04.01-07.28.03:184][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_02_LOD5...
+[2020.04.01-07.28.03:187][250]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_02_LOD5.Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_02_LOD5
+[2020.04.01-07.28.03:192][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_03_LOD5...
+[2020.04.01-07.28.03:194][250]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_03_LOD5.Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_03_LOD5
+[2020.04.01-07.28.03:199][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_04_LOD5...
+[2020.04.01-07.28.03:203][250]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_04_LOD5.Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_04_LOD5
+[2020.04.01-07.28.03:213][250]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.01-07.28.03:229][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0...
+[2020.04.01-07.28.03:310][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_00_LOD0
+[2020.04.01-07.28.03:372][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0...
+[2020.04.01-07.28.03:454][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_01_LOD0
+[2020.04.01-07.28.03:514][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0...
+[2020.04.01-07.28.03:616][250]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_02_LOD0
+[2020.04.01-07.28.03:676][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0...
+[2020.04.01-07.28.03:759][250]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_03_LOD0
+[2020.04.01-07.28.03:822][250]LogStaticMesh: Building static mesh Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0...
+[2020.04.01-07.28.03:927][250]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0.Aset_wood_board_M_ricaS_LOD0_Aset_wood_board_C_ricaS_04_LOD0
+[2020.04.01-07.28.04:730][250]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_04_LOD5.Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_04_LOD5
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_03_LOD5.Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_03_LOD5
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_02_LOD5.Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_02_LOD5
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_01_LOD5.Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_01_LOD5
+	Asset Name: /Game/Assets/3D_Assets/Old_Wood_Boards_00/Lods/Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_00_LOD5.Aset_wood_board_M_ricaS_LOD5_Aset_wood_board_C_ricaS_00_LOD5
+[2020.04.01-07.28.05:904][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.01-07.28.06:007][250]The following assets could not be successfully checked out from source control:
+/Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_1
+[2020.04.01-07.28.06:087][250]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_1EAD5E85949E7A2138A40638EC5A61EFF.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_1.uasset'
+[2020.04.01-07.28.06:446][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.04.01-07.28.06:493][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.04.01-07.28.06:529][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.01-07.28.06:741][250]The following assets could not be successfully checked out from source control:
+/Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_2
+[2020.04.01-07.28.06:822][250]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_259E4AC844E4A786AD72EFAAE55B1D17A.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_2.uasset'
+[2020.04.01-07.28.07:171][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.01-07.28.07:211][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.04.01-07.28.07:246][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.01-07.28.07:507][250]The following assets could not be successfully checked out from source control:
+/Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_3
+[2020.04.01-07.28.07:592][250]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_3319770794B3DE19FC293A1970B89E243.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_3.uasset'
+[2020.04.01-07.28.07:872][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.01-07.28.07:912][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.04.01-07.28.07:948][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.01-07.28.08:180][250]The following assets could not be successfully checked out from source control:
+/Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_4
+[2020.04.01-07.28.08:273][250]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_43E00A1C347BF2CC7DFAEEDB999BEA33F.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_4.uasset'
+[2020.04.01-07.28.08:556][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.01-07.28.08:597][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.04.01-07.28.08:702][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.01-07.28.08:940][250]The following assets could not be successfully checked out from source control:
+/Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_5
+[2020.04.01-07.28.09:029][250]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_58C66945D4E6FE61FE039F6B3BE9E11BA.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_5.uasset'
+[2020.04.01-07.28.09:322][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.01-07.28.09:364][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.04.01-07.28.09:399][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.01-07.28.09:586][251]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.01-07.28.09:586][251]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_1.Aset_wood_board_M_ricaS_LOD0_1
+[2020.04.01-07.28.09:586][251]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_2.Aset_wood_board_M_ricaS_LOD0_2
+[2020.04.01-07.28.09:586][251]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_3.Aset_wood_board_M_ricaS_LOD0_3
+[2020.04.01-07.28.09:586][251]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_4.Aset_wood_board_M_ricaS_LOD0_4
+[2020.04.01-07.28.09:586][251]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_5.Aset_wood_board_M_ricaS_LOD0_5
+[2020.04.01-07.29.19:592][250]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.29.19:597][250]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.29.24:699][807]LogActorFactory: Actor Factory created Aset_wood_board_M_ricaS_LOD0_4
+[2020.04.01-07.29.25:260][863]LogActorFactory: Actor Factory created Aset_wood_board_M_ricaS_LOD0_4
+[2020.04.01-07.29.59:264][675]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-07.29.59:280][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.29.59:280][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-07.29.59:280][675]PIE: New page: PIE session: ThirdPersonExampleMap (1 abr. 2020 11:29:59)
+[2020.04.01-07.29.59:280][675]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.29.59:331][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050566s)
+[2020.04.01-07.29.59:332][675]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.01-07.29.59:333][675]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2020.04.01-07.29.59:333][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.051957s)
+[2020.04.01-07.29.59:371][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.04.01-07.29.59:382][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.01-07.29.59:382][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.01-07.29.59:382][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.01-07.29.59:382][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.01-07.29.59:382][675]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.01-07.29.59:382][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.01-07.29.59:382][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.01-07.29.59:383][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.01-07.29.59:383][675]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.01-07.29.59:383][675]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.01-07.29.59:391][675]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.01-07.29.59:391][675]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.04.01-07.29.59:391][675]LogAudioMixer: Display: Is Default: Yes
+[2020.04.01-07.29.59:391][675]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.01-07.29.59:391][675]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.01-07.29.59:391][675]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.01-07.29.59:391][675]LogAudioMixer: Display: Channel Order:
+[2020.04.01-07.29.59:391][675]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.01-07.29.59:391][675]LogAudioMixer: Display: 1: FrontRight
+[2020.04.01-07.29.59:409][675]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.04.01-07.29.59:411][675]LogInit: FAudioDevice initialized.
+[2020.04.01-07.29.59:422][675]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.01-07.29.59:444][675]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.01-09.29.59
+[2020.04.01-07.29.59:445][675]LogWorld: Bringing up level for play took: 0.022711
+[2020.04.01-07.29.59:446][675]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.01-07.29.59:450][675]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,403
+[2020.04.01-07.29.59:451][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.29.59:451][675]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP2_5 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.29.59:451][675]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP_2 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.30.08:985][764]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.30.08:985][764]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.30.08:985][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.30.08:985][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.30.08:985][764]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.30.08:985][764]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.30.08:986][764]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.30.08:989][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.30.08:996][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-07.30.08:996][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.30.09:000][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.30.09:033][764]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.30.09:037][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.30.09:047][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.01-07.30.09:147][765]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.01-07.30.10:942][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_4)
+[2020.04.01-07.30.24:783][485]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.30.34:943][605]LogActorFactory: Actor Factory created Aset_wood_board_M_ricaS_LOD0_1
+[2020.04.01-07.30.35:358][644]LogActorFactory: Actor Factory created Aset_wood_board_M_ricaS_LOD0_1
+[2020.04.01-07.30.42:324][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_4)
+[2020.04.01-07.30.44:695][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_1)
+[2020.04.01-07.30.50:169][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane455)
+[2020.04.01-07.30.55:092][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_1)
+[2020.04.01-07.31.09:175][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_4)
+[2020.04.01-07.31.29:511][863]Cmd: DELETE
+[2020.04.01-07.31.29:511][863]Cmd: ACTOR DELETE
+[2020.04.01-07.31.29:525][863]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.31.29:560][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.04.01-07.31.29:565][863]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.04.01-07.31.30:590][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_1)
+[2020.04.01-07.31.40:257][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_4)
+[2020.04.01-07.31.47:868][972]LogActorFactory: Actor Factory created Aset_wood_board_M_ricaS_LOD0_2
+[2020.04.01-07.31.48:201][  5]LogActorFactory: Actor Factory created Aset_wood_board_M_ricaS_LOD0_2
+[2020.04.01-07.32.13:317][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_4)
+[2020.04.01-07.32.14:558][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_2)
+[2020.04.01-07.32.27:316][349]LogActorFactory: Actor Factory created Aset_wood_board_M_ricaS_LOD0_5
+[2020.04.01-07.32.27:711][388]LogActorFactory: Actor Factory created Aset_wood_board_M_ricaS_LOD0_5
+[2020.04.01-07.32.35:932][295]LogSlate: Took 0.021007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.01-07.32.42:076][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane455)
+[2020.04.01-07.32.43:133][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_5)
+[2020.04.01-07.33.44:876][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_2)
+[2020.04.01-07.33.45:608][206]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_4)
+[2020.04.01-07.33.46:031][253]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_1)
+[2020.04.01-07.33.48:958][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_1)
+[2020.04.01-07.33.58:633][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_5)
+[2020.04.01-07.33.59:513][823]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.34.09:641][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-07.34.09:657][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.34.09:658][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-07.34.09:658][ 15]PIE: New page: PIE session: ThirdPersonExampleMap (1 abr. 2020 11:34:09)
+[2020.04.01-07.34.09:658][ 15]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.34.09:704][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046435s)
+[2020.04.01-07.34.09:705][ 15]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.01-07.34.09:705][ 15]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2020.04.01-07.34.09:706][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047874s)
+[2020.04.01-07.34.09:744][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.04.01-07.34.09:749][ 15]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.01-07.34.09:749][ 15]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.01-07.34.09:749][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.01-07.34.09:749][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.01-07.34.09:749][ 15]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.01-07.34.09:749][ 15]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.01-07.34.09:749][ 15]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.01-07.34.09:749][ 15]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.01-07.34.09:750][ 15]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.01-07.34.09:750][ 15]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.01-07.34.09:757][ 15]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.01-07.34.09:757][ 15]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.04.01-07.34.09:757][ 15]LogAudioMixer: Display: Is Default: Yes
+[2020.04.01-07.34.09:757][ 15]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.01-07.34.09:757][ 15]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.01-07.34.09:757][ 15]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.01-07.34.09:757][ 15]LogAudioMixer: Display: Channel Order:
+[2020.04.01-07.34.09:757][ 15]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.01-07.34.09:757][ 15]LogAudioMixer: Display: 1: FrontRight
+[2020.04.01-07.34.09:773][ 15]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.04.01-07.34.09:774][ 15]LogInit: FAudioDevice initialized.
+[2020.04.01-07.34.09:785][ 15]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.01-07.34.09:805][ 15]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.01-09.34.09
+[2020.04.01-07.34.09:806][ 15]LogWorld: Bringing up level for play took: 0.020379
+[2020.04.01-07.34.09:807][ 15]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.01-07.34.09:811][ 15]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,764
+[2020.04.01-07.34.09:811][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.34.09:812][ 15]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP2_5 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.34.09:812][ 15]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP_2 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.34.17:123][884]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.34.26:186][951]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.34.26:186][951]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.34.26:186][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.34.26:186][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.34.26:186][951]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.34.26:186][951]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.34.26:187][951]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.34.26:190][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.34.26:195][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-07.34.26:195][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.34.26:199][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.34.26:237][951]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.34.26:240][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.34.26:245][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.04.01-07.34.26:330][952]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.01-07.34.27:708][ 68]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.34.27:713][ 68]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.34.32:487][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2020.04.01-07.34.33:347][720]Cmd: DELETE
+[2020.04.01-07.34.33:347][720]Cmd: ACTOR DELETE
+[2020.04.01-07.34.33:361][720]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.34.33:395][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.01-07.34.33:398][720]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.04.01-07.34.39:782][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.04.01-07.34.40:483][551]Cmd: DELETE
+[2020.04.01-07.34.40:483][551]Cmd: ACTOR DELETE
+[2020.04.01-07.34.40:497][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.34.40:532][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.01-07.34.40:535][551]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2020.04.01-07.34.40:930][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.04.01-07.34.41:263][634]Cmd: DELETE
+[2020.04.01-07.34.41:263][634]Cmd: ACTOR DELETE
+[2020.04.01-07.34.41:277][634]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.34.41:312][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.01-07.34.41:314][634]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2020.04.01-07.34.41:677][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.04.01-07.34.41:942][705]Cmd: DELETE
+[2020.04.01-07.34.41:942][705]Cmd: ACTOR DELETE
+[2020.04.01-07.34.41:957][705]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.34.41:992][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.01-07.34.41:994][705]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.04.01-07.34.43:834][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2020.04.01-07.34.44:538][995]Cmd: DELETE
+[2020.04.01-07.34.44:538][995]Cmd: ACTOR DELETE
+[2020.04.01-07.34.44:552][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.34.44:587][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.01-07.34.44:589][995]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.04.01-07.34.49:396][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_1)
+[2020.04.01-07.34.50:522][684]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_4)
+[2020.04.01-07.34.51:132][745]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_2)
+[2020.04.01-07.34.51:830][825]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_5)
+[2020.04.01-07.34.52:836][942]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_6)
+[2020.04.01-07.34.57:513][470]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.04.01-07.34.58:708][606]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.04.01-07.34.59:794][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_1)
+[2020.04.01-07.35.01:048][869]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_5)
+[2020.04.01-07.35.01:607][932]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_4)
+[2020.04.01-07.35.02:255][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_2)
+[2020.04.01-07.35.03:212][117]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_6)
+[2020.04.01-07.35.03:583][158]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.35.23:049][391]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-07.35.23:065][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.35.23:066][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-07.35.23:066][391]PIE: New page: PIE session: ThirdPersonExampleMap (1 abr. 2020 11:35:23)
+[2020.04.01-07.35.23:066][391]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.35.23:112][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046407s)
+[2020.04.01-07.35.23:113][391]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.01-07.35.23:113][391]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2020.04.01-07.35.23:114][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047921s)
+[2020.04.01-07.35.23:150][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.04.01-07.35.23:154][391]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.01-07.35.23:154][391]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.01-07.35.23:154][391]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.01-07.35.23:154][391]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.01-07.35.23:154][391]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.01-07.35.23:154][391]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.01-07.35.23:154][391]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.01-07.35.23:154][391]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.01-07.35.23:154][391]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.01-07.35.23:154][391]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.01-07.35.23:161][391]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.01-07.35.23:161][391]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.04.01-07.35.23:161][391]LogAudioMixer: Display: Is Default: Yes
+[2020.04.01-07.35.23:161][391]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.01-07.35.23:161][391]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.01-07.35.23:161][391]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.01-07.35.23:161][391]LogAudioMixer: Display: Channel Order:
+[2020.04.01-07.35.23:161][391]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.01-07.35.23:161][391]LogAudioMixer: Display: 1: FrontRight
+[2020.04.01-07.35.23:176][391]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.04.01-07.35.23:178][391]LogInit: FAudioDevice initialized.
+[2020.04.01-07.35.23:185][391]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.01-07.35.23:205][391]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.01-09.35.23
+[2020.04.01-07.35.23:206][391]LogWorld: Bringing up level for play took: 0.020313
+[2020.04.01-07.35.23:206][391]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.01-07.35.23:210][391]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,164
+[2020.04.01-07.35.23:211][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.35.23:211][391]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP2_5 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.35.23:211][391]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP_2 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.35.38:034][165]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.35.38:041][165]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.01-07.35.38:071][165]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.01-07.35.38:072][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.35.38:072][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.35.38:072][165]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.35.38:072][165]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.35.38:073][165]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.35.38:076][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.35.38:085][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-07.35.38:085][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.35.38:090][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.35.38:129][165]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.35.38:132][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.35.38:138][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.04.01-07.35.38:254][166]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.01-07.35.39:267][256]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.35.39:272][256]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.35.41:767][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_1)
+[2020.04.01-07.35.42:448][620]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_3)
+[2020.04.01-07.35.43:115][696]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_7)
+[2020.04.01-07.35.43:567][741]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_4)
+[2020.04.01-07.35.44:225][816]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_2)
+[2020.04.01-07.35.44:649][863]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_8)
+[2020.04.01-07.35.45:448][955]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_6)
+[2020.04.01-07.35.46:883][123]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_5)
+[2020.04.01-07.35.48:202][271]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_10)
+[2020.04.01-07.36.15:350][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_62)
+[2020.04.01-07.36.16:064][328]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_61)
+[2020.04.01-07.36.16:820][415]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane473)
+[2020.04.01-07.36.18:500][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_63)
+[2020.04.01-07.36.19:356][710]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_61)
+[2020.04.01-07.36.19:803][760]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_62)
+[2020.04.01-07.36.20:486][838]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_64)
+[2020.04.01-07.36.21:604][968]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_60)
+[2020.04.01-07.36.49:102][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.01-07.36.50:000][249]Cmd: DELETE
+[2020.04.01-07.36.50:000][249]Cmd: ACTOR DELETE
+[2020.04.01-07.36.50:015][249]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.36.50:052][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.04.01-07.36.50:056][249]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.04.01-07.36.50:494][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.04.01-07.36.50:797][333]Cmd: DELETE
+[2020.04.01-07.36.50:797][333]Cmd: ACTOR DELETE
+[2020.04.01-07.36.50:812][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.36.50:847][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.01-07.36.50:848][333]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2020.04.01-07.36.52:643][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.04.01-07.36.53:200][605]Cmd: DELETE
+[2020.04.01-07.36.53:200][605]Cmd: ACTOR DELETE
+[2020.04.01-07.36.53:215][605]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.36.53:251][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.01-07.36.53:253][605]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.04.01-07.36.54:853][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.04.01-07.36.55:462][855]Cmd: DELETE
+[2020.04.01-07.36.55:462][855]Cmd: ACTOR DELETE
+[2020.04.01-07.36.55:477][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.36.55:512][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.01-07.36.55:514][855]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2020.04.01-07.36.55:882][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.04.01-07.36.56:074][917]Cmd: DELETE
+[2020.04.01-07.36.56:075][917]Cmd: ACTOR DELETE
+[2020.04.01-07.36.56:089][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-07.36.56:124][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.01-07.36.56:125][917]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2020.04.01-07.36.59:180][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_1)
+[2020.04.01-07.37.00:243][393]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_4)
+[2020.04.01-07.37.01:134][496]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_2)
+[2020.04.01-07.37.02:989][706]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_5)
+[2020.04.01-07.38.02:969][163]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-07.38.02:988][163]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.38.02:988][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-07.38.02:988][163]PIE: New page: PIE session: ThirdPersonExampleMap (1 abr. 2020 11:38:02)
+[2020.04.01-07.38.02:988][163]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.38.03:043][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054632s)
+[2020.04.01-07.38.03:044][163]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.01-07.38.03:044][163]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2020.04.01-07.38.03:044][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056310s)
+[2020.04.01-07.38.03:082][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.04.01-07.38.03:086][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.01-07.38.03:086][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.01-07.38.03:086][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.01-07.38.03:086][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.01-07.38.03:086][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.01-07.38.03:086][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.01-07.38.03:086][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.01-07.38.03:086][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.01-07.38.03:086][163]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.01-07.38.03:086][163]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.01-07.38.03:094][163]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.01-07.38.03:095][163]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.04.01-07.38.03:095][163]LogAudioMixer: Display: Is Default: Yes
+[2020.04.01-07.38.03:095][163]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.01-07.38.03:095][163]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.01-07.38.03:095][163]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.01-07.38.03:095][163]LogAudioMixer: Display: Channel Order:
+[2020.04.01-07.38.03:095][163]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.01-07.38.03:095][163]LogAudioMixer: Display: 1: FrontRight
+[2020.04.01-07.38.03:110][163]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.04.01-07.38.03:112][163]LogInit: FAudioDevice initialized.
+[2020.04.01-07.38.03:119][163]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.01-07.38.03:142][163]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.01-09.38.03
+[2020.04.01-07.38.03:144][163]LogWorld: Bringing up level for play took: 0.024202
+[2020.04.01-07.38.03:144][163]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.01-07.38.03:148][163]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,102
+[2020.04.01-07.38.03:148][163]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.38.03:149][163]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP2_5 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.38.03:149][163]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP_2 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.38.26:902][905]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.38.26:902][905]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.38.26:902][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.38.26:903][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.38.26:903][905]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.38.26:903][905]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.38.26:903][905]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.38.26:907][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.38.26:918][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-07.38.26:918][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.38.26:923][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.38.26:959][905]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.38.26:962][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.38.26:972][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.04.01-07.38.27:069][906]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.01-07.38.28:181][990]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.38.28:185][990]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.38.29:054][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.01-07.38.29:523][ 82]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ThirdPersonExampleMap3A58E63548BA7EA4D644EAB67DE7F38C.tmp' to '../../../../GladiatorArena/HnS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.01-07.38.29:608][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../GladiatorArena/HnS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.04.01-07.38.30:026][ 82]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ThirdPersonExampleMap_BuiltData7F51800342CA97DEE6D559A5F1664FD8.tmp' to '../../../../GladiatorArena/HnS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.01-07.38.30:045][ 82]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.01-07.38.30:045][ 82]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.01-07.38.30:045][ 82]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.01-07.38.34:081][559]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_4.Aset_wood_board_M_ricaS_LOD0_4
+[2020.04.01-07.38.34:754][559]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.04.01-07.39.14:618][410]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_4F214E2F64787293C698A378359E76649.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_4.uasset'
+[2020.04.01-07.39.14:636][410]AssetCheck: New page: Asset Save: Aset_wood_board_M_ricaS_LOD0_4
+[2020.04.01-07.39.14:636][410]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_4.Aset_wood_board_M_ricaS_LOD0_4
+[2020.04.01-07.39.17:591][723]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Aset_wood_board_M_ricaS_LOD0_20)
+[2020.04.01-07.39.18:844][846]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-07.39.18:861][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.39.18:861][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-07.39.18:861][846]PIE: New page: PIE session: ThirdPersonExampleMap (1 abr. 2020 11:39:18)
+[2020.04.01-07.39.18:861][846]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.39.18:917][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055512s)
+[2020.04.01-07.39.18:918][846]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.01-07.39.18:918][846]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2020.04.01-07.39.18:918][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.057072s)
+[2020.04.01-07.39.18:954][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.04.01-07.39.18:958][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.01-07.39.18:958][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.01-07.39.18:958][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.01-07.39.18:958][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.01-07.39.18:958][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.01-07.39.18:958][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.01-07.39.18:958][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.01-07.39.18:958][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.01-07.39.18:959][846]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.01-07.39.18:959][846]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.01-07.39.18:966][846]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.01-07.39.18:966][846]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.04.01-07.39.18:966][846]LogAudioMixer: Display: Is Default: Yes
+[2020.04.01-07.39.18:966][846]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.01-07.39.18:966][846]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.01-07.39.18:966][846]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.01-07.39.18:966][846]LogAudioMixer: Display: Channel Order:
+[2020.04.01-07.39.18:966][846]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.01-07.39.18:966][846]LogAudioMixer: Display: 1: FrontRight
+[2020.04.01-07.39.18:981][846]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.04.01-07.39.18:983][846]LogInit: FAudioDevice initialized.
+[2020.04.01-07.39.18:988][846]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.01-07.39.19:010][846]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.01-09.39.19
+[2020.04.01-07.39.19:011][846]LogWorld: Bringing up level for play took: 0.023185
+[2020.04.01-07.39.19:012][846]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.04.01-07.39.19:016][846]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,03
+[2020.04.01-07.39.19:017][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.39.19:017][846]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP2_5 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.39.19:017][846]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP_2 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.39.50:745][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.39.50:745][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.39.50:745][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.39.50:746][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.39.50:746][510]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.39.50:746][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.39.50:746][510]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.39.50:750][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.39.50:756][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-07.39.50:756][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.39.50:761][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.39.50:799][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.39.50:804][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.39.50:815][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.01-07.39.50:939][511]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.01-07.39.52:088][609]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.39.52:093][609]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.39.52:595][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Half_Arch2)
+[2020.04.01-07.39.54:950][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Half_Arch2)
+[2020.04.01-07.39.55:034][872]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.01-07.40.33:624][669]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.40.49:971][ 73]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_495B04A8B486FD28F8FF5499A9A42D1B6.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_4.uasset'
+[2020.04.01-07.40.49:994][ 73]AssetCheck: New page: Asset Save: Aset_wood_board_M_ricaS_LOD0_4
+[2020.04.01-07.40.49:994][ 73]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_4.Aset_wood_board_M_ricaS_LOD0_4
+[2020.04.01-07.40.52:608][324]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-07.40.52:624][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.40.52:624][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-07.40.52:624][324]PIE: New page: PIE session: ThirdPersonExampleMap (1 abr. 2020 11:40:52)
+[2020.04.01-07.40.52:625][324]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.40.52:680][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055561s)
+[2020.04.01-07.40.52:681][324]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.01-07.40.52:681][324]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2020.04.01-07.40.52:682][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.057032s)
+[2020.04.01-07.40.52:720][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.04.01-07.40.52:723][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.01-07.40.52:723][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.01-07.40.52:723][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.01-07.40.52:723][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.01-07.40.52:723][324]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.01-07.40.52:723][324]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.01-07.40.52:723][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.01-07.40.52:723][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.01-07.40.52:723][324]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.01-07.40.52:723][324]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.01-07.40.52:730][324]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.01-07.40.52:730][324]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.04.01-07.40.52:730][324]LogAudioMixer: Display: Is Default: Yes
+[2020.04.01-07.40.52:730][324]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.01-07.40.52:731][324]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.01-07.40.52:731][324]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.01-07.40.52:731][324]LogAudioMixer: Display: Channel Order:
+[2020.04.01-07.40.52:731][324]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.01-07.40.52:731][324]LogAudioMixer: Display: 1: FrontRight
+[2020.04.01-07.40.52:746][324]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.04.01-07.40.52:747][324]LogInit: FAudioDevice initialized.
+[2020.04.01-07.40.52:758][324]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.01-07.40.52:782][324]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.01-09.40.52
+[2020.04.01-07.40.52:783][324]LogWorld: Bringing up level for play took: 0.025068
+[2020.04.01-07.40.52:783][324]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.04.01-07.40.52:788][324]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,259
+[2020.04.01-07.40.52:788][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.40.52:789][324]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP2_5 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.40.52:789][324]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyBP_2 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2020.04.01-07.40.56:031][708]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-07.41.01:132][290]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.41.01:132][290]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.41.01:132][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.41.01:132][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.41.01:132][290]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.01-07.41.01:132][290]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.41.01:133][290]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.41.01:137][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.41.01:142][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-07.41.01:143][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.01-07.41.01:147][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.41.01:184][290]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.41.01:187][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-07.41.01:193][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.01-07.41.01:272][291]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.04.01-07.41.02:380][382]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.41.02:384][382]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-07.41.21:576][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.01-07.41.33:791][244]LogSlate: Window 'Save Content' being destroyed
+[2020.04.01-07.41.34:570][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rock_granite_L_rbBaw_2K_Nor9BB7448D47506EB25A590281DF4BF516.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Lichen_Rock_00/Aset_rock_granite_L_rbBaw_2K_Normal_LOD0.uasset'
+[2020.04.01-07.41.34:736][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rock_granite_L_rbBaw_2K_Rou2A2C1AE44C170C9D7B997682E660B96B.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Lichen_Rock_00/Aset_rock_granite_L_rbBaw_2K_Roughness.uasset'
+[2020.04.01-07.41.34:888][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rock_granite_L_rbBaw_LOD08E658F0D41A32EA0061920B68C801E14.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Lichen_Rock_00/Aset_rock_granite_L_rbBaw_LOD0.uasset'
+[2020.04.01-07.41.34:902][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Lichen_Rock_00_inst2F6C2DE147D4D6E5DB3AF5B8232831D0.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Lichen_Rock_00/Lichen_Rock_00_inst.uasset'
+[2020.04.01-07.41.35:522][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_2K_Albed21D67CEE47DA2A780D8E8C9A76087AFC.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_2K_Albedo.uasset'
+[2020.04.01-07.41.35:908][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_2K_CavitA361B574405921CA8672EA84062742B0.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_2K_Cavity.uasset'
+[2020.04.01-07.41.36:646][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_2K_NormaF9FD7F5A419EE8EF08C6E9A4D010725F.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_2K_Normal_LOD0.uasset'
+[2020.04.01-07.41.37:013][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_2K_RoughC17C946F44582F4E478681B0D9492E58.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_2K_Roughness.uasset'
+[2020.04.01-07.41.37:097][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_141285C1942D03DC4A652D2BF47B31876.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_1.uasset'
+[2020.04.01-07.41.37:173][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_281CCF70A4DD4FA20602398B50A95F0F5.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_2.uasset'
+[2020.04.01-07.41.37:261][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_3CACB5CCC4E7C1CE91DE6F1B0A16DC39C.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_3.uasset'
+[2020.04.01-07.41.37:344][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_5A46A9E97407352F8A5479AB13BC01D2B.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_5.uasset'
+[2020.04.01-07.41.37:385][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_1528B3E21487EE99197B8B9905823B7D0.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Foliage/Aset_wood_board_M_ricaS_LOD0_1.uasset'
+[2020.04.01-07.41.37:426][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_2AB2C5258407249ED84B5BAAB6C250B55.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Foliage/Aset_wood_board_M_ricaS_LOD0_2.uasset'
+[2020.04.01-07.41.37:471][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_3FAB6ABC24D88C1C3A13B0ABADCD09E60.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Foliage/Aset_wood_board_M_ricaS_LOD0_3.uasset'
+[2020.04.01-07.41.37:512][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_41064121E4BA2DEC9885C39B9AF92745F.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Foliage/Aset_wood_board_M_ricaS_LOD0_4.uasset'
+[2020.04.01-07.41.37:555][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_board_M_ricaS_LOD0_570688EED454B3F901202B59869938FD1.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Foliage/Aset_wood_board_M_ricaS_LOD0_5.uasset'
+[2020.04.01-07.41.37:599][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Old_Wood_Boards_00_inst89CA2959441072E37C135C8238475A46.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Old_Wood_Boards_00/Old_Wood_Boards_00_inst.uasset'
+[2020.04.01-07.41.38:137][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Albedo75358BC245FFAB36F087BC9CEF15DC41.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Albedo.uasset'
+[2020.04.01-07.41.38:492][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_AO9615C93247ABF52AF54ECE9299D78765.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_AO.uasset'
+[2020.04.01-07.41.38:822][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_BumpDA4E5B6C4F28E2444935D5AAEC96EA94.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Bump.uasset'
+[2020.04.01-07.41.39:159][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_CavityB364AF9B4ED1E788D1781ABEC3140682.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Cavity.uasset'
+[2020.04.01-07.41.39:479][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Displacement34EE7C144F231435997C9F94BEC56FD0.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Displacement.uasset'
+[2020.04.01-07.41.39:829][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Gloss3499335747744076D432E4B4DE0DA556.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Gloss.uasset'
+[2020.04.01-07.41.40:416][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Normal2CB7E8E0462D1D06A92DB9AF41E422F6.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Normal.uasset'
+[2020.04.01-07.41.40:633][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Opacity6323081044E29D1C8641BF9DE2FE5CD3.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Opacity.uasset'
+[2020.04.01-07.41.40:967][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Roughness040700C24F092357020E8E8C2C21973D.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Roughness.uasset'
+[2020.04.01-07.41.41:261][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Specular16EB023D45BFBB73D42AFBAC26300A54.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Specular.uasset'
+[2020.04.01-07.41.41:796][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Translucency7BC7B46A45890EAB25A7F796DBE59D11.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Translucency.uasset'
+[2020.04.01-07.41.41:809][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Crownbeard_00_billboard_instAB18E7DB42386999F132E8982B4B4A39.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Billboards/Crownbeard_00_billboard_inst.uasset'
+[2020.04.01-07.41.41:815][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Crownbeard_00_inst" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Crownbeard_00_inst.uasset" SILENT=true
+[2020.04.01-07.41.41:822][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Crownbeard_00_inst2ACE58F645BE0AB6BB7BD1ACEC851047.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Crownbeard_00_inst.uasset'
+[2020.04.01-07.41.41:829][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var1_LOD0_1" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var1_LOD0_1.uasset" SILENT=true
+[2020.04.01-07.41.41:835][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var1_LOD0_178111CB74F979EFEBD23D5A0184EC27C.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var1_LOD0_1.uasset'
+[2020.04.01-07.41.41:842][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var2_LOD0_2" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var2_LOD0_2.uasset" SILENT=true
+[2020.04.01-07.41.41:850][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var2_LOD0_292A388FF4D81FE60773121BF1BD00EBA.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var2_LOD0_2.uasset'
+[2020.04.01-07.41.41:857][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var3_LOD0_3" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var3_LOD0_3.uasset" SILENT=true
+[2020.04.01-07.41.41:864][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var3_LOD0_3A3E1014549D452F92288E48D2122C3BA.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var3_LOD0_3.uasset'
+[2020.04.01-07.41.41:872][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var4_LOD0_4" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var4_LOD0_4.uasset" SILENT=true
+[2020.04.01-07.41.41:878][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var4_LOD0_483376FFE4CFA9B5F9B4E3BB27B76CE4E.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var4_LOD0_4.uasset'
+[2020.04.01-07.41.41:885][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var5_LOD0_5" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var5_LOD0_5.uasset" SILENT=true
+[2020.04.01-07.41.41:892][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var5_LOD0_511ADB1EF489EA96D6B2F9CA555220A14.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var5_LOD0_5.uasset'
+[2020.04.01-07.41.41:899][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var6_LOD0_6" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var6_LOD0_6.uasset" SILENT=true
+[2020.04.01-07.41.41:933][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var6_LOD0_6FDEBE7044E262248E653BC907F783D2B.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var6_LOD0_6.uasset'
+[2020.04.01-07.41.41:940][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var7_LOD0_7" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var7_LOD0_7.uasset" SILENT=true
+[2020.04.01-07.41.41:947][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var7_LOD0_748168F474A44C4EC2A131C80893ADAEB.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var7_LOD0_7.uasset'
+[2020.04.01-07.41.41:954][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var8_LOD0_8" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var8_LOD0_8.uasset" SILENT=true
+[2020.04.01-07.41.41:961][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var8_LOD0_8072CB72F47C8508085C50E8DDD61BAF0.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Foliage/Var8_LOD0_8.uasset'
+[2020.04.01-07.41.41:968][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Albedo" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Albedo.uasset" SILENT=true
+[2020.04.01-07.41.42:452][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_AlbedoBEE5FD3C444F2518467CAA96839913FF.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Albedo.uasset'
+[2020.04.01-07.41.42:460][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_AO" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_AO.uasset" SILENT=true
+[2020.04.01-07.41.42:767][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_AOA5E96AE94235A2DD9EB47FBAA8D1E564.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_AO.uasset'
+[2020.04.01-07.41.42:774][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Bump" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Bump.uasset" SILENT=true
+[2020.04.01-07.41.43:154][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_Bump5E887CAF44764B46661E2DAC783949C0.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Bump.uasset'
+[2020.04.01-07.41.43:162][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Cavity" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Cavity.uasset" SILENT=true
+[2020.04.01-07.41.43:454][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_CavityCC290D48484B348F7F9C42AD52AECDCF.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Cavity.uasset'
+[2020.04.01-07.41.43:725][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_DisplacementEC3079FA49D171026DCBC8BAEE4E9D0F.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Displacement.uasset'
+[2020.04.01-07.41.43:732][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Gloss" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Gloss.uasset" SILENT=true
+[2020.04.01-07.41.44:040][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_Gloss0BC3632C49E182B05CE960AA1A234EB5.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Gloss.uasset'
+[2020.04.01-07.41.44:048][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Normal" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Normal.uasset" SILENT=true
+[2020.04.01-07.41.44:636][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_Normal5A1283DA44EDF2F8E6D20E9D2E556566.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Normal.uasset'
+[2020.04.01-07.41.44:643][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Opacity" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Opacity.uasset" SILENT=true
+[2020.04.01-07.41.44:848][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_Opacity3B33E39D4D0B5708DD3E77A527A66E15.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Opacity.uasset'
+[2020.04.01-07.41.45:184][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_Roughness9265C48F49738813170D0F9735B13548.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Roughness.uasset'
+[2020.04.01-07.41.45:191][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Specular" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Specular.uasset" SILENT=true
+[2020.04.01-07.41.45:454][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_Specular52F74EFA41CFA729EED6E6AE2FEC7C0C.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Specular.uasset'
+[2020.04.01-07.41.45:942][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tecrxcp_2K_Translucency44736DE947FA13DD4FC20C9C6B592CB0.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Translucency.uasset'
+[2020.04.01-07.41.45:948][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Var1_LOD0_1" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var1_LOD0_1.uasset" SILENT=true
+[2020.04.01-07.41.46:065][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var1_LOD0_1B2D54B7548D5A2CCAAAEB6AEE8E3934B.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var1_LOD0_1.uasset'
+[2020.04.01-07.41.46:073][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Var2_LOD0_2" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var2_LOD0_2.uasset" SILENT=true
+[2020.04.01-07.41.46:170][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var2_LOD0_2C0D06258406BF691A68F4ABCC2409D8B.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var2_LOD0_2.uasset'
+[2020.04.01-07.41.46:177][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Var3_LOD0_3" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var3_LOD0_3.uasset" SILENT=true
+[2020.04.01-07.41.46:246][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var3_LOD0_3A4E38FD044C663084532E2A9B08EF5F3.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var3_LOD0_3.uasset'
+[2020.04.01-07.41.46:253][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Var4_LOD0_4" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var4_LOD0_4.uasset" SILENT=true
+[2020.04.01-07.41.46:299][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var4_LOD0_4D9128B1F45B93087BBCCB1912CA1EF0D.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var4_LOD0_4.uasset'
+[2020.04.01-07.41.46:307][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Var5_LOD0_5" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var5_LOD0_5.uasset" SILENT=true
+[2020.04.01-07.41.46:361][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var5_LOD0_5F9E4F64D4067F8089D6420A6D7AED4AA.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var5_LOD0_5.uasset'
+[2020.04.01-07.41.46:369][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Var6_LOD0_6" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var6_LOD0_6.uasset" SILENT=true
+[2020.04.01-07.41.46:405][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var6_LOD0_6B46940714F5DCA0E86EF41BCF36F9339.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var6_LOD0_6.uasset'
+[2020.04.01-07.41.46:413][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Var7_LOD0_7" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var7_LOD0_7.uasset" SILENT=true
+[2020.04.01-07.41.46:438][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var7_LOD0_75568CC0541CEC92919D38DA2AE2CEB17.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var7_LOD0_7.uasset'
+[2020.04.01-07.41.46:446][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Crownbeard_00/Var8_LOD0_8" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var8_LOD0_8.uasset" SILENT=true
+[2020.04.01-07.41.46:492][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var8_LOD0_8C5201547402C9236CE7C11B2C37065B4.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Crownbeard_00/Var8_LOD0_8.uasset'
+[2020.04.01-07.41.46:504][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Forest_Mulch_2x2_M_00_instEED418CB409E131634ACFCA276B65ABE.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst.uasset'
+[2020.04.01-07.41.47:170][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tjmnaerdy_2K_AlbedoFEB66B6D4D6DA69A20D8B784A8899570.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Albedo.uasset'
+[2020.04.01-07.41.47:619][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tjmnaerdy_2K_AO96F079D34F846AFA78026A9297D5A779.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_AO.uasset'
+[2020.04.01-07.41.47:934][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tjmnaerdy_2K_Displacement800BA4F440938583E8A20CB12D61DF74.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Displacement.uasset'
+[2020.04.01-07.41.48:897][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tjmnaerdy_2K_Normal296499FE4A2EC05811F5FDB4FA4587FD.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Normal.uasset'
+[2020.04.01-07.41.49:301][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/tjmnaerdy_2K_RoughnessB370A5E54429AB42E9F3BC8359C2208C.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Roughness.uasset'
+[2020.04.01-07.41.49:314][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Scarce_Grass_On_Damp_Soil_00_insE0D1AC9644C1A8205BC05AAEB464D7BE.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/Scarce_Grass_On_Damp_Soil_00_inst.uasset'
+[2020.04.01-07.41.49:920][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/scmk3tp_2K_Albedo98BDD1C74C5349906F2C60AE825BE0A9.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Albedo.uasset'
+[2020.04.01-07.41.50:350][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/scmk3tp_2K_AODFB7ABB545A8B8CC79B070A075B0856D.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_AO.uasset'
+[2020.04.01-07.41.50:634][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/scmk3tp_2K_Displacement46EA47BE45F37996A184D4AFA54B9440.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Displacement.uasset'
+[2020.04.01-07.41.51:480][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/scmk3tp_2K_NormalF847023A4098FDF029DD2FAE3473B5EE.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Normal.uasset'
+[2020.04.01-07.41.51:884][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/scmk3tp_2K_Roughness651CF4654F1010679D63D4A4474190B6.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Roughness.uasset'
+[2020.04.01-07.41.52:487][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sglhagnk_2K_AlbedoBA2A838B49AAD670A9B2C2BC1EAA76C3.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Albedo.uasset'
+[2020.04.01-07.41.52:901][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sglhagnk_2K_AO94C909CF432624B1D63D7CA51B48A379.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_AO.uasset'
+[2020.04.01-07.41.53:217][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sglhagnk_2K_Displacement7E4C2FDD4CA5257AAA8640A90FAADD17.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Displacement.uasset'
+[2020.04.01-07.41.54:017][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sglhagnk_2K_Normal01F87B764B4EA0F0FDED5D98F6CD4239.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Normal.uasset'
+[2020.04.01-07.41.54:418][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sglhagnk_2K_Roughness136C3AE940DE7E18DD718DADC0FBA3DA.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Roughness.uasset'
+[2020.04.01-07.41.54:429][244]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Wild_Grass_And_Ferns_2x2_M_00_in44C89CDA459B57A18D9CFC91D549FF11.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/Wild_Grass_And_Ferns_2x2_M_00_inst.uasset'
+[2020.04.01-07.41.54:783][244]LogSlate: Window 'Aset_wood_board_M_ricaS_LOD0_4' being destroyed
+[2020.04.01-07.41.54:809][244]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.41.54:809][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-07.41.55:005][244]LogSlate: Window 'HnS - Unreal Editor' being destroyed
+[2020.04.01-07.41.55:017][244]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.01-07.41.55:607][244]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Lichen_Rock_00/Aset_rock_granite_L_rbBaw_2K_Normal_LOD0.Aset_rock_granite_L_rbBaw_2K_Normal_LOD0
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Lichen_Rock_00/Aset_rock_granite_L_rbBaw_2K_Roughness.Aset_rock_granite_L_rbBaw_2K_Roughness
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Lichen_Rock_00/Aset_rock_granite_L_rbBaw_LOD0.Aset_rock_granite_L_rbBaw_LOD0
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Assets/Lichen_Rock_00/Lichen_Rock_00_inst.Lichen_Rock_00_inst
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_2K_Albedo.Aset_wood_board_M_ricaS_2K_Albedo
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_2K_Cavity.Aset_wood_board_M_ricaS_2K_Cavity
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_2K_Normal_LOD0.Aset_wood_board_M_ricaS_2K_Normal_LOD0
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_2K_Roughness.Aset_wood_board_M_ricaS_2K_Roughness
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_1.Aset_wood_board_M_ricaS_LOD0_1
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_2.Aset_wood_board_M_ricaS_LOD0_2
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_3.Aset_wood_board_M_ricaS_LOD0_3
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Aset_wood_board_M_ricaS_LOD0_5.Aset_wood_board_M_ricaS_LOD0_5
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Foliage/Aset_wood_board_M_ricaS_LOD0_1.Aset_wood_board_M_ricaS_LOD0_1
+[2020.04.01-07.41.55:607][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Foliage/Aset_wood_board_M_ricaS_LOD0_2.Aset_wood_board_M_ricaS_LOD0_2
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Foliage/Aset_wood_board_M_ricaS_LOD0_3.Aset_wood_board_M_ricaS_LOD0_3
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Foliage/Aset_wood_board_M_ricaS_LOD0_4.Aset_wood_board_M_ricaS_LOD0_4
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Assets/Old_Wood_Boards_00/Foliage/Aset_wood_board_M_ricaS_LOD0_5.Aset_wood_board_M_ricaS_LOD0_5
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Assets/Old_Wood_Boards_00/Old_Wood_Boards_00_inst.Old_Wood_Boards_00_inst
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Albedo.Billboard_2K_Albedo
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_AO.Billboard_2K_AO
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Bump.Billboard_2K_Bump
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Cavity.Billboard_2K_Cavity
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Displacement.Billboard_2K_Displacement
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Gloss.Billboard_2K_Gloss
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Normal.Billboard_2K_Normal
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Opacity.Billboard_2K_Opacity
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Roughness.Billboard_2K_Roughness
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Specular.Billboard_2K_Specular
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Billboard_2K_Translucency.Billboard_2K_Translucency
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Plants/Crownbeard_00/Billboards/Crownbeard_00_billboard_inst.Crownbeard_00_billboard_inst
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Plants/Crownbeard_00/Crownbeard_00_inst.Crownbeard_00_inst
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var1_LOD0_1.Var1_LOD0_1
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var2_LOD0_2.Var2_LOD0_2
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var3_LOD0_3.Var3_LOD0_3
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var4_LOD0_4.Var4_LOD0_4
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var5_LOD0_5.Var5_LOD0_5
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var6_LOD0_6.Var6_LOD0_6
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var7_LOD0_7.Var7_LOD0_7
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Foliage/Var8_LOD0_8.Var8_LOD0_8
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Albedo.tecrxcp_2K_Albedo
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_AO.tecrxcp_2K_AO
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Bump.tecrxcp_2K_Bump
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Cavity.tecrxcp_2K_Cavity
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Displacement.tecrxcp_2K_Displacement
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Gloss.tecrxcp_2K_Gloss
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Normal.tecrxcp_2K_Normal
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Opacity.tecrxcp_2K_Opacity
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Roughness.tecrxcp_2K_Roughness
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Specular.tecrxcp_2K_Specular
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Crownbeard_00/tecrxcp_2K_Translucency.tecrxcp_2K_Translucency
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Var1_LOD0_1.Var1_LOD0_1
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Var2_LOD0_2.Var2_LOD0_2
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Var3_LOD0_3.Var3_LOD0_3
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Var4_LOD0_4.Var4_LOD0_4
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Var5_LOD0_5.Var5_LOD0_5
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Var6_LOD0_6.Var6_LOD0_6
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Var7_LOD0_7.Var7_LOD0_7
+[2020.04.01-07.41.55:608][244]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Crownbeard_00/Var8_LOD0_8.Var8_LOD0_8
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst.Forest_Mulch_2x2_M_00_inst
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Albedo.tjmnaerdy_2K_Albedo
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_AO.tjmnaerdy_2K_AO
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Displacement.tjmnaerdy_2K_Displacement
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Normal.tjmnaerdy_2K_Normal
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_2K_Roughness.tjmnaerdy_2K_Roughness
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/Scarce_Grass_On_Damp_Soil_00_inst.Scarce_Grass_On_Damp_Soil_00_inst
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Albedo.scmk3tp_2K_Albedo
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_AO.scmk3tp_2K_AO
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Displacement.scmk3tp_2K_Displacement
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Normal.scmk3tp_2K_Normal
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Scarce_Grass_On_Damp_Soil_00/scmk3tp_2K_Roughness.scmk3tp_2K_Roughness
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Albedo.sglhagnk_2K_Albedo
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_AO.sglhagnk_2K_AO
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Displacement.sglhagnk_2K_Displacement
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Normal.sglhagnk_2K_Normal
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating Texture2D /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/sglhagnk_2K_Roughness.sglhagnk_2K_Roughness
+[2020.04.01-07.41.55:609][244]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Surfaces/Wild_Grass_And_Ferns_2x2_M_00/Wild_Grass_And_Ferns_2x2_M_00_inst.Wild_Grass_And_Ferns_2x2_M_00_inst
+[2020.04.01-07.41.55:613][245]Cmd: QUIT_EDITOR
+[2020.04.01-07.41.55:613][245]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.04.01-07.41.55:631][245]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.04.01-07.41.55:631][245]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-07.41.56:446][245]LogExit: Preparing to exit.
+[2020.04.01-07.41.56:956][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.01-07.41.57:224][245]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.41.57:224][245]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.41.57:224][245]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.41.57:767][245]LogDirectoryWatcher: A directory notification failed for 'D:/GladiatorArena/HnS/Content/', and we were unable to create a new request.
+[2020.04.01-07.41.57:781][245]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.41.57:962][245]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-07.41.57:965][245]LogExit: Editor shut down
+[2020.04.01-07.41.57:969][245]LogExit: Transaction tracking system shut down
+[2020.04.01-07.41.57:993][245]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.01-07.42.00:401][245]LogExit: Object subsystem successfully closed.
+[2020.04.01-07.42.00:565][245]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.01-07.42.01:935][245]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (716)
+[2020.04.01-07.42.01:936][245]LogModuleManager: Shutting down and abandoning module PortalProxies (714)
+[2020.04.01-07.42.01:936][245]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (712)
+[2020.04.01-07.42.01:936][245]LogModuleManager: Shutting down and abandoning module Voice (710)
+[2020.04.01-07.42.01:944][245]LogModuleManager: Shutting down and abandoning module TextureEditor (708)
+[2020.04.01-07.42.01:949][245]LogModuleManager: Shutting down and abandoning module MeshBuilder (706)
+[2020.04.01-07.42.01:949][245]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (704)
+[2020.04.01-07.42.01:949][245]LogModuleManager: Shutting down and abandoning module SceneOutliner (702)
+[2020.04.01-07.42.01:949][245]LogModuleManager: Shutting down and abandoning module AddContentDialog (700)
+[2020.04.01-07.42.01:965][245]LogModuleManager: Shutting down and abandoning module WidgetCarousel (699)
+[2020.04.01-07.42.01:965][245]LogModuleManager: Shutting down and abandoning module EditorWidgets (696)
+[2020.04.01-07.42.01:965][245]LogModuleManager: Shutting down and abandoning module CollectionManager (694)
+[2020.04.01-07.42.01:983][245]LogModuleManager: Shutting down and abandoning module StatsViewer (692)
+[2020.04.01-07.42.02:004][245]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (690)
+[2020.04.01-07.42.02:008][245]LogModuleManager: Shutting down and abandoning module FoliageEdit (688)
+[2020.04.01-07.42.02:022][245]LogModuleManager: Shutting down and abandoning module LandscapeEditor (686)
+[2020.04.01-07.42.02:073][245]LogModuleManager: Shutting down and abandoning module MeshPaintMode (684)
+[2020.04.01-07.42.02:073][245]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (682)
+[2020.04.01-07.42.02:073][245]LogModuleManager: Shutting down and abandoning module ActorPickerMode (680)
+[2020.04.01-07.42.02:073][245]LogModuleManager: Shutting down and abandoning module GeometryMode (678)
+[2020.04.01-07.42.02:073][245]LogModuleManager: Shutting down and abandoning module TextureAlignMode (676)
+[2020.04.01-07.42.02:073][245]LogModuleManager: Shutting down and abandoning module BspMode (674)
+[2020.04.01-07.42.02:073][245]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (672)
+[2020.04.01-07.42.02:082][245]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (670)
+[2020.04.01-07.42.02:087][245]LogModuleManager: Shutting down and abandoning module AutomationWorker (668)
+[2020.04.01-07.42.02:087][245]LogModuleManager: Shutting down and abandoning module SteamVREditor (666)
+[2020.04.01-07.42.02:087][245]LogModuleManager: Shutting down and abandoning module OculusMR (664)
+[2020.04.01-07.42.02:092][245]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (662)
+[2020.04.01-07.42.02:103][245]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (660)
+[2020.04.01-07.42.02:115][245]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (658)
+[2020.04.01-07.42.02:266][245]LogModuleManager: Shutting down and abandoning module PlacementMode (657)
+[2020.04.01-07.42.02:266][245]LogModuleManager: Shutting down and abandoning module MaterialEditor (656)
+[2020.04.01-07.42.02:266][245]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (652)
+[2020.04.01-07.42.02:277][245]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (650)
+[2020.04.01-07.42.02:277][245]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (648)
+[2020.04.01-07.42.02:277][245]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (646)
+[2020.04.01-07.42.02:277][245]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (644)
+[2020.04.01-07.42.02:277][245]LogModuleManager: Shutting down and abandoning module WebMMedia (642)
+[2020.04.01-07.42.02:288][245]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (640)
+[2020.04.01-07.42.02:303][245]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (638)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module SequenceRecorder (637)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (634)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (632)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (630)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (628)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (626)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (624)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (622)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (620)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (618)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (616)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module CharacterAI (614)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module SmartSnapping (612)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module SessionServices (610)
+[2020.04.01-07.42.02:326][245]LogModuleManager: Shutting down and abandoning module MeshPaint (608)
+[2020.04.01-07.42.02:341][245]LogModuleManager: Shutting down and abandoning module ViewportSnapping (606)
+[2020.04.01-07.42.02:341][245]LogModuleManager: Shutting down and abandoning module ViewportInteraction (604)
+[2020.04.01-07.42.02:342][245]LogModuleManager: Shutting down and abandoning module ClothPainter (602)
+[2020.04.01-07.42.02:372][245]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (601)
+[2020.04.01-07.42.02:385][245]LogModuleManager: Shutting down and abandoning module LogVisualizer (598)
+[2020.04.01-07.42.02:403][245]LogModuleManager: Shutting down and abandoning module IntroTutorials (596)
+[2020.04.01-07.42.02:413][245]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (595)
+[2020.04.01-07.42.02:441][245]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (592)
+[2020.04.01-07.42.02:441][245]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (590)
+[2020.04.01-07.42.02:447][245]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (588)
+[2020.04.01-07.42.02:452][245]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (587)
+[2020.04.01-07.42.04:139][245]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (584)
+[2020.04.01-07.42.04:139][245]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (582)
+[2020.04.01-07.42.04:139][245]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (580)
+[2020.04.01-07.42.04:139][245]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (578)
+[2020.04.01-07.42.04:140][245]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (576)
+[2020.04.01-07.42.04:140][245]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (574)
+[2020.04.01-07.42.04:140][245]LogModuleManager: Shutting down and abandoning module InputBindingEditor (572)
+[2020.04.01-07.42.04:150][245]LogModuleManager: Shutting down and abandoning module MergeActors (570)
+[2020.04.01-07.42.04:174][245]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (568)
+[2020.04.01-07.42.04:183][245]LogModuleManager: Shutting down and abandoning module LocalizationService (567)
+[2020.04.01-07.42.04:217][245]LogModuleManager: Shutting down and abandoning module HardwareTargeting (564)
+[2020.04.01-07.42.04:217][245]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (562)
+[2020.04.01-07.42.04:217][245]LogModuleManager: Shutting down and abandoning module UndoHistory (560)
+[2020.04.01-07.42.04:228][245]LogModuleManager: Shutting down and abandoning module XmlParser (558)
+[2020.04.01-07.42.04:238][245]LogModuleManager: Shutting down and abandoning module Blutility (556)
+[2020.04.01-07.42.04:238][245]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (554)
+[2020.04.01-07.42.04:238][245]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (553)
+[2020.04.01-07.42.04:239][245]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (550)
+[2020.04.01-07.42.04:239][245]LogModuleManager: Shutting down and abandoning module SettingsEditor (548)
+[2020.04.01-07.42.04:248][245]LogModuleManager: Shutting down and abandoning module ProjectLauncher (546)
+[2020.04.01-07.42.04:259][245]LogModuleManager: Shutting down and abandoning module SessionFrontend (544)
+[2020.04.01-07.42.04:267][245]LogModuleManager: Shutting down and abandoning module ProfilerClient (542)
+[2020.04.01-07.42.04:279][245]LogModuleManager: Shutting down and abandoning module DeviceManager (540)
+[2020.04.01-07.42.04:294][245]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (539)
+[2020.04.01-07.42.04:326][245]LogModuleManager: Shutting down and abandoning module AutomationController (536)
+[2020.04.01-07.42.04:335][245]LogModuleManager: Shutting down and abandoning module AutomationWindow (534)
+[2020.04.01-07.42.04:344][245]LogModuleManager: Shutting down and abandoning module Layers (532)
+[2020.04.01-07.42.04:372][245]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (530)
+[2020.04.01-07.42.04:372][245]LogModuleManager: Shutting down and abandoning module DetailCustomizations (528)
+[2020.04.01-07.42.04:380][245]LogModuleManager: Shutting down and abandoning module PackagesDialog (526)
+[2020.04.01-07.42.04:380][245]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (524)
+[2020.04.01-07.42.04:389][245]LogModuleManager: Shutting down and abandoning module Persona (522)
+[2020.04.01-07.42.04:409][245]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (521)
+[2020.04.01-07.42.04:409][245]LogModuleManager: Shutting down and abandoning module AnimGraph (519)
+[2020.04.01-07.42.04:416][245]LogModuleManager: Shutting down and abandoning module Kismet (516)
+[2020.04.01-07.42.04:463][245]LogModuleManager: Shutting down and abandoning module KismetWidgets (515)
+[2020.04.01-07.42.04:473][245]LogModuleManager: Shutting down and abandoning module GraphEditor (512)
+[2020.04.01-07.42.04:507][245]LogModuleManager: Shutting down and abandoning module StructViewer (510)
+[2020.04.01-07.42.04:507][245]LogModuleManager: Shutting down and abandoning module ClassViewer (508)
+[2020.04.01-07.42.04:507][245]LogModuleManager: Shutting down and abandoning module Toolbox (506)
+[2020.04.01-07.42.04:507][245]LogModuleManager: Shutting down and abandoning module ModuleUI (504)
+[2020.04.01-07.42.04:512][245]LogModuleManager: Shutting down and abandoning module OutputLog (502)
+[2020.04.01-07.42.04:514][245]LogModuleManager: Shutting down and abandoning module GammaUI (500)
+[2020.04.01-07.42.04:525][245]LogModuleManager: Shutting down and abandoning module Documentation (498)
+[2020.04.01-07.42.04:525][245]LogModuleManager: Shutting down and abandoning module ToolMenus (496)
+[2020.04.01-07.42.04:525][245]LogModuleManager: Shutting down and abandoning module LiveCoding (494)
+[2020.04.01-07.42.04:538][245]LogModuleManager: Shutting down and abandoning module LevelSequence (492)
+[2020.04.01-07.42.04:538][245]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (490)
+[2020.04.01-07.42.04:538][245]LogModuleManager: Shutting down and abandoning module MovieScene (488)
+[2020.04.01-07.42.04:538][245]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (486)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module LauncherPlatform (484)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module AnalyticsET (482)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module PortalServices (480)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module PortalRpc (478)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module MessagingRpc (476)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (474)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module AIModule (472)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module GameplayDebugger (471)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module AITestSuite (469)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module NavigationSystem (467)
+[2020.04.01-07.42.04:544][245]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (464)
+[2020.04.01-07.42.04:547][245]LogModuleManager: Shutting down and abandoning module ProfilerService (462)
+[2020.04.01-07.42.04:557][245]LogModuleManager: Shutting down and abandoning module TaskGraph (460)
+[2020.04.01-07.42.04:564][245]LogModuleManager: Shutting down and abandoning module MegascansPlugin (458)
+[2020.04.01-07.42.04:564][245]LogModuleManager: Shutting down and abandoning module ScreenshotTools (456)
+[2020.04.01-07.42.04:564][245]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (454)
+[2020.04.01-07.42.04:564][245]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (452)
+[2020.04.01-07.42.04:564][245]LogModuleManager: Shutting down and abandoning module OculusEditor (450)
+[2020.04.01-07.42.04:577][245]LogModuleManager: Shutting down and abandoning module OculusInput (448)
+[2020.04.01-07.42.04:577][245]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (446)
+[2020.04.01-07.42.04:577][245]LogModuleManager: Shutting down and abandoning module EditableMesh (444)
+[2020.04.01-07.42.04:592][245]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (442)
+[2020.04.01-07.42.04:592][245]LogModuleManager: Shutting down and abandoning module CableComponent (440)
+[2020.04.01-07.42.04:592][245]LogModuleManager: Shutting down and abandoning module AudioCapture (438)
+[2020.04.01-07.42.04:592][245]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (437)
+[2020.04.01-07.42.04:592][245]LogModuleManager: Shutting down and abandoning module AssetTags (434)
+[2020.04.01-07.42.04:592][245]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (432)
+[2020.04.01-07.42.04:592][245]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (430)
+[2020.04.01-07.42.04:592][245]LogModuleManager: Shutting down and abandoning module AppleImageUtils (428)
+[2020.04.01-07.42.04:592][245]LogModuleManager: Shutting down and abandoning module AndroidPermission (426)
+[2020.04.01-07.42.04:592][245]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (424)
+[2020.04.01-07.42.04:594][245]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (422)
+[2020.04.01-07.42.04:604][245]LogModuleManager: Shutting down and abandoning module MediaCompositing (420)
+[2020.04.01-07.42.04:604][245]LogModuleManager: Shutting down and abandoning module ImgMedia (418)
+[2020.04.01-07.42.04:604][245]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (416)
+[2020.04.01-07.42.04:604][245]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (414)
+[2020.04.01-07.42.04:604][245]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (412)
+[2020.04.01-07.42.04:605][245]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (410)
+[2020.04.01-07.42.04:605][245]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (408)
+[2020.04.01-07.42.04:605][245]LogModuleManager: Shutting down and abandoning module BackChannel (406)
+[2020.04.01-07.42.04:613][245]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (404)
+[2020.04.01-07.42.04:613][245]LogModuleManager: Shutting down and abandoning module AutomationUtils (402)
+[2020.04.01-07.42.04:613][245]LogModuleManager: Shutting down and abandoning module AlembicImporter (400)
+[2020.04.01-07.42.04:620][245]LogModuleManager: Shutting down and abandoning module AlembicLibrary (399)
+[2020.04.01-07.42.04:627][245]LogModuleManager: Shutting down and abandoning module GeometryCache (398)
+[2020.04.01-07.42.04:627][245]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (397)
+[2020.04.01-07.42.04:627][245]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (392)
+[2020.04.01-07.42.04:633][245]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (390)
+[2020.04.01-07.42.04:644][245]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (388)
+[2020.04.01-07.42.04:644][245]LogModuleManager: Shutting down and abandoning module PluginBrowser (386)
+[2020.04.01-07.42.04:681][245]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (384)
+[2020.04.01-07.42.04:689][245]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (382)
+[2020.04.01-07.42.04:702][245]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (380)
+[2020.04.01-07.42.04:702][245]LogModuleManager: Shutting down and abandoning module CurveEditorTools (378)
+[2020.04.01-07.42.04:719][245]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (376)
+[2020.04.01-07.42.04:719][245]LogModuleManager: Shutting down and abandoning module CryptoKeys (374)
+[2020.04.01-07.42.04:719][245]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (372)
+[2020.04.01-07.42.04:728][245]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (370)
+[2020.04.01-07.42.04:728][245]LogModuleManager: Shutting down and abandoning module UObjectPlugin (368)
+[2020.04.01-07.42.04:728][245]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (366)
+[2020.04.01-07.42.04:734][245]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (364)
+[2020.04.01-07.42.04:747][245]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (362)
+[2020.04.01-07.42.04:770][245]LogModuleManager: Shutting down and abandoning module GitSourceControl (360)
+[2020.04.01-07.42.04:777][245]LogModuleManager: Shutting down and abandoning module SourceControl (359)
+[2020.04.01-07.42.04:777][245]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (356)
+[2020.04.01-07.42.04:784][245]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (354)
+[2020.04.01-07.42.04:784][245]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (352)
+[2020.04.01-07.42.04:784][245]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (350)
+[2020.04.01-07.42.04:784][245]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (348)
+[2020.04.01-07.42.04:784][245]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (346)
+[2020.04.01-07.42.04:784][245]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (344)
+[2020.04.01-07.42.04:784][245]LogModuleManager: Shutting down and abandoning module Paper2DEditor (342)
+[2020.04.01-07.42.04:794][245]LogModuleManager: Shutting down and abandoning module SignificanceManager (340)
+[2020.04.01-07.42.04:794][245]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (338)
+[2020.04.01-07.42.04:794][245]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (336)
+[2020.04.01-07.42.04:794][245]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (332)
+[2020.04.01-07.42.04:794][245]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2020.04.01-07.42.04:794][245]LogModuleManager: Shutting down and abandoning module UdpMessaging (328)
+[2020.04.01-07.42.04:895][245]LogModuleManager: Shutting down and abandoning module TcpMessaging (326)
+[2020.04.01-07.42.05:023][245]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (324)
+[2020.04.01-07.42.05:031][245]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (322)
+[2020.04.01-07.42.05:037][245]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.04.01-07.42.05:037][245]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (320)
+[2020.04.01-07.42.05:037][245]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (318)
+[2020.04.01-07.42.05:037][245]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (316)
+[2020.04.01-07.42.05:037][245]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (314)
+[2020.04.01-07.42.05:037][245]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (312)
+[2020.04.01-07.42.05:049][245]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (310)
+[2020.04.01-07.42.05:049][245]LogModuleManager: Shutting down and abandoning module MagicLeapController (308)
+[2020.04.01-07.42.05:056][245]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.01-07.42.05:056][245]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (306)
+[2020.04.01-07.42.05:056][245]LogModuleManager: Shutting down and abandoning module MagicLeapAR (304)
+[2020.04.01-07.42.05:056][245]LogModuleManager: Shutting down and abandoning module AugmentedReality (303)
+[2020.04.01-07.42.05:056][245]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (300)
+[2020.04.01-07.42.05:056][245]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (298)
+[2020.04.01-07.42.05:067][245]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (296)
+[2020.04.01-07.42.05:067][245]LogModuleManager: Shutting down and abandoning module FacialAnimation (294)
+[2020.04.01-07.42.05:067][245]LogModuleManager: Shutting down and abandoning module DataValidation (292)
+[2020.04.01-07.42.05:067][245]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (290)
+[2020.04.01-07.42.05:079][245]LogModuleManager: Shutting down and abandoning module LevelEditor (289)
+[2020.04.01-07.42.05:108][245]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (288)
+[2020.04.01-07.42.05:144][245]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (286)
+[2020.04.01-07.42.05:144][245]LogModuleManager: Shutting down and abandoning module MainFrame (284)
+[2020.04.01-07.42.05:145][245]LogModuleManager: Shutting down and abandoning module HotReload (283)
+[2020.04.01-07.42.05:156][245]LogModuleManager: Shutting down and abandoning module ContentBrowser (279)
+[2020.04.01-07.42.05:159][245]LogModuleManager: Shutting down and abandoning module TreeMap (277)
+[2020.04.01-07.42.05:164][245]LogModuleManager: Shutting down and abandoning module AnimationSharing (274)
+[2020.04.01-07.42.05:164][245]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (272)
+[2020.04.01-07.42.05:164][245]LogModuleManager: Shutting down and abandoning module Paper2D (270)
+[2020.04.01-07.42.05:174][245]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (268)
+[2020.04.01-07.42.05:201][245]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (266)
+[2020.04.01-07.42.05:214][245]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (264)
+[2020.04.01-07.42.05:214][245]LogModuleManager: Shutting down and abandoning module PacketHandler (262)
+[2020.04.01-07.42.05:214][245]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
+[2020.04.01-07.42.05:214][245]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
+[2020.04.01-07.42.05:277][245]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
+[2020.04.01-07.42.05:283][245]LogModuleManager: Shutting down and abandoning module Overlay (254)
+[2020.04.01-07.42.05:283][245]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
+[2020.04.01-07.42.05:283][245]LogModuleManager: Shutting down and abandoning module VREditor (250)
+[2020.04.01-07.42.05:357][245]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
+[2020.04.01-07.42.05:471][245]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
+[2020.04.01-07.42.05:492][245]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
+[2020.04.01-07.42.05:516][245]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
+[2020.04.01-07.42.05:527][245]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
+[2020.04.01-07.42.05:540][245]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
+[2020.04.01-07.42.05:552][245]LogModuleManager: Shutting down and abandoning module UMG (236)
+[2020.04.01-07.42.05:559][245]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
+[2020.04.01-07.42.05:559][245]LogModuleManager: Shutting down and abandoning module MessageLog (233)
+[2020.04.01-07.42.05:559][245]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2020.04.01-07.42.05:582][245]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2020.04.01-07.42.05:582][245]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2020.04.01-07.42.05:582][245]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (222)
+[2020.04.01-07.42.05:582][245]LogModuleManager: Shutting down and abandoning module UnrealEd (220)
+[2020.04.01-07.42.05:592][245]LogModuleManager: Shutting down and abandoning module MRMesh (218)
+[2020.04.01-07.42.05:592][245]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (216)
+[2020.04.01-07.42.05:592][245]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (214)
+[2020.04.01-07.42.05:602][245]LogModuleManager: Shutting down and abandoning module XAudio2 (212)
+[2020.04.01-07.42.05:614][245]LogModuleManager: Shutting down and abandoning module Networking (210)
+[2020.04.01-07.42.05:614][245]LogModuleManager: Shutting down and abandoning module Core (208)
+[2020.04.01-07.42.05:614][245]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
+[2020.04.01-07.42.05:620][245]LogModuleManager: Shutting down and abandoning module CurveEditor (205)
+[2020.04.01-07.42.05:631][245]LogModuleManager: Shutting down and abandoning module Sequencer (203)
+[2020.04.01-07.42.05:678][245]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2020.04.01-07.42.05:680][245]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2020.04.01-07.42.05:680][245]LogModuleManager: Shutting down and abandoning module MeshUtilities (196)
+[2020.04.01-07.42.05:735][245]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (195)
+[2020.04.01-07.42.05:744][245]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (194)
+[2020.04.01-07.42.05:744][245]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (193)
+[2020.04.01-07.42.05:747][245]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (191)
+[2020.04.01-07.42.05:756][245]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (189)
+[2020.04.01-07.42.05:772][245]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (187)
+[2020.04.01-07.42.05:777][245]LogModuleManager: Shutting down and abandoning module MaterialBaking (183)
+[2020.04.01-07.42.05:787][245]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (178)
+[2020.04.01-07.42.05:787][245]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2020.04.01-07.42.05:787][245]LogDerivedDataCache: Shutdown
+[2020.04.01-07.42.05:787][245]LogModuleManager: Shutting down and abandoning module XGEController (174)
+[2020.04.01-07.42.05:787][245]LogXGEController: Cleaning working directory: C:/Users/adria/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.01-07.42.05:787][245]LogModuleManager: Shutting down and abandoning module TargetPlatform (172)
+[2020.04.01-07.42.05:787][245]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (171)
+[2020.04.01-07.42.05:794][245]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (169)
+[2020.04.01-07.42.05:798][245]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (167)
+[2020.04.01-07.42.05:806][245]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (165)
+[2020.04.01-07.42.05:806][245]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (163)
+[2020.04.01-07.42.05:824][245]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2020.04.01-07.42.05:824][245]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2020.04.01-07.42.05:824][245]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (157)
+[2020.04.01-07.42.05:824][245]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (155)
+[2020.04.01-07.42.05:824][245]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (153)
+[2020.04.01-07.42.05:824][245]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2020.04.01-07.42.05:824][245]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (149)
+[2020.04.01-07.42.05:824][245]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2020.04.01-07.42.05:830][245]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2020.04.01-07.42.05:830][245]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2020.04.01-07.42.05:839][245]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2020.04.01-07.42.05:840][245]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2020.04.01-07.42.05:840][245]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2020.04.01-07.42.05:840][245]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2020.04.01-07.42.05:840][245]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (133)
+[2020.04.01-07.42.05:856][245]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2020.04.01-07.42.05:873][245]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (129)
+[2020.04.01-07.42.05:873][245]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (127)
+[2020.04.01-07.42.05:873][245]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (125)
+[2020.04.01-07.42.05:886][245]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.04.01-07.42.05:886][245]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.04.01-07.42.05:890][245]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.04.01-07.42.05:890][245]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.04.01-07.42.05:890][245]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.04.01-07.42.05:893][245]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2020.04.01-07.42.05:920][245]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (111)
+[2020.04.01-07.42.05:920][245]LogModuleManager: Shutting down and abandoning module InputCore (108)
+[2020.04.01-07.42.05:920][245]LogModuleManager: Shutting down and abandoning module Settings (106)
+[2020.04.01-07.42.05:920][245]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (104)
+[2020.04.01-07.42.05:920][245]LogModuleManager: Shutting down and abandoning module PhysXCooking (102)
+[2020.04.01-07.42.05:920][245]LogModuleManager: Shutting down and abandoning module ChaosSolvers (100)
+[2020.04.01-07.42.05:960][245]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (99)
+[2020.04.01-07.42.05:960][245]LogModuleManager: Shutting down and abandoning module Chaos (96)
+[2020.04.01-07.42.05:960][245]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (94)
+[2020.04.01-07.42.05:961][245]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (93)
+[2020.04.01-07.42.05:967][245]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (90)
+[2020.04.01-07.42.05:967][245]LogModuleManager: Shutting down and abandoning module SteamVRInput (88)
+[2020.04.01-07.42.05:967][245]LogModuleManager: Shutting down and abandoning module SteamVR (86)
+[2020.04.01-07.42.05:980][245]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.01-07.42.05:980][245]LogModuleManager: Shutting down and abandoning module OculusHMD (84)
+[2020.04.01-07.42.06:012][245]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2020.04.01-07.42.06:012][245]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
+[2020.04.01-07.42.06:012][245]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (78)
+[2020.04.01-07.42.06:012][245]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (74)
+[2020.04.01-07.42.06:021][245]LogModuleManager: Shutting down and abandoning module XMPP (69)
+[2020.04.01-07.42.06:027][245]LogModuleManager: Shutting down and abandoning module WebSockets (68)
+[2020.04.01-07.42.06:049][245]LogModuleManager: Shutting down and abandoning module HTTP (65)
+[2020.04.01-07.42.06:050][245]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.01-07.42.06:050][245]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE0416D0D-4719-4640-439E-9FA5060BCF3D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=da6927fd405052977c2edabf6ae98614%7C3761119a89f64449a3b3123981d75d50%7C3bfdaab8-7afa-47e8-9a3c-ce17dc053bfd&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.04.01-07.42.06:060][245]LogModuleManager: Shutting down and abandoning module SSL (64)
+[2020.04.01-07.42.06:062][245]LogModuleManager: Shutting down and abandoning module WmfMedia (60)
+[2020.04.01-07.42.06:076][245]LogModuleManager: Shutting down and abandoning module Media (59)
+[2020.04.01-07.42.06:077][245]LogModuleManager: Shutting down and abandoning module MagicLeap (56)
+[2020.04.01-07.42.06:077][245]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.04.01-07.42.06:077][245]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.04.01-07.42.06:077][245]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.04.01-07.42.06:077][245]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.04.01-07.42.06:077][245]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2020.04.01-07.42.06:077][245]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.04.01-07.42.06:087][245]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.04.01-07.42.06:087][245]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.01-07.42.06:087][245]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.01-07.42.06:094][245]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.01-07.42.06:094][245]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.01-07.42.06:117][245]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.01-07.42.06:117][245]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.01-07.42.06:117][245]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.01-07.42.06:117][245]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.01-07.42.06:135][245]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.01-07.42.06:145][245]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.01-07.42.06:145][245]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.01-07.42.06:154][245]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.01-07.42.06:164][245]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.01-07.42.06:164][245]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.01-07.42.06:164][245]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.01-07.42.06:222][245]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.01-07.42.06:222][245]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.01-07.42.06:227][245]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.01-07.42.06:236][245]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.01-07.42.06:236][245]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.01-07.42.06:269][245]LogD3D11RHI: Shutdown
+[2020.04.01-07.42.06:269][245]LogD3D11RHI: CleanupD3DDevice
+[2020.04.01-07.42.06:338][245]LogExit: Exiting.
+[2020.04.01-07.42.06:364][245]Log file closed, 04/01/20 09:42:06
