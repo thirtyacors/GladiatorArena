@@ -6293,3 +6293,663 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.01-15.22.30:193][332]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.04.01-15.22.31:465][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
 [2020.04.01-15.22.36:276][455]LogSlate: Window 'Save Content' being destroyed
+[2020.04.01-15.23.25:785][730]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-15.30.10:991][937]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-15.32.39:617][380]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-15.32.45:023][396]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.01-15.35.03:468][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.04.01-15.35.08:605][245]LogSlate: Window 'Save Content' being destroyed
+[2020.04.01-15.35.09:349][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_stump_M_qdyf7_2K_Albed18AEBC9E488B4833B4609D940FB391D0.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Mossy_Tree_Stump_00/Aset_wood_stump_M_qdyf7_2K_Albedo.uasset'
+[2020.04.01-15.35.09:781][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_stump_M_qdyf7_2K_Cavit0B883CB74FCF2E523359ED9F680A1CED.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Mossy_Tree_Stump_00/Aset_wood_stump_M_qdyf7_2K_Cavity.uasset'
+[2020.04.01-15.35.10:635][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_stump_M_qdyf7_2K_NormaAB0166444D11F03A0A019EAAD327CC34.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Mossy_Tree_Stump_00/Aset_wood_stump_M_qdyf7_2K_Normal_LOD0.uasset'
+[2020.04.01-15.35.11:028][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_stump_M_qdyf7_2K_RoughA8B5EE3B415A49E832D3C3813EAAE06D.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Mossy_Tree_Stump_00/Aset_wood_stump_M_qdyf7_2K_Roughness.uasset'
+[2020.04.01-15.35.11:174][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_stump_M_qdyf7_LOD00397D8204DC284010A66A6BDBF6BE9F6.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Mossy_Tree_Stump_00/Aset_wood_stump_M_qdyf7_LOD0.uasset'
+[2020.04.01-15.35.11:239][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Mossy_Tree_Stump_00_inst922C0B1D45453EF40FED17A5B4864D67.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Mossy_Tree_Stump_00/Mossy_Tree_Stump_00_inst.uasset'
+[2020.04.01-15.35.11:247][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Assets/Small_Rock_00/Small_Rock_00_inst" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/Small_Rock_00_inst.uasset" SILENT=true
+[2020.04.01-15.35.11:254][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Small_Rock_00_inst4C2260A74A7EB65504D52BBFE71A1579.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/Small_Rock_00_inst.uasset'
+[2020.04.01-15.35.11:262][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Albedo" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Albedo.uasset" SILENT=true
+[2020.04.01-15.35.11:722][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglaceiw_2K_AlbedoA949DFCA4E2C1C3603054BB808C9B83B.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Albedo.uasset'
+[2020.04.01-15.35.11:730][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_AO" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_AO.uasset" SILENT=true
+[2020.04.01-15.35.12:093][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglaceiw_2K_AO625CC2EE4B943037C638F78915B27029.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_AO.uasset'
+[2020.04.01-15.35.12:101][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Cavity" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Cavity.uasset" SILENT=true
+[2020.04.01-15.35.12:497][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglaceiw_2K_CavityD77C046146D2F72E714458BA541560A1.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Cavity.uasset'
+[2020.04.01-15.35.13:110][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglaceiw_2K_Normal_LOD0A03943DD4F9FEE657CF2C8B5F2B7BEB2.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Normal_LOD0.uasset'
+[2020.04.01-15.35.13:418][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglaceiw_2K_Roughness655D301547508F9E48C689999976F8E4.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Roughness.uasset'
+[2020.04.01-15.35.13:426][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Assets/Small_Rock_00/ubglaceiw_LOD0" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/ubglaceiw_LOD0.uasset" SILENT=true
+[2020.04.01-15.35.13:491][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglaceiw_LOD0E8C914E04C3E941440DB08B30A7B72A8.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Small_Rock_00/ubglaceiw_LOD0.uasset'
+[2020.04.01-15.35.13:499][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Albedo" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Albedo.uasset" SILENT=true
+[2020.04.01-15.35.14:215][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rlCaz_2K_AlbedoD63E639646368D0CB42655B12686ACD0.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Albedo.uasset'
+[2020.04.01-15.35.14:222][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Cavity" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Cavity.uasset" SILENT=true
+[2020.04.01-15.35.14:662][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rlCaz_2K_CavityC7AED1F64067BBF09D9AE09594525EA3.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Cavity.uasset'
+[2020.04.01-15.35.15:517][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rlCaz_2K_Normal_LOD08DE95E7340EEBAE7668A4E955E3C3470.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Normal_LOD0.uasset'
+[2020.04.01-15.35.15:911][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rlCaz_2K_Roughness25D36DC7466A2F8C9DEF1D9E0C64EA0A.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Roughness.uasset'
+[2020.04.01-15.35.15:919][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_LOD0" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_LOD0.uasset" SILENT=true
+[2020.04.01-15.35.16:301][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rlCaz_LOD0EEEBD55C44829F4E2CF7F7961539817E.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_LOD0.uasset'
+[2020.04.01-15.35.16:309][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Assets/Wood_Log_00/Wood_Log_00_inst" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Log_00/Wood_Log_00_inst.uasset" SILENT=true
+[2020.04.01-15.35.16:316][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Wood_Log_00_instD6FEB96F4C4E6696C9C4F9A47A47751A.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Log_00/Wood_Log_00_inst.uasset'
+[2020.04.01-15.35.17:026][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_root_M_rkswd_2K_Albedo5F239F5C456927A3F9178D868138B4D9.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Root_00/Aset_wood_root_M_rkswd_2K_Albedo.uasset'
+[2020.04.01-15.35.17:488][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_root_M_rkswd_2K_CavityF820F1194DC17FCDB91FC1A9AE95906E.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Root_00/Aset_wood_root_M_rkswd_2K_Cavity.uasset'
+[2020.04.01-15.35.18:360][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_root_M_rkswd_2K_NormalC5167EBA4452427343DFA897B010086F.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Root_00/Aset_wood_root_M_rkswd_2K_Normal_LOD0.uasset'
+[2020.04.01-15.35.18:750][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_root_M_rkswd_2K_RoughnBFCDD581475C61D9D02ED79978FC0AF7.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Root_00/Aset_wood_root_M_rkswd_2K_Roughness.uasset'
+[2020.04.01-15.35.18:983][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_root_M_rkswd_LOD0EFE4F4FB44F73197BB83E9A1F4F95B38.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Root_00/Aset_wood_root_M_rkswd_LOD0.uasset'
+[2020.04.01-15.35.18:991][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Assets/Wood_Root_00/Wood_Root_00_inst" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Root_00/Wood_Root_00_inst.uasset" SILENT=true
+[2020.04.01-15.35.18:998][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Wood_Root_00_instE5DEFC5341D31B7E65CEC8BDEBA35808.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Assets/Wood_Root_00/Wood_Root_00_inst.uasset'
+[2020.04.01-15.35.19:463][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Albedo36C738A74F53AEE0F348E0BACE917179.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Albedo.uasset'
+[2020.04.01-15.35.19:780][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_AO43176CEE44A99D56EE5409BCE0939145.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_AO.uasset'
+[2020.04.01-15.35.20:134][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Gloss0135B65F4E5C21B65CF7C0B64D2BF07A.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Gloss.uasset'
+[2020.04.01-15.35.20:683][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Normal4563AE9C4058EED37038179A29DBD770.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Normal.uasset'
+[2020.04.01-15.35.20:859][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_OpacityF21AF9274B16C42F73D933A46D610A9F.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Opacity.uasset'
+[2020.04.01-15.35.21:177][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Roughness5F10544240B14AF6507D36B3DEF885C5.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Roughness.uasset'
+[2020.04.01-15.35.21:620][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Translucency6F4B809D4E504199A51F068B27AE8DBB.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Translucency.uasset'
+[2020.04.01-15.35.21:635][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Grass_Clumps_00_billboard_inst0F07CF944B71AE5A2F1BCBA7E37B4589.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Billboards/Grass_Clumps_00_billboard_inst.uasset'
+[2020.04.01-15.35.21:648][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var1_LOD0_1DA6A321E4D2DF7EA01B171B78E248A6D.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Foliage/Var1_LOD0_1.uasset'
+[2020.04.01-15.35.21:662][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var2_LOD0_28EDD6AEC4E67DFA1CFA215981B9E4E7D.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Foliage/Var2_LOD0_2.uasset'
+[2020.04.01-15.35.21:677][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var3_LOD0_36F984DC0498F7E13487C06A6E46DB4DE.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Foliage/Var3_LOD0_3.uasset'
+[2020.04.01-15.35.21:691][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Grass_Clumps_00_inst114EED664685B4A33A9650B9DF78995A.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Grass_Clumps_00_inst.uasset'
+[2020.04.01-15.35.21:698][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Albedo" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Albedo.uasset" SILENT=true
+[2020.04.01-15.35.21:949][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbikD_2K_AlbedoF605AC884F35E1E18F6F0B809835C36A.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Albedo.uasset'
+[2020.04.01-15.35.21:963][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Bump" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Bump.uasset" SILENT=true
+[2020.04.01-15.35.22:118][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbikD_2K_Bump88D181D3430CEDE53E23129BE2158550.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Bump.uasset'
+[2020.04.01-15.35.22:297][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbikD_2K_Displacement5270EE924E912872CBC98B9A8E4AD9DD.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Displacement.uasset'
+[2020.04.01-15.35.22:309][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Gloss" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Gloss.uasset" SILENT=true
+[2020.04.01-15.35.22:510][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbikD_2K_GlossC8B477344BA42BE32AF22D9F44F246BF.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Gloss.uasset'
+[2020.04.01-15.35.22:517][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Normal" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Normal.uasset" SILENT=true
+[2020.04.01-15.35.22:748][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbikD_2K_Normal80EEBBC04C85427E4B392FA994F7D6F9.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Normal.uasset'
+[2020.04.01-15.35.22:756][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Opacity" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Opacity.uasset" SILENT=true
+[2020.04.01-15.35.22:907][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbikD_2K_Opacity2C6BC13B4CBBF2CDD88250B4A5DCF0DA.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Opacity.uasset'
+[2020.04.01-15.35.23:102][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbikD_2K_Roughness90DBB9534E76AF395862B38D37069FA4.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Roughness.uasset'
+[2020.04.01-15.35.23:115][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Specular" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Specular.uasset" SILENT=true
+[2020.04.01-15.35.23:236][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbikD_2K_SpecularD63693DA49F47D7C181511B609CCD047.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Specular.uasset'
+[2020.04.01-15.35.23:532][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbikD_2K_Translucency63A839A74F4CBE698747428AA363A85F.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Translucency.uasset'
+[2020.04.01-15.35.23:539][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Grass_Clumps_00/Var1_LOD0_1" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Var1_LOD0_1.uasset" SILENT=true
+[2020.04.01-15.35.23:631][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var1_LOD0_13604841A4494DBF0C41942A4DA480138.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Var1_LOD0_1.uasset'
+[2020.04.01-15.35.23:639][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Grass_Clumps_00/Var2_LOD0_2" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Var2_LOD0_2.uasset" SILENT=true
+[2020.04.01-15.35.23:689][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var2_LOD0_2EE903C8E41DBFD0F0ABC0C9999B320A2.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Var2_LOD0_2.uasset'
+[2020.04.01-15.35.23:698][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Grass_Clumps_00/Var3_LOD0_3" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Var3_LOD0_3.uasset" SILENT=true
+[2020.04.01-15.35.23:768][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var3_LOD0_30758F92E4B88B597ADA17C94A266F724.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Grass_Clumps_00/Var3_LOD0_3.uasset'
+[2020.04.01-15.35.24:194][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Albedo7EB34FE94F3CF59CF72331829EA27A41.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Albedo.uasset'
+[2020.04.01-15.35.24:497][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_AO7CFC031D43C8176370D402B0A9E24EF6.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_AO.uasset'
+[2020.04.01-15.35.24:840][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Gloss9E064EF240F3563EE3234CBC444A78C6.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Gloss.uasset'
+[2020.04.01-15.35.25:372][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_NormalE9B6058C4097023BB2652A84DB543B80.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Normal.uasset'
+[2020.04.01-15.35.25:552][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_OpacityAF471C4B43131155F45A8BB3F29F5761.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Opacity.uasset'
+[2020.04.01-15.35.25:860][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Roughness5BDB724F4EF955CC6803548199364B45.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Roughness.uasset'
+[2020.04.01-15.35.26:295][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_TranslucencyF37102B1477E688D9D0B0AA58BFD878E.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Translucency.uasset'
+[2020.04.01-15.35.26:313][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Tall_Grass_00_billboard_inst415DAB0F4B55A969799A54AA7903B0D4.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Billboards/Tall_Grass_00_billboard_inst.uasset'
+[2020.04.01-15.35.26:321][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/Foliage/Var1_LOD0_1" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Foliage/Var1_LOD0_1.uasset" SILENT=true
+[2020.04.01-15.35.26:327][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var1_LOD0_172443067428992BF0CB467A4AAD5D7D5.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Foliage/Var1_LOD0_1.uasset'
+[2020.04.01-15.35.26:335][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/Foliage/Var2_LOD0_2" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Foliage/Var2_LOD0_2.uasset" SILENT=true
+[2020.04.01-15.35.26:341][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var2_LOD0_2D8CD736B466C189DFE374BA2862BA597.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Foliage/Var2_LOD0_2.uasset'
+[2020.04.01-15.35.26:348][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/Foliage/Var3_LOD0_3" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Foliage/Var3_LOD0_3.uasset" SILENT=true
+[2020.04.01-15.35.26:355][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var3_LOD0_349F2FF9A40D154999E4C78B07722EEAD.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Foliage/Var3_LOD0_3.uasset'
+[2020.04.01-15.35.26:362][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Albedo" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Albedo.uasset" SILENT=true
+[2020.04.01-15.35.26:617][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbtjS_2K_AlbedoE6BB3A1148CBC9A553C315B6E0E79E8E.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Albedo.uasset'
+[2020.04.01-15.35.26:624][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Bump" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Bump.uasset" SILENT=true
+[2020.04.01-15.35.26:784][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbtjS_2K_Bump58D5943647EDF058780AD28B045E01EB.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Bump.uasset'
+[2020.04.01-15.35.26:946][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbtjS_2K_Displacement59EE34B5442FD07A4D5E7C98486F5113.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Displacement.uasset'
+[2020.04.01-15.35.26:953][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Gloss" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Gloss.uasset" SILENT=true
+[2020.04.01-15.35.27:151][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbtjS_2K_Gloss2B40658D44DB875F5FEDEE899BC2FE51.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Gloss.uasset'
+[2020.04.01-15.35.27:158][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Normal" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Normal.uasset" SILENT=true
+[2020.04.01-15.35.27:403][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbtjS_2K_Normal75D4D58E42F6EED538959EA54F7113CA.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Normal.uasset'
+[2020.04.01-15.35.27:410][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Opacity" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Opacity.uasset" SILENT=true
+[2020.04.01-15.35.27:564][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbtjS_2K_Opacity62140A42458EB289C79976B668E35F59.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Opacity.uasset'
+[2020.04.01-15.35.27:571][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Roughness" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Roughness.uasset" SILENT=true
+[2020.04.01-15.35.27:765][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbtjS_2K_Roughness004704AA490FFBCF874CCBB7EBAD47CD.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Roughness.uasset'
+[2020.04.01-15.35.27:772][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Specular" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Specular.uasset" SILENT=true
+[2020.04.01-15.35.27:892][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbtjS_2K_Specular00F84CC64D885D288702DC808356CB84.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Specular.uasset'
+[2020.04.01-15.35.28:200][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/rbtjS_2K_Translucency33A82EBA4213E9FB08AEC0A844B35AB6.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Translucency.uasset'
+[2020.04.01-15.35.28:207][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/Tall_Grass_00_inst" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Tall_Grass_00_inst.uasset" SILENT=true
+[2020.04.01-15.35.28:213][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Tall_Grass_00_instEB568A82461FC6D7026F5BA294D7D71D.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Tall_Grass_00_inst.uasset'
+[2020.04.01-15.35.28:220][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/Var1_LOD0_1" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Var1_LOD0_1.uasset" SILENT=true
+[2020.04.01-15.35.28:242][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var1_LOD0_18CD9811D4ABA7AD6A01DBEBF95ABCA71.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Var1_LOD0_1.uasset'
+[2020.04.01-15.35.28:249][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Tall_Grass_00/Var2_LOD0_2" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Var2_LOD0_2.uasset" SILENT=true
+[2020.04.01-15.35.28:273][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var2_LOD0_233B55D5548C37B4F141D25A735F46A9C.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Tall_Grass_00/Var2_LOD0_2.uasset'
+[2020.04.01-15.35.28:650][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Albedo92859373426AAAA6CBFBB6999C8CB652.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Albedo.uasset'
+[2020.04.01-15.35.28:984][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_AO6DD1D1E3487517CE96AB1FB35F3349F4.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_AO.uasset'
+[2020.04.01-15.35.29:254][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Bump51345B9346A3C46D5E447A9286C67781.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Bump.uasset'
+[2020.04.01-15.35.29:561][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Cavity33E5C0964FA400B8DEF56683DE2FAE0B.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Cavity.uasset'
+[2020.04.01-15.35.29:885][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_DisplacementE8045B3B41D61C0F281FEAAD31C7BB8C.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Displacement.uasset'
+[2020.04.01-15.35.30:204][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Gloss612685FE421883C7C3819BAF4E4D4882.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Gloss.uasset'
+[2020.04.01-15.35.30:657][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Normal76613C61493FB2AB75C58FA63D592673.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Normal.uasset'
+[2020.04.01-15.35.30:849][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_OpacityDC93883245E41D17981F23834D335154.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Opacity.uasset'
+[2020.04.01-15.35.31:146][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Roughness7BC9D9AA4824463C0C00799969CD4948.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Roughness.uasset'
+[2020.04.01-15.35.31:435][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Specular0CDE9CBD494F870D08E43E9167B7E624.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Specular.uasset'
+[2020.04.01-15.35.31:816][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Billboard_2K_Translucency47C7F6064D9C482CE0A5F88B572B077B.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Translucency.uasset'
+[2020.04.01-15.35.31:830][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Wheat_Grass_00_billboard_inst27D251714B7D5CBA806E11AE7C028614.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Billboards/Wheat_Grass_00_billboard_inst.uasset'
+[2020.04.01-15.35.31:844][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var1_LOD0_1598CB1D84B85427DD1BC128F4319B744.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var1_LOD0_1.uasset'
+[2020.04.01-15.35.31:858][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var2_LOD0_2FA4E4B8D493F35D2C07133BA2CD19FD7.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var2_LOD0_2.uasset'
+[2020.04.01-15.35.31:870][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var3_LOD0_3EC72622D43780E2D07E28E8D52411AEB.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var3_LOD0_3.uasset'
+[2020.04.01-15.35.31:883][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var4_LOD0_4E2381A67413119A29737888244B2DEEC.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var4_LOD0_4.uasset'
+[2020.04.01-15.35.31:897][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var5_LOD0_586F2E47240AB49B51957E6A22C516B45.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var5_LOD0_5.uasset'
+[2020.04.01-15.35.31:911][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var6_LOD0_68A7DDAEF4CE500496C4483B3A5668055.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var6_LOD0_6.uasset'
+[2020.04.01-15.35.31:917][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Albedo" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Albedo.uasset" SILENT=true
+[2020.04.01-15.35.32:263][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_AlbedoFD2A41D54C716A89CBC7E4B5808010ED.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Albedo.uasset'
+[2020.04.01-15.35.32:270][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_AO" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_AO.uasset" SILENT=true
+[2020.04.01-15.35.32:531][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_AO9CE97856441E442F5DDB45AE009734AA.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_AO.uasset'
+[2020.04.01-15.35.32:538][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Bump" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Bump.uasset" SILENT=true
+[2020.04.01-15.35.32:885][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_Bump3BED6D254AB3276D7D3D428DEE9EBE3A.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Bump.uasset'
+[2020.04.01-15.35.32:892][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Cavity" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Cavity.uasset" SILENT=true
+[2020.04.01-15.35.33:152][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_Cavity361F150B4D7EFE64288A60A6E19EA8C6.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Cavity.uasset'
+[2020.04.01-15.35.33:422][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_Displacement822C576E482D4D0889457BAB22A138F6.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Displacement.uasset'
+[2020.04.01-15.35.33:429][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Gloss" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Gloss.uasset" SILENT=true
+[2020.04.01-15.35.33:712][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_Gloss606FA74D4AA9EBA6DCC2F8AA5AF6A1C9.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Gloss.uasset'
+[2020.04.01-15.35.33:719][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Normal" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Normal.uasset" SILENT=true
+[2020.04.01-15.35.34:191][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_Normal789C3F9C426C0A1C4B42618F767E89F4.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Normal.uasset'
+[2020.04.01-15.35.34:198][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Opacity" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Opacity.uasset" SILENT=true
+[2020.04.01-15.35.34:344][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_Opacity555C10BD45D12FECC4CF2F866103F09A.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Opacity.uasset'
+[2020.04.01-15.35.34:628][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_RoughnessB3E2F6D4487892EE94DB9792C83AD67A.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Roughness.uasset'
+[2020.04.01-15.35.34:884][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_SpecularECD0DBE94DACDD4BE365A3A6197D7827.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Specular.uasset'
+[2020.04.01-15.35.35:226][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/sl2npfp_2K_TranslucencyF0C40EC3428A18C432E3D4B4848DCEA3.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Translucency.uasset'
+[2020.04.01-15.35.35:232][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/Var1_LOD0_1" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var1_LOD0_1.uasset" SILENT=true
+[2020.04.01-15.35.35:319][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var1_LOD0_12E29E8A34CCDAFABA741C3BE4A24211B.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var1_LOD0_1.uasset'
+[2020.04.01-15.35.35:325][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/Var2_LOD0_2" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var2_LOD0_2.uasset" SILENT=true
+[2020.04.01-15.35.35:364][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var2_LOD0_2E8AF551647DD2710B1F566BC9B6AD021.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var2_LOD0_2.uasset'
+[2020.04.01-15.35.35:371][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/Var3_LOD0_3" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var3_LOD0_3.uasset" SILENT=true
+[2020.04.01-15.35.35:402][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var3_LOD0_357E60E1841D3C8C83CE44E8D9007C33D.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var3_LOD0_3.uasset'
+[2020.04.01-15.35.35:408][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/Var4_LOD0_4" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var4_LOD0_4.uasset" SILENT=true
+[2020.04.01-15.35.35:499][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var4_LOD0_43E0206254A5022DD3A0F2BACBD01A14E.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var4_LOD0_4.uasset'
+[2020.04.01-15.35.35:506][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/Var5_LOD0_5" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var5_LOD0_5.uasset" SILENT=true
+[2020.04.01-15.35.35:570][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var5_LOD0_5BEBFFC794981FF61A60BBCAD2FB5389C.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var5_LOD0_5.uasset'
+[2020.04.01-15.35.35:578][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3D_Plants/Wheat_Grass_00/Var6_LOD0_6" FILE="../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var6_LOD0_6.uasset" SILENT=true
+[2020.04.01-15.35.35:650][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Var6_LOD0_663499EFA46AA87A698C9F2B6C5567BF1.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Var6_LOD0_6.uasset'
+[2020.04.01-15.35.35:664][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Wheat_Grass_00_inst1F18C5CD40EF1B8DBC1C6DA730E3E05A.tmp' to '../../../../GladiatorArena/HnS/Content/Assets/3D_Plants/Wheat_Grass_00/Wheat_Grass_00_inst.uasset'
+[2020.04.01-15.35.35:669][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Church/ChurchBrick" FILE="../../../../GladiatorArena/HnS/Content/Church/ChurchBrick.uasset" SILENT=true
+[2020.04.01-15.35.36:309][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ChurchBrickDB43819A4E7A0A6B1D8DCAA90170EB1F.tmp' to '../../../../GladiatorArena/HnS/Content/Church/ChurchBrick.uasset'
+[2020.04.01-15.35.36:316][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_Creats/Textures/terra_1_Albedo" FILE="../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Textures/terra_1_Albedo.uasset" SILENT=true
+[2020.04.01-15.35.36:544][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/terra_1_Albedo90F6F44B493D6AFAE6F12498AA49DADB.tmp' to '../../../../GladiatorArena/HnS/Content/Materials/Materials_Creats/Textures/terra_1_Albedo.uasset'
+[2020.04.01-15.35.36:549][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MSPresets/Foliage_Material/Foliage_Material" FILE="../../../../GladiatorArena/HnS/Content/MSPresets/Foliage_Material/Foliage_Material.uasset" SILENT=true
+[2020.04.01-15.35.36:574][245]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Foliage_Material7656BC004C2568A3ABD3A895FC67F6B5.tmp' to '../../../../GladiatorArena/HnS/Content/MSPresets/Foliage_Material/Foliage_Material.uasset'
+[2020.04.01-15.35.36:726][245]LogSlate: Window 'HnS - Unreal Editor' being destroyed
+[2020.04.01-15.35.37:560][245]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Mossy_Tree_Stump_00/Aset_wood_stump_M_qdyf7_2K_Albedo.Aset_wood_stump_M_qdyf7_2K_Albedo
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Mossy_Tree_Stump_00/Aset_wood_stump_M_qdyf7_2K_Cavity.Aset_wood_stump_M_qdyf7_2K_Cavity
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Mossy_Tree_Stump_00/Aset_wood_stump_M_qdyf7_2K_Normal_LOD0.Aset_wood_stump_M_qdyf7_2K_Normal_LOD0
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Mossy_Tree_Stump_00/Aset_wood_stump_M_qdyf7_2K_Roughness.Aset_wood_stump_M_qdyf7_2K_Roughness
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Mossy_Tree_Stump_00/Aset_wood_stump_M_qdyf7_LOD0.Aset_wood_stump_M_qdyf7_LOD0
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Assets/Mossy_Tree_Stump_00/Mossy_Tree_Stump_00_inst.Mossy_Tree_Stump_00_inst
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Assets/Small_Rock_00/Small_Rock_00_inst.Small_Rock_00_inst
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Albedo.ubglaceiw_2K_Albedo
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_AO.ubglaceiw_2K_AO
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Cavity.ubglaceiw_2K_Cavity
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Normal_LOD0.ubglaceiw_2K_Normal_LOD0
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Small_Rock_00/ubglaceiw_2K_Roughness.ubglaceiw_2K_Roughness
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Small_Rock_00/ubglaceiw_LOD0.ubglaceiw_LOD0
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Albedo.Aset_rlCaz_2K_Albedo
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Cavity.Aset_rlCaz_2K_Cavity
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Normal_LOD0.Aset_rlCaz_2K_Normal_LOD0
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Roughness.Aset_rlCaz_2K_Roughness
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Wood_Log_00/Aset_rlCaz_LOD0.Aset_rlCaz_LOD0
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Assets/Wood_Log_00/Wood_Log_00_inst.Wood_Log_00_inst
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Wood_Root_00/Aset_wood_root_M_rkswd_2K_Albedo.Aset_wood_root_M_rkswd_2K_Albedo
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Wood_Root_00/Aset_wood_root_M_rkswd_2K_Cavity.Aset_wood_root_M_rkswd_2K_Cavity
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Wood_Root_00/Aset_wood_root_M_rkswd_2K_Normal_LOD0.Aset_wood_root_M_rkswd_2K_Normal_LOD0
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Assets/Wood_Root_00/Aset_wood_root_M_rkswd_2K_Roughness.Aset_wood_root_M_rkswd_2K_Roughness
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Assets/Wood_Root_00/Aset_wood_root_M_rkswd_LOD0.Aset_wood_root_M_rkswd_LOD0
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Assets/Wood_Root_00/Wood_Root_00_inst.Wood_Root_00_inst
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Albedo.Billboard_2K_Albedo
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_AO.Billboard_2K_AO
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Gloss.Billboard_2K_Gloss
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Normal.Billboard_2K_Normal
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Opacity.Billboard_2K_Opacity
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Roughness.Billboard_2K_Roughness
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/Billboards/Billboard_2K_Translucency.Billboard_2K_Translucency
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Plants/Grass_Clumps_00/Billboards/Grass_Clumps_00_billboard_inst.Grass_Clumps_00_billboard_inst
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Grass_Clumps_00/Foliage/Var1_LOD0_1.Var1_LOD0_1
+[2020.04.01-15.35.37:561][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Grass_Clumps_00/Foliage/Var2_LOD0_2.Var2_LOD0_2
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Grass_Clumps_00/Foliage/Var3_LOD0_3.Var3_LOD0_3
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Plants/Grass_Clumps_00/Grass_Clumps_00_inst.Grass_Clumps_00_inst
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Albedo.rbikD_2K_Albedo
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Bump.rbikD_2K_Bump
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Displacement.rbikD_2K_Displacement
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Gloss.rbikD_2K_Gloss
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Normal.rbikD_2K_Normal
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Opacity.rbikD_2K_Opacity
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Roughness.rbikD_2K_Roughness
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Specular.rbikD_2K_Specular
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Grass_Clumps_00/rbikD_2K_Translucency.rbikD_2K_Translucency
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Grass_Clumps_00/Var1_LOD0_1.Var1_LOD0_1
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Grass_Clumps_00/Var2_LOD0_2.Var2_LOD0_2
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Grass_Clumps_00/Var3_LOD0_3.Var3_LOD0_3
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Albedo.Billboard_2K_Albedo
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_AO.Billboard_2K_AO
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Gloss.Billboard_2K_Gloss
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Normal.Billboard_2K_Normal
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Opacity.Billboard_2K_Opacity
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Roughness.Billboard_2K_Roughness
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/Billboards/Billboard_2K_Translucency.Billboard_2K_Translucency
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Plants/Tall_Grass_00/Billboards/Tall_Grass_00_billboard_inst.Tall_Grass_00_billboard_inst
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Tall_Grass_00/Foliage/Var1_LOD0_1.Var1_LOD0_1
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Tall_Grass_00/Foliage/Var2_LOD0_2.Var2_LOD0_2
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Tall_Grass_00/Foliage/Var3_LOD0_3.Var3_LOD0_3
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Albedo.rbtjS_2K_Albedo
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Bump.rbtjS_2K_Bump
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Displacement.rbtjS_2K_Displacement
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Gloss.rbtjS_2K_Gloss
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Normal.rbtjS_2K_Normal
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Opacity.rbtjS_2K_Opacity
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Roughness.rbtjS_2K_Roughness
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Specular.rbtjS_2K_Specular
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Tall_Grass_00/rbtjS_2K_Translucency.rbtjS_2K_Translucency
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Plants/Tall_Grass_00/Tall_Grass_00_inst.Tall_Grass_00_inst
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Tall_Grass_00/Var1_LOD0_1.Var1_LOD0_1
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Tall_Grass_00/Var2_LOD0_2.Var2_LOD0_2
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Albedo.Billboard_2K_Albedo
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_AO.Billboard_2K_AO
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Bump.Billboard_2K_Bump
+[2020.04.01-15.35.37:562][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Cavity.Billboard_2K_Cavity
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Displacement.Billboard_2K_Displacement
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Gloss.Billboard_2K_Gloss
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Normal.Billboard_2K_Normal
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Opacity.Billboard_2K_Opacity
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Roughness.Billboard_2K_Roughness
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Specular.Billboard_2K_Specular
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Billboard_2K_Translucency.Billboard_2K_Translucency
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Plants/Wheat_Grass_00/Billboards/Wheat_Grass_00_billboard_inst.Wheat_Grass_00_billboard_inst
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var1_LOD0_1.Var1_LOD0_1
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var2_LOD0_2.Var2_LOD0_2
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var3_LOD0_3.Var3_LOD0_3
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var4_LOD0_4.Var4_LOD0_4
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var5_LOD0_5.Var5_LOD0_5
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Foliage/Var6_LOD0_6.Var6_LOD0_6
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Albedo.sl2npfp_2K_Albedo
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_AO.sl2npfp_2K_AO
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Bump.sl2npfp_2K_Bump
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Cavity.sl2npfp_2K_Cavity
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Displacement.sl2npfp_2K_Displacement
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Gloss.sl2npfp_2K_Gloss
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Normal.sl2npfp_2K_Normal
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Opacity.sl2npfp_2K_Opacity
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Roughness.sl2npfp_2K_Roughness
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Specular.sl2npfp_2K_Specular
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/3D_Plants/Wheat_Grass_00/sl2npfp_2K_Translucency.sl2npfp_2K_Translucency
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Var1_LOD0_1.Var1_LOD0_1
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Var2_LOD0_2.Var2_LOD0_2
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Var3_LOD0_3.Var3_LOD0_3
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Var4_LOD0_4.Var4_LOD0_4
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Var5_LOD0_5.Var5_LOD0_5
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3D_Plants/Wheat_Grass_00/Var6_LOD0_6.Var6_LOD0_6
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/3D_Plants/Wheat_Grass_00/Wheat_Grass_00_inst.Wheat_Grass_00_inst
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Church/ChurchBrick.ChurchBrick
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_Creats/Textures/terra_1_Albedo.terra_1_Albedo
+[2020.04.01-15.35.37:563][245]LogContentValidation: Display: Validating Material /Game/MSPresets/Foliage_Material/Foliage_Material.Foliage_Material
+[2020.04.01-15.35.37:566][246]Cmd: QUIT_EDITOR
+[2020.04.01-15.35.37:566][246]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.04.01-15.35.37:652][246]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.04.01-15.35.37:664][246]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-15.35.38:635][246]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.01-15.35.38:673][246]LogExit: Preparing to exit.
+[2020.04.01-15.35.38:865][246]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.04.01-15.35.39:409][246]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-15.35.39:409][246]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-15.35.39:409][246]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-15.35.39:410][246]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-15.35.39:410][246]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-15.35.39:492][246]LogDirectoryWatcher: A directory notification failed for 'D:/GladiatorArena/HnS/Content/', and we were unable to create a new request.
+[2020.04.01-15.35.39:509][246]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-15.35.39:637][246]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.01-15.35.39:747][246]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-15.35.39:752][246]LogExit: Editor shut down
+[2020.04.01-15.35.39:753][246]LogExit: Transaction tracking system shut down
+[2020.04.01-15.35.42:684][246]LogExit: Object subsystem successfully closed.
+[2020.04.01-15.35.42:917][246]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.01-15.35.45:037][246]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (714)
+[2020.04.01-15.35.45:037][246]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (712)
+[2020.04.01-15.35.45:049][246]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (710)
+[2020.04.01-15.35.45:049][246]LogModuleManager: Shutting down and abandoning module Voice (708)
+[2020.04.01-15.35.45:062][246]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (706)
+[2020.04.01-15.35.45:062][246]LogModuleManager: Shutting down and abandoning module SceneOutliner (704)
+[2020.04.01-15.35.45:062][246]LogModuleManager: Shutting down and abandoning module AddContentDialog (702)
+[2020.04.01-15.35.45:075][246]LogModuleManager: Shutting down and abandoning module WidgetCarousel (701)
+[2020.04.01-15.35.45:075][246]LogModuleManager: Shutting down and abandoning module EditorWidgets (698)
+[2020.04.01-15.35.45:075][246]LogModuleManager: Shutting down and abandoning module CollectionManager (696)
+[2020.04.01-15.35.45:093][246]LogModuleManager: Shutting down and abandoning module MeshBuilder (694)
+[2020.04.01-15.35.45:093][246]LogModuleManager: Shutting down and abandoning module StatsViewer (692)
+[2020.04.01-15.35.45:130][246]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (690)
+[2020.04.01-15.35.45:130][246]LogModuleManager: Shutting down and abandoning module FoliageEdit (688)
+[2020.04.01-15.35.45:130][246]LogModuleManager: Shutting down and abandoning module LandscapeEditor (686)
+[2020.04.01-15.35.45:158][246]LogModuleManager: Shutting down and abandoning module MeshPaintMode (684)
+[2020.04.01-15.35.45:158][246]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (682)
+[2020.04.01-15.35.45:158][246]LogModuleManager: Shutting down and abandoning module ActorPickerMode (680)
+[2020.04.01-15.35.45:158][246]LogModuleManager: Shutting down and abandoning module GeometryMode (678)
+[2020.04.01-15.35.45:158][246]LogModuleManager: Shutting down and abandoning module TextureAlignMode (676)
+[2020.04.01-15.35.45:158][246]LogModuleManager: Shutting down and abandoning module BspMode (674)
+[2020.04.01-15.35.45:158][246]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (672)
+[2020.04.01-15.35.45:191][246]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (670)
+[2020.04.01-15.35.45:191][246]LogModuleManager: Shutting down and abandoning module AutomationWorker (668)
+[2020.04.01-15.35.45:212][246]LogModuleManager: Shutting down and abandoning module SteamVREditor (666)
+[2020.04.01-15.35.45:213][246]LogModuleManager: Shutting down and abandoning module OculusMR (664)
+[2020.04.01-15.35.45:213][246]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (662)
+[2020.04.01-15.35.45:221][246]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (660)
+[2020.04.01-15.35.45:233][246]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (658)
+[2020.04.01-15.35.45:407][246]LogModuleManager: Shutting down and abandoning module PlacementMode (657)
+[2020.04.01-15.35.45:408][246]LogModuleManager: Shutting down and abandoning module MaterialEditor (656)
+[2020.04.01-15.35.45:408][246]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (652)
+[2020.04.01-15.35.45:420][246]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (650)
+[2020.04.01-15.35.45:420][246]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (648)
+[2020.04.01-15.35.45:420][246]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (646)
+[2020.04.01-15.35.45:420][246]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (644)
+[2020.04.01-15.35.45:420][246]LogModuleManager: Shutting down and abandoning module WebMMedia (642)
+[2020.04.01-15.35.45:430][246]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (640)
+[2020.04.01-15.35.45:445][246]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (638)
+[2020.04.01-15.35.45:469][246]LogModuleManager: Shutting down and abandoning module SequenceRecorder (637)
+[2020.04.01-15.35.45:470][246]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (634)
+[2020.04.01-15.35.45:470][246]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (632)
+[2020.04.01-15.35.45:470][246]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (630)
+[2020.04.01-15.35.45:479][246]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (628)
+[2020.04.01-15.35.45:479][246]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (626)
+[2020.04.01-15.35.45:479][246]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (624)
+[2020.04.01-15.35.45:479][246]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (622)
+[2020.04.01-15.35.45:479][246]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (620)
+[2020.04.01-15.35.45:479][246]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (618)
+[2020.04.01-15.35.45:479][246]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (616)
+[2020.04.01-15.35.45:479][246]LogModuleManager: Shutting down and abandoning module CharacterAI (614)
+[2020.04.01-15.35.45:479][246]LogModuleManager: Shutting down and abandoning module SmartSnapping (612)
+[2020.04.01-15.35.45:482][246]LogModuleManager: Shutting down and abandoning module SessionServices (610)
+[2020.04.01-15.35.45:482][246]LogModuleManager: Shutting down and abandoning module MeshPaint (608)
+[2020.04.01-15.35.45:490][246]LogModuleManager: Shutting down and abandoning module ViewportSnapping (606)
+[2020.04.01-15.35.45:490][246]LogModuleManager: Shutting down and abandoning module ViewportInteraction (604)
+[2020.04.01-15.35.45:490][246]LogModuleManager: Shutting down and abandoning module ClothPainter (602)
+[2020.04.01-15.35.45:519][246]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (601)
+[2020.04.01-15.35.45:520][246]LogModuleManager: Shutting down and abandoning module LogVisualizer (598)
+[2020.04.01-15.35.45:531][246]LogModuleManager: Shutting down and abandoning module IntroTutorials (596)
+[2020.04.01-15.35.45:538][246]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (595)
+[2020.04.01-15.35.45:567][246]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (592)
+[2020.04.01-15.35.45:567][246]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (590)
+[2020.04.01-15.35.45:573][246]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (588)
+[2020.04.01-15.35.45:573][246]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (587)
+[2020.04.01-15.35.46:770][246]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (584)
+[2020.04.01-15.35.46:770][246]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (582)
+[2020.04.01-15.35.46:770][246]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (580)
+[2020.04.01-15.35.46:770][246]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (578)
+[2020.04.01-15.35.46:770][246]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (576)
+[2020.04.01-15.35.46:770][246]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (574)
+[2020.04.01-15.35.46:784][246]LogModuleManager: Shutting down and abandoning module InputBindingEditor (572)
+[2020.04.01-15.35.46:793][246]LogModuleManager: Shutting down and abandoning module MergeActors (570)
+[2020.04.01-15.35.46:817][246]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (568)
+[2020.04.01-15.35.46:826][246]LogModuleManager: Shutting down and abandoning module LocalizationService (567)
+[2020.04.01-15.35.46:835][246]LogModuleManager: Shutting down and abandoning module HardwareTargeting (564)
+[2020.04.01-15.35.46:835][246]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (562)
+[2020.04.01-15.35.46:847][246]LogModuleManager: Shutting down and abandoning module UndoHistory (560)
+[2020.04.01-15.35.46:863][246]LogModuleManager: Shutting down and abandoning module XmlParser (558)
+[2020.04.01-15.35.46:873][246]LogModuleManager: Shutting down and abandoning module Blutility (556)
+[2020.04.01-15.35.46:873][246]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (554)
+[2020.04.01-15.35.46:873][246]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (553)
+[2020.04.01-15.35.46:884][246]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (550)
+[2020.04.01-15.35.46:885][246]LogModuleManager: Shutting down and abandoning module SettingsEditor (548)
+[2020.04.01-15.35.46:891][246]LogModuleManager: Shutting down and abandoning module ProjectLauncher (546)
+[2020.04.01-15.35.46:954][246]LogModuleManager: Shutting down and abandoning module SessionFrontend (544)
+[2020.04.01-15.35.46:969][246]LogModuleManager: Shutting down and abandoning module ProfilerClient (542)
+[2020.04.01-15.35.46:980][246]LogModuleManager: Shutting down and abandoning module DeviceManager (540)
+[2020.04.01-15.35.46:995][246]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (539)
+[2020.04.01-15.35.47:035][246]LogModuleManager: Shutting down and abandoning module AutomationController (536)
+[2020.04.01-15.35.47:044][246]LogModuleManager: Shutting down and abandoning module AutomationWindow (534)
+[2020.04.01-15.35.47:053][246]LogModuleManager: Shutting down and abandoning module Layers (532)
+[2020.04.01-15.35.47:081][246]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (530)
+[2020.04.01-15.35.47:081][246]LogModuleManager: Shutting down and abandoning module DetailCustomizations (528)
+[2020.04.01-15.35.47:089][246]LogModuleManager: Shutting down and abandoning module PackagesDialog (526)
+[2020.04.01-15.35.47:090][246]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (524)
+[2020.04.01-15.35.47:116][246]LogModuleManager: Shutting down and abandoning module Persona (522)
+[2020.04.01-15.35.47:136][246]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (521)
+[2020.04.01-15.35.47:136][246]LogModuleManager: Shutting down and abandoning module AnimGraph (519)
+[2020.04.01-15.35.47:142][246]LogModuleManager: Shutting down and abandoning module Kismet (516)
+[2020.04.01-15.35.47:164][246]LogModuleManager: Shutting down and abandoning module KismetWidgets (515)
+[2020.04.01-15.35.47:164][246]LogModuleManager: Shutting down and abandoning module GraphEditor (512)
+[2020.04.01-15.35.47:165][246]LogModuleManager: Shutting down and abandoning module StructViewer (510)
+[2020.04.01-15.35.47:313][246]LogModuleManager: Shutting down and abandoning module ClassViewer (508)
+[2020.04.01-15.35.47:313][246]LogModuleManager: Shutting down and abandoning module Toolbox (506)
+[2020.04.01-15.35.47:313][246]LogModuleManager: Shutting down and abandoning module ModuleUI (504)
+[2020.04.01-15.35.47:322][246]LogModuleManager: Shutting down and abandoning module OutputLog (502)
+[2020.04.01-15.35.47:340][246]LogModuleManager: Shutting down and abandoning module GammaUI (500)
+[2020.04.01-15.35.47:351][246]LogModuleManager: Shutting down and abandoning module Documentation (498)
+[2020.04.01-15.35.47:352][246]LogModuleManager: Shutting down and abandoning module ToolMenus (496)
+[2020.04.01-15.35.47:352][246]LogModuleManager: Shutting down and abandoning module LiveCoding (494)
+[2020.04.01-15.35.47:365][246]LogModuleManager: Shutting down and abandoning module LevelSequence (492)
+[2020.04.01-15.35.47:365][246]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (490)
+[2020.04.01-15.35.47:365][246]LogModuleManager: Shutting down and abandoning module MovieScene (488)
+[2020.04.01-15.35.47:370][246]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (486)
+[2020.04.01-15.35.47:379][246]LogModuleManager: Shutting down and abandoning module LauncherPlatform (484)
+[2020.04.01-15.35.47:379][246]LogModuleManager: Shutting down and abandoning module AnalyticsET (482)
+[2020.04.01-15.35.47:379][246]LogModuleManager: Shutting down and abandoning module PortalServices (480)
+[2020.04.01-15.35.47:379][246]LogModuleManager: Shutting down and abandoning module PortalRpc (478)
+[2020.04.01-15.35.47:379][246]LogModuleManager: Shutting down and abandoning module MessagingRpc (476)
+[2020.04.01-15.35.47:379][246]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (474)
+[2020.04.01-15.35.47:379][246]LogModuleManager: Shutting down and abandoning module AIModule (472)
+[2020.04.01-15.35.47:379][246]LogModuleManager: Shutting down and abandoning module GameplayDebugger (471)
+[2020.04.01-15.35.47:379][246]LogModuleManager: Shutting down and abandoning module AITestSuite (469)
+[2020.04.01-15.35.47:390][246]LogModuleManager: Shutting down and abandoning module NavigationSystem (467)
+[2020.04.01-15.35.47:390][246]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (464)
+[2020.04.01-15.35.47:394][246]LogModuleManager: Shutting down and abandoning module ProfilerService (462)
+[2020.04.01-15.35.47:555][246]LogModuleManager: Shutting down and abandoning module TaskGraph (460)
+[2020.04.01-15.35.47:556][246]LogModuleManager: Shutting down and abandoning module MegascansPlugin (458)
+[2020.04.01-15.35.47:556][246]LogModuleManager: Shutting down and abandoning module ScreenshotTools (456)
+[2020.04.01-15.35.47:556][246]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (454)
+[2020.04.01-15.35.47:556][246]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (452)
+[2020.04.01-15.35.47:556][246]LogModuleManager: Shutting down and abandoning module OculusEditor (450)
+[2020.04.01-15.35.47:556][246]LogModuleManager: Shutting down and abandoning module OculusInput (448)
+[2020.04.01-15.35.47:556][246]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (446)
+[2020.04.01-15.35.47:556][246]LogModuleManager: Shutting down and abandoning module EditableMesh (444)
+[2020.04.01-15.35.47:577][246]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (442)
+[2020.04.01-15.35.47:577][246]LogModuleManager: Shutting down and abandoning module CableComponent (440)
+[2020.04.01-15.35.47:577][246]LogModuleManager: Shutting down and abandoning module AudioCapture (438)
+[2020.04.01-15.35.47:577][246]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (437)
+[2020.04.01-15.35.47:577][246]LogModuleManager: Shutting down and abandoning module AssetTags (434)
+[2020.04.01-15.35.47:577][246]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (432)
+[2020.04.01-15.35.47:577][246]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (430)
+[2020.04.01-15.35.47:577][246]LogModuleManager: Shutting down and abandoning module AppleImageUtils (428)
+[2020.04.01-15.35.47:577][246]LogModuleManager: Shutting down and abandoning module AndroidPermission (426)
+[2020.04.01-15.35.47:577][246]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (424)
+[2020.04.01-15.35.47:579][246]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (422)
+[2020.04.01-15.35.47:590][246]LogModuleManager: Shutting down and abandoning module MediaCompositing (420)
+[2020.04.01-15.35.47:590][246]LogModuleManager: Shutting down and abandoning module ImgMedia (418)
+[2020.04.01-15.35.47:590][246]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (416)
+[2020.04.01-15.35.47:590][246]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (414)
+[2020.04.01-15.35.47:590][246]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (412)
+[2020.04.01-15.35.47:590][246]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (410)
+[2020.04.01-15.35.47:590][246]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (408)
+[2020.04.01-15.35.47:590][246]LogModuleManager: Shutting down and abandoning module BackChannel (406)
+[2020.04.01-15.35.47:598][246]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (404)
+[2020.04.01-15.35.47:598][246]LogModuleManager: Shutting down and abandoning module AutomationUtils (402)
+[2020.04.01-15.35.47:598][246]LogModuleManager: Shutting down and abandoning module AlembicImporter (400)
+[2020.04.01-15.35.47:605][246]LogModuleManager: Shutting down and abandoning module AlembicLibrary (399)
+[2020.04.01-15.35.47:612][246]LogModuleManager: Shutting down and abandoning module GeometryCache (398)
+[2020.04.01-15.35.47:612][246]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (397)
+[2020.04.01-15.35.47:612][246]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (392)
+[2020.04.01-15.35.47:617][246]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (390)
+[2020.04.01-15.35.47:628][246]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (388)
+[2020.04.01-15.35.47:628][246]LogModuleManager: Shutting down and abandoning module PluginBrowser (386)
+[2020.04.01-15.35.47:643][246]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (384)
+[2020.04.01-15.35.47:656][246]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (382)
+[2020.04.01-15.35.47:670][246]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (380)
+[2020.04.01-15.35.47:670][246]LogModuleManager: Shutting down and abandoning module CurveEditorTools (378)
+[2020.04.01-15.35.47:687][246]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (376)
+[2020.04.01-15.35.47:687][246]LogModuleManager: Shutting down and abandoning module CryptoKeys (374)
+[2020.04.01-15.35.47:687][246]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (372)
+[2020.04.01-15.35.47:696][246]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (370)
+[2020.04.01-15.35.47:696][246]LogModuleManager: Shutting down and abandoning module UObjectPlugin (368)
+[2020.04.01-15.35.47:696][246]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (366)
+[2020.04.01-15.35.47:701][246]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (364)
+[2020.04.01-15.35.47:715][246]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (362)
+[2020.04.01-15.35.47:738][246]LogModuleManager: Shutting down and abandoning module GitSourceControl (360)
+[2020.04.01-15.35.47:779][246]LogModuleManager: Shutting down and abandoning module SourceControl (359)
+[2020.04.01-15.35.47:779][246]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (356)
+[2020.04.01-15.35.47:801][246]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (354)
+[2020.04.01-15.35.47:801][246]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (352)
+[2020.04.01-15.35.47:801][246]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (350)
+[2020.04.01-15.35.47:801][246]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (348)
+[2020.04.01-15.35.47:801][246]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (346)
+[2020.04.01-15.35.47:801][246]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (344)
+[2020.04.01-15.35.47:802][246]LogModuleManager: Shutting down and abandoning module Paper2DEditor (342)
+[2020.04.01-15.35.47:812][246]LogModuleManager: Shutting down and abandoning module SignificanceManager (340)
+[2020.04.01-15.35.47:812][246]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (338)
+[2020.04.01-15.35.47:812][246]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (336)
+[2020.04.01-15.35.47:813][246]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (332)
+[2020.04.01-15.35.47:813][246]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2020.04.01-15.35.47:813][246]LogModuleManager: Shutting down and abandoning module UdpMessaging (328)
+[2020.04.01-15.35.47:914][246]LogModuleManager: Shutting down and abandoning module TcpMessaging (326)
+[2020.04.01-15.35.48:025][246]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (324)
+[2020.04.01-15.35.48:040][246]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (322)
+[2020.04.01-15.35.48:046][246]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.04.01-15.35.48:046][246]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (320)
+[2020.04.01-15.35.48:046][246]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (318)
+[2020.04.01-15.35.48:046][246]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (316)
+[2020.04.01-15.35.48:046][246]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (314)
+[2020.04.01-15.35.48:046][246]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (312)
+[2020.04.01-15.35.48:058][246]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (310)
+[2020.04.01-15.35.48:058][246]LogModuleManager: Shutting down and abandoning module MagicLeapController (308)
+[2020.04.01-15.35.48:065][246]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.01-15.35.48:066][246]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (306)
+[2020.04.01-15.35.48:066][246]LogModuleManager: Shutting down and abandoning module MagicLeapAR (304)
+[2020.04.01-15.35.48:066][246]LogModuleManager: Shutting down and abandoning module AugmentedReality (303)
+[2020.04.01-15.35.48:066][246]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (300)
+[2020.04.01-15.35.48:066][246]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (298)
+[2020.04.01-15.35.48:077][246]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (296)
+[2020.04.01-15.35.48:077][246]LogModuleManager: Shutting down and abandoning module FacialAnimation (294)
+[2020.04.01-15.35.48:077][246]LogModuleManager: Shutting down and abandoning module DataValidation (292)
+[2020.04.01-15.35.48:077][246]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (290)
+[2020.04.01-15.35.48:087][246]LogModuleManager: Shutting down and abandoning module LevelEditor (289)
+[2020.04.01-15.35.48:097][246]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (288)
+[2020.04.01-15.35.48:115][246]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (286)
+[2020.04.01-15.35.48:116][246]LogModuleManager: Shutting down and abandoning module MainFrame (284)
+[2020.04.01-15.35.48:116][246]LogModuleManager: Shutting down and abandoning module HotReload (283)
+[2020.04.01-15.35.48:124][246]LogModuleManager: Shutting down and abandoning module ContentBrowser (279)
+[2020.04.01-15.35.48:126][246]LogModuleManager: Shutting down and abandoning module TreeMap (277)
+[2020.04.01-15.35.48:131][246]LogModuleManager: Shutting down and abandoning module AnimationSharing (274)
+[2020.04.01-15.35.48:131][246]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (272)
+[2020.04.01-15.35.48:131][246]LogModuleManager: Shutting down and abandoning module Paper2D (270)
+[2020.04.01-15.35.48:142][246]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (268)
+[2020.04.01-15.35.48:173][246]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (266)
+[2020.04.01-15.35.48:182][246]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (264)
+[2020.04.01-15.35.48:182][246]LogModuleManager: Shutting down and abandoning module PacketHandler (262)
+[2020.04.01-15.35.48:182][246]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
+[2020.04.01-15.35.48:182][246]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
+[2020.04.01-15.35.48:191][246]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
+[2020.04.01-15.35.48:200][246]LogModuleManager: Shutting down and abandoning module Overlay (254)
+[2020.04.01-15.35.48:200][246]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
+[2020.04.01-15.35.48:200][246]LogModuleManager: Shutting down and abandoning module VREditor (250)
+[2020.04.01-15.35.48:225][246]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
+[2020.04.01-15.35.48:293][246]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
+[2020.04.01-15.35.48:293][246]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
+[2020.04.01-15.35.48:317][246]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
+[2020.04.01-15.35.48:329][246]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
+[2020.04.01-15.35.48:342][246]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
+[2020.04.01-15.35.48:387][246]LogModuleManager: Shutting down and abandoning module UMG (236)
+[2020.04.01-15.35.48:394][246]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
+[2020.04.01-15.35.48:394][246]LogModuleManager: Shutting down and abandoning module MessageLog (233)
+[2020.04.01-15.35.48:394][246]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2020.04.01-15.35.48:416][246]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2020.04.01-15.35.48:416][246]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2020.04.01-15.35.48:416][246]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (222)
+[2020.04.01-15.35.48:416][246]LogModuleManager: Shutting down and abandoning module UnrealEd (220)
+[2020.04.01-15.35.48:416][246]LogModuleManager: Shutting down and abandoning module MRMesh (218)
+[2020.04.01-15.35.48:416][246]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (216)
+[2020.04.01-15.35.48:416][246]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (214)
+[2020.04.01-15.35.48:429][246]LogModuleManager: Shutting down and abandoning module XAudio2 (212)
+[2020.04.01-15.35.48:440][246]LogModuleManager: Shutting down and abandoning module Networking (210)
+[2020.04.01-15.35.48:440][246]LogModuleManager: Shutting down and abandoning module Core (208)
+[2020.04.01-15.35.48:440][246]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
+[2020.04.01-15.35.48:447][246]LogModuleManager: Shutting down and abandoning module CurveEditor (205)
+[2020.04.01-15.35.48:457][246]LogModuleManager: Shutting down and abandoning module Sequencer (203)
+[2020.04.01-15.35.48:504][246]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2020.04.01-15.35.48:507][246]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2020.04.01-15.35.48:507][246]LogModuleManager: Shutting down and abandoning module MeshUtilities (196)
+[2020.04.01-15.35.48:553][246]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (195)
+[2020.04.01-15.35.48:562][246]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (194)
+[2020.04.01-15.35.48:563][246]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (193)
+[2020.04.01-15.35.48:566][246]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (191)
+[2020.04.01-15.35.48:574][246]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (189)
+[2020.04.01-15.35.48:590][246]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (187)
+[2020.04.01-15.35.48:595][246]LogModuleManager: Shutting down and abandoning module MaterialBaking (183)
+[2020.04.01-15.35.48:605][246]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (178)
+[2020.04.01-15.35.48:605][246]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2020.04.01-15.35.48:605][246]LogDerivedDataCache: Shutdown
+[2020.04.01-15.35.48:605][246]LogModuleManager: Shutting down and abandoning module XGEController (174)
+[2020.04.01-15.35.48:605][246]LogXGEController: Cleaning working directory: C:/Users/adria/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.01-15.35.48:606][246]LogModuleManager: Shutting down and abandoning module TargetPlatform (172)
+[2020.04.01-15.35.48:606][246]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (171)
+[2020.04.01-15.35.48:612][246]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (169)
+[2020.04.01-15.35.48:616][246]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (167)
+[2020.04.01-15.35.48:624][246]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (165)
+[2020.04.01-15.35.48:624][246]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (163)
+[2020.04.01-15.35.48:642][246]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2020.04.01-15.35.48:642][246]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2020.04.01-15.35.48:642][246]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (157)
+[2020.04.01-15.35.48:642][246]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (155)
+[2020.04.01-15.35.48:642][246]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (153)
+[2020.04.01-15.35.48:642][246]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2020.04.01-15.35.48:642][246]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (149)
+[2020.04.01-15.35.48:642][246]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2020.04.01-15.35.48:648][246]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2020.04.01-15.35.48:648][246]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2020.04.01-15.35.48:658][246]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2020.04.01-15.35.48:658][246]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2020.04.01-15.35.48:658][246]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2020.04.01-15.35.48:658][246]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2020.04.01-15.35.48:658][246]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (133)
+[2020.04.01-15.35.48:675][246]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2020.04.01-15.35.48:691][246]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (129)
+[2020.04.01-15.35.48:691][246]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (127)
+[2020.04.01-15.35.48:691][246]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (125)
+[2020.04.01-15.35.48:695][246]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.04.01-15.35.48:695][246]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.04.01-15.35.48:700][246]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.04.01-15.35.48:700][246]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.04.01-15.35.48:700][246]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.04.01-15.35.48:703][246]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2020.04.01-15.35.48:732][246]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (111)
+[2020.04.01-15.35.48:732][246]LogModuleManager: Shutting down and abandoning module InputCore (108)
+[2020.04.01-15.35.48:732][246]LogModuleManager: Shutting down and abandoning module Settings (106)
+[2020.04.01-15.35.48:732][246]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (104)
+[2020.04.01-15.35.48:733][246]LogModuleManager: Shutting down and abandoning module PhysXCooking (102)
+[2020.04.01-15.35.48:733][246]LogModuleManager: Shutting down and abandoning module ChaosSolvers (100)
+[2020.04.01-15.35.48:855][246]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (99)
+[2020.04.01-15.35.48:855][246]LogModuleManager: Shutting down and abandoning module Chaos (96)
+[2020.04.01-15.35.48:855][246]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (94)
+[2020.04.01-15.35.48:855][246]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (93)
+[2020.04.01-15.35.48:876][246]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (90)
+[2020.04.01-15.35.48:876][246]LogModuleManager: Shutting down and abandoning module SteamVRInput (88)
+[2020.04.01-15.35.48:876][246]LogModuleManager: Shutting down and abandoning module SteamVR (86)
+[2020.04.01-15.35.48:890][246]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.01-15.35.48:890][246]LogModuleManager: Shutting down and abandoning module OculusHMD (84)
+[2020.04.01-15.35.48:922][246]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2020.04.01-15.35.48:922][246]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
+[2020.04.01-15.35.48:922][246]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (78)
+[2020.04.01-15.35.48:922][246]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (74)
+[2020.04.01-15.35.48:931][246]LogModuleManager: Shutting down and abandoning module XMPP (69)
+[2020.04.01-15.35.48:937][246]LogModuleManager: Shutting down and abandoning module WebSockets (68)
+[2020.04.01-15.35.48:960][246]LogModuleManager: Shutting down and abandoning module HTTP (65)
+[2020.04.01-15.35.48:960][246]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.01-15.35.48:960][246]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3D57D7C4-4736-0E36-54CB-1EA0374A69FC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=da6927fd405052977c2edabf6ae98614%7C3761119a89f64449a3b3123981d75d50%7C3bfdaab8-7afa-47e8-9a3c-ce17dc053bfd&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.04.01-15.35.48:976][246]LogModuleManager: Shutting down and abandoning module SSL (64)
+[2020.04.01-15.35.48:978][246]LogModuleManager: Shutting down and abandoning module WmfMedia (60)
+[2020.04.01-15.35.48:986][246]LogModuleManager: Shutting down and abandoning module Media (59)
+[2020.04.01-15.35.48:987][246]LogModuleManager: Shutting down and abandoning module MagicLeap (56)
+[2020.04.01-15.35.48:987][246]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.04.01-15.35.48:987][246]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.04.01-15.35.48:987][246]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.04.01-15.35.48:987][246]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.04.01-15.35.48:987][246]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2020.04.01-15.35.48:987][246]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.04.01-15.35.48:996][246]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.04.01-15.35.48:996][246]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.01-15.35.48:996][246]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.01-15.35.49:003][246]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.01-15.35.49:026][246]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.01-15.35.49:051][246]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.01-15.35.49:051][246]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.01-15.35.49:051][246]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.01-15.35.49:051][246]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.01-15.35.49:112][246]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.01-15.35.49:121][246]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.01-15.35.49:121][246]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.01-15.35.49:130][246]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.01-15.35.49:141][246]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.01-15.35.49:141][246]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.01-15.35.49:141][246]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.01-15.35.49:148][246]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.01-15.35.49:148][246]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.01-15.35.49:153][246]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.01-15.35.49:162][246]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.01-15.35.49:162][246]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.01-15.35.49:195][246]LogD3D11RHI: Shutdown
+[2020.04.01-15.35.49:195][246]LogD3D11RHI: CleanupD3DDevice
+[2020.04.01-15.35.49:255][246]LogExit: Exiting.
+[2020.04.01-15.35.49:279][246]Log file closed, 04/01/20 17:35:49
