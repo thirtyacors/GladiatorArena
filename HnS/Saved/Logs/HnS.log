@@ -1,4 +1,4 @@
-﻿Log file open, 04/02/20 02:01:18
+﻿Log file open, 04/02/20 02:18:00
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,7 +9,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: HnS
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.065242
+LogStats: Stats thread started at 0.069821
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -166,940 +166,628 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
-[2020.04.02-00.01.19:148][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.04.02-00.01.19:148][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.04.02-00.01.19:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
-[2020.04.02-00.01.19:149][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
-[2020.04.02-00.01.19:153][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.04.02-00.01.19:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.04.02-00.01.19:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.04.02-00.01.19:154][  0]LogInit: Selected Device Profile: [Windows]
-[2020.04.02-00.01.19:154][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.04.02-00.01.19:157][  0]LogHAL: Display: Platform has ~ 16 GB [17126912000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.04.02-00.01.19:157][  0]LogInit: Going up to parent DeviceProfile []
-[2020.04.02-00.01.19:157][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.04.02-00.01.19:157][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.04.02-00.01.19:158][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
-[2020.04.02-00.01.19:158][  0]LogInit: Computer: DESKTOP-OA4G4ID
-[2020.04.02-00.01.19:158][  0]LogInit: User: adria
-[2020.04.02-00.01.19:158][  0]LogInit: CPU Page size=4096, Cores=6
-[2020.04.02-00.01.19:158][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.04.02-00.01.19:159][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
-[2020.04.02-00.01.19:159][  0]LogMemory: Platform Memory Stats for Windows
-[2020.04.02-00.01.19:159][  0]LogMemory: Process Physical Memory: 106.38 MB used, 106.39 MB peak
-[2020.04.02-00.01.19:159][  0]LogMemory: Process Virtual Memory: 102.14 MB used, 102.14 MB peak
-[2020.04.02-00.01.19:159][  0]LogMemory: Physical Memory: 8348.95 MB used,  7984.55 MB free, 16333.50 MB total
-[2020.04.02-00.01.19:159][  0]LogMemory: Virtual Memory: 5163.91 MB used,  134212560.00 MB free, 134217728.00 MB total
-[2020.04.02-00.01.19:161][  0]LogWindows: WindowsPlatformFeatures enabled
-[2020.04.02-00.01.19:183][  0]LogInit: Overriding language with editor language configuration option (en).
-[2020.04.02-00.01.19:183][  0]LogInit: Overriding locale with editor culture configuration option ().
-[2020.04.02-00.01.19:183][  0]LogInit: Using OS detected locale (es-ES).
-[2020.04.02-00.01.19:334][  0]LogInit: Setting process to per monitor DPI aware
-[2020.04.02-00.01.19:364][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.04.02-00.01.19:364][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.04.02-00.01.19:572][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.04.02-00.01.19:572][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2020.04.02-00.01.19:572][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2020.04.02-00.01.19:572][  0]LogD3D11RHI: D3D11 adapters:
-[2020.04.02-00.01.19:655][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
-[2020.04.02-00.01.19:655][  0]LogD3D11RHI:       5980/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2020.04.02-00.01.19:657][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.04.02-00.01.19:657][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.04.02-00.01.19:657][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.04.02-00.01.19:667][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.04.02-00.01.19:667][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
-[2020.04.02-00.01.19:667][  0]LogWindows: EnumDisplayDevices:
-[2020.04.02-00.01.19:667][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
-[2020.04.02-00.01.19:667][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
-[2020.04.02-00.01.19:668][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
-[2020.04.02-00.01.19:668][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
-[2020.04.02-00.01.19:668][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2020.04.02-00.01.19:668][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
-[2020.04.02-00.01.19:668][  0]LogD3D11RHI:   Driver Version: 442.74 (internal:26.21.14.4274, unified:442.74)
-[2020.04.02-00.01.19:668][  0]LogD3D11RHI:      Driver Date: 3-13-2020
-[2020.04.02-00.01.19:668][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
-[2020.04.02-00.01.19:722][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2020.04.02-00.01.19:722][  0]LogD3D11RHI: Async texture creation enabled
-[2020.04.02-00.01.19:755][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2020.04.02-00.01.20:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2020.04.02-00.01.20:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
-[2020.04.02-00.01.20:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
-[2020.04.02-00.01.20:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2020.04.02-00.01.20:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
-[2020.04.02-00.01.20:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2020.04.02-00.01.20:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2020.04.02-00.01.20:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2020.04.02-00.01.20:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2020.04.02-00.01.20:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2020.04.02-00.01.20:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2020.04.02-00.01.20:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2020.04.02-00.01.20:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2020.04.02-00.01.20:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2020.04.02-00.01.20:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2020.04.02-00.01.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2020.04.02-00.01.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2020.04.02-00.01.20:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2020.04.02-00.01.20:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2020.04.02-00.01.20:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2020.04.02-00.01.20:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2020.04.02-00.01.20:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2020.04.02-00.01.20:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2020.04.02-00.01.20:170][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.04.02-00.01.20:173][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.04.02-00.01.20:192][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../../GladiatorArena/HnS/Intermediate/Shaders/WorkingDirectory/6540/).
-[2020.04.02-00.01.20:192][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/adria/AppData/Local/Temp/UnrealShaderWorkingDir/9B60258649EABB8ABA8894B7AF7C8A16/'.
-[2020.04.02-00.01.20:193][  0]LogXGEController: Cleaning working directory: C:/Users/adria/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2020.04.02-00.01.20:193][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.04.02-00.01.20:193][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.04.02-00.01.20:193][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.04.02-00.01.20:884][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.04.02-00.01.20:933][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/adria/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
-[2020.04.02-00.01.20:933][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/adria/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
-[2020.04.02-00.01.20:933][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GladiatorArena/HnS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.04.02-00.01.20:933][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.04.02-00.01.20:933][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GladiatorArena/HnS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.04.02-00.01.20:933][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.04.02-00.01.20:943][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.04.02-00.01.20:943][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.04.02-00.01.20:943][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2020.04.02-00.01.20:945][  0]LogDerivedDataCache: Using Local data cache path C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.04.02-00.01.20:945][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.04.02-00.01.20:945][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.04.02-00.01.20:969][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.04.02-00.01.20:972][  0]LogSlate: Using FreeType 2.10.0
-[2020.04.02-00.01.20:973][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.04.02-00.01.21:030][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
-[2020.04.02-00.01.21:317][  0]LogInit: Selected Device Profile: [Windows]
-[2020.04.02-00.01.21:458][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.04.02-00.01.21:458][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.04.02-00.01.21:458][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.04.02-00.01.21:458][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.04.02-00.01.21:458][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.04.02-00.01.21:471][  0]LogNetVersion: HnS 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2178421202)
-[2020.04.02-00.01.22:576][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.050701 seconds
-[2020.04.02-00.01.22:585][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
-[2020.04.02-00.01.22:585][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
-[2020.04.02-00.01.22:585][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.04.02-00.01.22:965][  0]LogPython: Using Python 2.7.14
-[2020.04.02-00.01.23:589][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.04.02-00.01.23:592][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.04.02-00.01.23:657][  0]SourceControl: Source control is disabled
-[2020.04.02-00.01.23:657][  0]SourceControl: Source control is disabled
-[2020.04.02-00.01.23:658][  0]SourceControl: Source control is disabled
-[2020.04.02-00.01.23:658][  0]SourceControl: Source control is disabled
-[2020.04.02-00.01.23:659][  0]SourceControl: Source control is disabled
-[2020.04.02-00.01.23:666][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.04.02-00.01.23:667][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.04.02-00.01.23:768][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.04.02-00.01.23:788][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2020.04.02-00.01.23:788][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2020.04.02-00.01.23:888][  0]LogOcInput: OculusInput pre-init called
-[2020.04.02-00.01.23:895][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2020.04.02-00.01.23:895][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2020.04.02-00.01.25:137][  0]LogEngine: Initializing Engine...
-[2020.04.02-00.01.25:138][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.04.02-00.01.25:139][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2020.04.02-00.01.25:462][  0]LogInit: Initializing FReadOnlyCVARCache
-[2020.04.02-00.01.25:471][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.04.02-00.01.25:482][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2020.04.02-00.01.25:482][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2020.04.02-00.01.25:482][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2020.04.02-00.01.25:482][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2020.04.02-00.01.25:482][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2020.04.02-00.01.25:482][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2020.04.02-00.01.25:482][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2020.04.02-00.01.25:482][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2020.04.02-00.01.25:483][  0]LogAudio: Display: Using built-in audio occlusion.
-[2020.04.02-00.01.25:483][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2020.04.02-00.01.25:493][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
-[2020.04.02-00.01.25:493][  0]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
-[2020.04.02-00.01.25:493][  0]LogAudioMixer: Display: Is Default: Yes
-[2020.04.02-00.01.25:493][  0]LogAudioMixer: Display: Sample Rate: 48000
-[2020.04.02-00.01.25:493][  0]LogAudioMixer: Display: Channel Count Used: 2
-[2020.04.02-00.01.25:493][  0]LogAudioMixer: Display: Device Channel Count: 2
-[2020.04.02-00.01.25:493][  0]LogAudioMixer: Display: Channel Order:
-[2020.04.02-00.01.25:493][  0]LogAudioMixer: Display: 0: FrontLeft
-[2020.04.02-00.01.25:493][  0]LogAudioMixer: Display: 1: FrontRight
-[2020.04.02-00.01.25:514][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
-[2020.04.02-00.01.25:519][  0]LogInit: FAudioDevice initialized.
-[2020.04.02-00.01.25:519][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.04.02-00.01.25:763][  0]LogDerivedDataCache: Saved boot cache 0.24s 78MB C:/Users/adria/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
-[2020.04.02-00.01.25:767][  0]LogInit: Texture streaming: Enabled
-[2020.04.02-00.01.25:794][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.04.02-00.01.25:795][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={4FA17226-49B2-2FAB-1C0B-BBA4F7F62476}
-[2020.04.02-00.01.25:795][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2020.04.02-00.01.25:797][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2020.04.02-00.01.25:860][  0]LogInit: Transaction tracking system initialized
-[2020.04.02-00.01.25:869][  0]BlueprintLog: New page: Editor Load
-[2020.04.02-00.01.25:897][  0]LocalizationService: Localization service is disabled
-[2020.04.02-00.01.25:964][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.04.02-00.01.25:965][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.04.02-00.01.26:171][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.04.02-00.01.26:171][  0]LogCook: Display: Mobile HDR setting 1
-[2020.04.02-00.01.26:316][  0]LogFileCache: Scanning file cache for directory 'D:/GladiatorArena/HnS/Content/' took 0.05s
-[2020.04.02-00.01.26:983][  0]SourceControl: Source control is disabled
-[2020.04.02-00.01.26:983][  0]Cmd: MAP LOAD FILE="../../../../GladiatorArena/HnS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.04.02-00.01.26:984][  0]LightingResults: New page: Lighting Build
-[2020.04.02-00.01.27:005][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2020.04.02-00.01.27:005][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.04.02-00.01.27:005][  0]MapCheck: New page: Map Check
-[2020.04.02-00.01.27:005][  0]LightingResults: New page: Lighting Build
-[2020.04.02-00.01.27:041][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
-[2020.04.02-00.01.30:260][  0]LogLinker: Warning: Asset '../../../../GladiatorArena/HnS/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2020.04.02-00.01.30:279][  0]LogLinker: Warning: Asset '../../../../GladiatorArena/HnS/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2020.04.02-00.01.30:299][  0]LogLinker: Warning: Asset '../../../../GladiatorArena/HnS/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2020.04.02-00.01.31:778][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
-[2020.04.02-00.01.31:778][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
-[2020.04.02-00.01.31:778][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
-[2020.04.02-00.01.31:778][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
-[2020.04.02-00.01.31:778][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
-[2020.04.02-00.01.31:778][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
-[2020.04.02-00.01.31:779][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
-[2020.04.02-00.01.31:779][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
-[2020.04.02-00.01.33:545][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
-[2020.04.02-00.01.33:545][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
-[2020.04.02-00.01.33:545][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
-[2020.04.02-00.01.33:545][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
-[2020.04.02-00.01.33:546][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
-[2020.04.02-00.01.33:546][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
-[2020.04.02-00.01.33:546][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
-[2020.04.02-00.01.33:546][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
-[2020.04.02-00.01.33:546][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
-[2020.04.02-00.01.33:546][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
-[2020.04.02-00.01.33:546][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
-[2020.04.02-00.01.33:546][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
-[2020.04.02-00.01.33:546][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
-[2020.04.02-00.01.33:546][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
-[2020.04.02-00.01.33:547][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
-[2020.04.02-00.01.33:547][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
-[2020.04.02-00.01.33:547][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
-[2020.04.02-00.01.33:547][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
-[2020.04.02-00.01.33:547][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
-[2020.04.02-00.01.33:547][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
-[2020.04.02-00.01.33:547][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
-[2020.04.02-00.01.33:547][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
-[2020.04.02-00.01.33:547][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
-[2020.04.02-00.01.33:547][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
-[2020.04.02-00.01.36:235][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
-[2020.04.02-00.01.36:235][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_D.M_BlockWall_02_D Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:235][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
-[2020.04.02-00.01.36:235][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_D.M_BlockWall_02_D Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:235][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
-[2020.04.02-00.01.36:235][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D.M_BlockWall_02_Smooth_D Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:236][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
-[2020.04.02-00.01.36:236][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D.M_BlockWall_02_Smooth_D Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:236][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
-[2020.04.02-00.01.36:236][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockDeco_01.M_BlockDeco_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:236][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
-[2020.04.02-00.01.36:236][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockDeco_01.M_BlockDeco_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:236][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
-[2020.04.02-00.01.36:236][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockFloor_01.M_BlockFloor_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:236][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
-[2020.04.02-00.01.36:236][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockFloor_01.M_BlockFloor_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:236][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
-[2020.04.02-00.01.36:236][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_Rooftile_01.M_Rooftile_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:236][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
-[2020.04.02-00.01.36:236][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_Rooftile_01.M_Rooftile_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:237][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
-[2020.04.02-00.01.36:237][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_WoodBoards_01.M_WoodBoards_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:237][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
-[2020.04.02-00.01.36:237][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_WoodBoards_01.M_WoodBoards_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:237][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
-[2020.04.02-00.01.36:237][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_D.M_BlockWall_02_D Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:237][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
-[2020.04.02-00.01.36:237][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_D.M_BlockWall_02_D Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:237][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
-[2020.04.02-00.01.36:237][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D.M_BlockWall_02_Smooth_D Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:237][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
-[2020.04.02-00.01.36:237][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D.M_BlockWall_02_Smooth_D Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:237][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
-[2020.04.02-00.01.36:237][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockDeco_01.M_BlockDeco_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:237][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
-[2020.04.02-00.01.36:237][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockDeco_01.M_BlockDeco_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:238][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
-[2020.04.02-00.01.36:238][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockFloor_01.M_BlockFloor_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:238][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
-[2020.04.02-00.01.36:238][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockFloor_01.M_BlockFloor_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:238][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
-[2020.04.02-00.01.36:238][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_Rooftile_01.M_Rooftile_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:238][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
-[2020.04.02-00.01.36:238][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_Rooftile_01.M_Rooftile_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:238][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
-[2020.04.02-00.01.36:238][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_WoodBoards_01.M_WoodBoards_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:238][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
-[2020.04.02-00.01.36:238][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_WoodBoards_01.M_WoodBoards_01 Referenced by SM_Castle_Back
-[2020.04.02-00.01.36:562][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
-[2020.04.02-00.01.36:562][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Textures/T_MarbleBrick_00.T_MarbleBrick_00 Referenced by MaterialExpressionTextureSample_0
-[2020.04.02-00.01.36:562][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
-[2020.04.02-00.01.36:562][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Textures/T_MarbleBrick_00.T_MarbleBrick_00 Referenced by MaterialExpressionTextureSample_0
-[2020.04.02-00.01.36:563][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
-[2020.04.02-00.01.36:563][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM.T_MarbleBrick_00_NRM Referenced by MaterialExpressionTextureSample_1
-[2020.04.02-00.01.36:563][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
-[2020.04.02-00.01.36:563][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM.T_MarbleBrick_00_NRM Referenced by MaterialExpressionTextureSample_1
-[2020.04.02-00.01.38:999][  0]LogMaterial: Display: Missing cached shader map for material M_MarbleBrick_00, compiling. 
-[2020.04.02-00.01.38:999][  0]LogMaterial: Warning: D:\GladiatorArena\HnS\Content\IB_Assets\Materials\M_MarbleBrick_00.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2020.04.02-00.01.38:999][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
-[2020.04.02-00.01.40:153][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2020.04.02-00.01.40:201][  0]LogMaterial: Display: Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial needed to have new flag set bUsedWithInstancedStaticMeshes !
-[2020.04.02-00.01.40:207][  0]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
-[2020.04.02-00.01.40:292][  0]MapCheck: Warning: MS_DefaultMaterial Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
-[2020.04.02-00.01.40:349][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 47
-[2020.04.02-00.01.40:349][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
-[2020.04.02-00.01.40:349][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
-[2020.04.02-00.01.40:349][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
-[2020.04.02-00.01.40:349][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
-[2020.04.02-00.01.40:349][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
-[2020.04.02-00.01.40:349][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
-[2020.04.02-00.01.40:350][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
-[2020.04.02-00.01.40:350][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.04.02-00.01.40:350][  0]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=186.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
-[2020.04.02-00.01.40:431][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
-[2020.04.02-00.01.40:433][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.04.02-00.01.40:434][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,209ms to complete.
-[2020.04.02-00.01.40:441][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 13.458
-[2020.04.02-00.01.41:032][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.02-00.01.41:041][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.02-00.01.41:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.02-00.01.41:059][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.02-00.01.41:076][  0]LogCollectionManager: Loaded 0 collections in 0.001521 seconds
-[2020.04.02-00.01.41:113][  0]LogFileCache: Scanning file cache for directory 'D:/GladiatorArena/HnS/Saved/Collections/' took 0.00s
-[2020.04.02-00.01.41:113][  0]LogFileCache: Scanning file cache for directory 'D:/GladiatorArena/HnS/Content/Developers/adria/Collections/' took 0.00s
-[2020.04.02-00.01.41:113][  0]LogFileCache: Scanning file cache for directory 'D:/GladiatorArena/HnS/Content/Collections/' took 0.00s
-[2020.04.02-00.01.41:113][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 3038 classes and 727 folders.
-[2020.04.02-00.01.41:153][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2020.04.02-00.01.42:196][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2020.04.02-00.01.42:230][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0015 seconds. Added 2 classes and 3 folders.
-[2020.04.02-00.01.42:633][  0]LogSlate: Took 0.017224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.04.02-00.01.42:649][  0]LogSlate: Took 0.013291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.04.02-00.01.42:676][  0]LogSlate: Took 0.021675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.04.02-00.01.43:066][  0]LogRenderer: Reallocating scene render targets to support 1224x640 Format 10 NumSamples 1 (Frame:1).
-[2020.04.02-00.01.43:328][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2020.04.02-00.01.43:328][  0]LogLoad: (Engine Initialization) Total time: 25.97 seconds
-[2020.04.02-00.01.43:328][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.04.02-00.01.43:407][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.04.02-00.01.43:605][  0]LogSlate: Took 0.017879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.04.02-00.01.43:652][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/GladiatorArena/HnS/Content/' took 0.31s
-[2020.04.02-00.01.46:422][ 30]LogAssetRegistry: Asset discovery search completed in 25.3935 seconds
-[2020.04.02-00.01.46:426][ 30]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
-[2020.04.02-00.01.47:078][ 50]LogSlate: Window 'Message Log' being destroyed
-[2020.04.02-00.01.47:082][ 50]LogSlate: Window 'Message Log' being destroyed
-[2020.04.02-00.01.54:539][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
-[2020.04.02-00.01.54:615][836]LogSlate: Window 'HnS - Unreal Editor' being destroyed
-[2020.04.02-00.01.54:615][836]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2020.04.02-00.01.54:725][837]Cmd: QUIT_EDITOR
-[2020.04.02-00.01.54:725][837]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
-[2020.04.02-00.01.54:734][837]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
-[2020.04.02-00.01.54:734][837]LogAudioMixer: Display: No commands were queued while flushing the source manager.
-[2020.04.02-00.01.55:035][837]LogExit: Preparing to exit.
-[2020.04.02-00.01.55:672][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
-[2020.04.02-00.01.56:170][837]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
-[2020.04.02-00.01.56:170][837]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
-[2020.04.02-00.01.56:170][837]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
-[2020.04.02-00.01.56:170][837]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
-[2020.04.02-00.01.56:170][837]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
-[2020.04.02-00.01.56:170][837]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
-[2020.04.02-00.01.56:170][837]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
-[2020.04.02-00.01.56:170][837]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
-[2020.04.02-00.01.56:391][837]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
-[2020.04.02-00.01.56:476][837]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
-[2020.04.02-00.01.56:491][837]LogExit: Editor shut down
-[2020.04.02-00.01.56:492][837]LogExit: Transaction tracking system shut down
-[2020.04.02-00.01.58:262][837]LogExit: Object subsystem successfully closed.
-[2020.04.02-00.01.58:494][837]LogShaderCompilers: Display: Shaders left to compile 0
-[2020.04.02-00.01.59:715][837]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (704)
-[2020.04.02-00.01.59:715][837]LogModuleManager: Shutting down and abandoning module SceneOutliner (702)
-[2020.04.02-00.01.59:715][837]LogModuleManager: Shutting down and abandoning module AddContentDialog (700)
-[2020.04.02-00.01.59:716][837]LogModuleManager: Shutting down and abandoning module WidgetCarousel (699)
-[2020.04.02-00.01.59:716][837]LogModuleManager: Shutting down and abandoning module EditorWidgets (696)
-[2020.04.02-00.01.59:716][837]LogModuleManager: Shutting down and abandoning module CollectionManager (694)
-[2020.04.02-00.01.59:730][837]LogModuleManager: Shutting down and abandoning module StatsViewer (692)
-[2020.04.02-00.01.59:750][837]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (690)
-[2020.04.02-00.01.59:754][837]LogModuleManager: Shutting down and abandoning module FoliageEdit (688)
-[2020.04.02-00.01.59:760][837]LogModuleManager: Shutting down and abandoning module LandscapeEditor (686)
-[2020.04.02-00.01.59:786][837]LogModuleManager: Shutting down and abandoning module MeshPaintMode (684)
-[2020.04.02-00.01.59:787][837]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (682)
-[2020.04.02-00.01.59:787][837]LogModuleManager: Shutting down and abandoning module ActorPickerMode (680)
-[2020.04.02-00.01.59:787][837]LogModuleManager: Shutting down and abandoning module GeometryMode (678)
-[2020.04.02-00.01.59:787][837]LogModuleManager: Shutting down and abandoning module TextureAlignMode (676)
-[2020.04.02-00.01.59:787][837]LogModuleManager: Shutting down and abandoning module BspMode (674)
-[2020.04.02-00.01.59:787][837]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (672)
-[2020.04.02-00.01.59:787][837]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (670)
-[2020.04.02-00.01.59:800][837]LogModuleManager: Shutting down and abandoning module AutomationWorker (668)
-[2020.04.02-00.01.59:800][837]LogModuleManager: Shutting down and abandoning module SteamVREditor (666)
-[2020.04.02-00.01.59:800][837]LogModuleManager: Shutting down and abandoning module OculusMR (664)
-[2020.04.02-00.01.59:805][837]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (662)
-[2020.04.02-00.01.59:805][837]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (660)
-[2020.04.02-00.01.59:812][837]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (658)
-[2020.04.02-00.01.59:853][837]LogModuleManager: Shutting down and abandoning module PlacementMode (657)
-[2020.04.02-00.01.59:853][837]LogModuleManager: Shutting down and abandoning module MaterialEditor (656)
-[2020.04.02-00.01.59:861][837]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (652)
-[2020.04.02-00.01.59:862][837]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (650)
-[2020.04.02-00.01.59:862][837]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (648)
-[2020.04.02-00.01.59:862][837]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (646)
-[2020.04.02-00.01.59:862][837]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (644)
-[2020.04.02-00.01.59:862][837]LogModuleManager: Shutting down and abandoning module WebMMedia (642)
-[2020.04.02-00.01.59:862][837]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (640)
-[2020.04.02-00.01.59:874][837]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (638)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module SequenceRecorder (637)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (634)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (632)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (630)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (628)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (626)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (624)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (622)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (620)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (618)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (616)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module CharacterAI (614)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module SmartSnapping (612)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module SessionServices (610)
-[2020.04.02-00.01.59:898][837]LogModuleManager: Shutting down and abandoning module MeshPaint (608)
-[2020.04.02-00.01.59:947][837]LogModuleManager: Shutting down and abandoning module ViewportSnapping (606)
-[2020.04.02-00.01.59:947][837]LogModuleManager: Shutting down and abandoning module ViewportInteraction (604)
-[2020.04.02-00.01.59:947][837]LogModuleManager: Shutting down and abandoning module ClothPainter (602)
-[2020.04.02-00.01.59:958][837]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (601)
-[2020.04.02-00.01.59:966][837]LogModuleManager: Shutting down and abandoning module LogVisualizer (598)
-[2020.04.02-00.01.59:983][837]LogModuleManager: Shutting down and abandoning module IntroTutorials (596)
-[2020.04.02-00.01.59:992][837]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (595)
-[2020.04.02-00.02.00:005][837]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (592)
-[2020.04.02-00.02.00:005][837]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (590)
-[2020.04.02-00.02.00:011][837]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (588)
-[2020.04.02-00.02.00:016][837]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (587)
-[2020.04.02-00.02.00:944][837]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (584)
-[2020.04.02-00.02.00:944][837]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (582)
-[2020.04.02-00.02.00:944][837]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (580)
-[2020.04.02-00.02.00:944][837]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (578)
-[2020.04.02-00.02.00:944][837]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (576)
-[2020.04.02-00.02.00:944][837]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (574)
-[2020.04.02-00.02.00:944][837]LogModuleManager: Shutting down and abandoning module InputBindingEditor (572)
-[2020.04.02-00.02.00:979][837]LogModuleManager: Shutting down and abandoning module MergeActors (570)
-[2020.04.02-00.02.01:019][837]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (568)
-[2020.04.02-00.02.01:038][837]LogModuleManager: Shutting down and abandoning module LocalizationService (567)
-[2020.04.02-00.02.01:046][837]LogModuleManager: Shutting down and abandoning module HardwareTargeting (564)
-[2020.04.02-00.02.01:046][837]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (562)
-[2020.04.02-00.02.01:046][837]LogModuleManager: Shutting down and abandoning module UndoHistory (560)
-[2020.04.02-00.02.01:057][837]LogModuleManager: Shutting down and abandoning module XmlParser (558)
-[2020.04.02-00.02.01:068][837]LogModuleManager: Shutting down and abandoning module Blutility (556)
-[2020.04.02-00.02.01:068][837]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (554)
-[2020.04.02-00.02.01:068][837]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (553)
-[2020.04.02-00.02.01:068][837]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (550)
-[2020.04.02-00.02.01:068][837]LogModuleManager: Shutting down and abandoning module SettingsEditor (548)
-[2020.04.02-00.02.01:077][837]LogModuleManager: Shutting down and abandoning module ProjectLauncher (546)
-[2020.04.02-00.02.01:089][837]LogModuleManager: Shutting down and abandoning module SessionFrontend (544)
-[2020.04.02-00.02.01:097][837]LogModuleManager: Shutting down and abandoning module ProfilerClient (542)
-[2020.04.02-00.02.01:109][837]LogModuleManager: Shutting down and abandoning module DeviceManager (540)
-[2020.04.02-00.02.01:123][837]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (539)
-[2020.04.02-00.02.01:157][837]LogModuleManager: Shutting down and abandoning module AutomationController (536)
-[2020.04.02-00.02.01:165][837]LogModuleManager: Shutting down and abandoning module AutomationWindow (534)
-[2020.04.02-00.02.01:174][837]LogModuleManager: Shutting down and abandoning module Layers (532)
-[2020.04.02-00.02.01:201][837]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (530)
-[2020.04.02-00.02.01:201][837]LogModuleManager: Shutting down and abandoning module DetailCustomizations (528)
-[2020.04.02-00.02.01:201][837]LogModuleManager: Shutting down and abandoning module PackagesDialog (526)
-[2020.04.02-00.02.01:201][837]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (524)
-[2020.04.02-00.02.01:211][837]LogModuleManager: Shutting down and abandoning module Persona (522)
-[2020.04.02-00.02.01:280][837]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (521)
-[2020.04.02-00.02.01:280][837]LogModuleManager: Shutting down and abandoning module AnimGraph (519)
-[2020.04.02-00.02.01:287][837]LogModuleManager: Shutting down and abandoning module Kismet (516)
-[2020.04.02-00.02.01:310][837]LogModuleManager: Shutting down and abandoning module KismetWidgets (515)
-[2020.04.02-00.02.01:310][837]LogModuleManager: Shutting down and abandoning module GraphEditor (512)
-[2020.04.02-00.02.01:310][837]LogModuleManager: Shutting down and abandoning module StructViewer (510)
-[2020.04.02-00.02.01:310][837]LogModuleManager: Shutting down and abandoning module ClassViewer (508)
-[2020.04.02-00.02.01:310][837]LogModuleManager: Shutting down and abandoning module Toolbox (506)
-[2020.04.02-00.02.01:310][837]LogModuleManager: Shutting down and abandoning module ModuleUI (504)
-[2020.04.02-00.02.01:317][837]LogModuleManager: Shutting down and abandoning module OutputLog (502)
-[2020.04.02-00.02.01:340][837]LogModuleManager: Shutting down and abandoning module GammaUI (500)
-[2020.04.02-00.02.01:346][837]LogModuleManager: Shutting down and abandoning module Documentation (498)
-[2020.04.02-00.02.01:346][837]LogModuleManager: Shutting down and abandoning module ToolMenus (496)
-[2020.04.02-00.02.01:346][837]LogModuleManager: Shutting down and abandoning module LiveCoding (494)
-[2020.04.02-00.02.01:360][837]LogModuleManager: Shutting down and abandoning module LevelSequence (492)
-[2020.04.02-00.02.01:360][837]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (490)
-[2020.04.02-00.02.01:360][837]LogModuleManager: Shutting down and abandoning module MovieScene (488)
-[2020.04.02-00.02.01:365][837]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (486)
-[2020.04.02-00.02.01:374][837]LogModuleManager: Shutting down and abandoning module LauncherPlatform (484)
-[2020.04.02-00.02.01:374][837]LogModuleManager: Shutting down and abandoning module AnalyticsET (482)
-[2020.04.02-00.02.01:374][837]LogModuleManager: Shutting down and abandoning module PortalServices (480)
-[2020.04.02-00.02.01:374][837]LogModuleManager: Shutting down and abandoning module PortalRpc (478)
-[2020.04.02-00.02.01:374][837]LogModuleManager: Shutting down and abandoning module MessagingRpc (476)
-[2020.04.02-00.02.01:374][837]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (474)
-[2020.04.02-00.02.01:374][837]LogModuleManager: Shutting down and abandoning module AIModule (472)
-[2020.04.02-00.02.01:394][837]LogModuleManager: Shutting down and abandoning module GameplayDebugger (471)
-[2020.04.02-00.02.01:394][837]LogModuleManager: Shutting down and abandoning module AITestSuite (469)
-[2020.04.02-00.02.01:395][837]LogModuleManager: Shutting down and abandoning module NavigationSystem (467)
-[2020.04.02-00.02.01:395][837]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (464)
-[2020.04.02-00.02.01:397][837]LogModuleManager: Shutting down and abandoning module ProfilerService (462)
-[2020.04.02-00.02.01:634][837]LogModuleManager: Shutting down and abandoning module TaskGraph (460)
-[2020.04.02-00.02.01:644][837]LogModuleManager: Shutting down and abandoning module MegascansPlugin (458)
-[2020.04.02-00.02.01:644][837]LogModuleManager: Shutting down and abandoning module ScreenshotTools (456)
-[2020.04.02-00.02.01:644][837]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (454)
-[2020.04.02-00.02.01:644][837]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (452)
-[2020.04.02-00.02.01:644][837]LogModuleManager: Shutting down and abandoning module OculusEditor (450)
-[2020.04.02-00.02.01:657][837]LogModuleManager: Shutting down and abandoning module OculusInput (448)
-[2020.04.02-00.02.01:657][837]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (446)
-[2020.04.02-00.02.01:657][837]LogModuleManager: Shutting down and abandoning module EditableMesh (444)
-[2020.04.02-00.02.01:672][837]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (442)
-[2020.04.02-00.02.01:672][837]LogModuleManager: Shutting down and abandoning module CableComponent (440)
-[2020.04.02-00.02.01:672][837]LogModuleManager: Shutting down and abandoning module AudioCapture (438)
-[2020.04.02-00.02.01:672][837]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (437)
-[2020.04.02-00.02.01:672][837]LogModuleManager: Shutting down and abandoning module AssetTags (434)
-[2020.04.02-00.02.01:672][837]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (432)
-[2020.04.02-00.02.01:672][837]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (430)
-[2020.04.02-00.02.01:672][837]LogModuleManager: Shutting down and abandoning module AppleImageUtils (428)
-[2020.04.02-00.02.01:672][837]LogModuleManager: Shutting down and abandoning module AndroidPermission (426)
-[2020.04.02-00.02.01:672][837]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (424)
-[2020.04.02-00.02.01:674][837]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (422)
-[2020.04.02-00.02.01:684][837]LogModuleManager: Shutting down and abandoning module MediaCompositing (420)
-[2020.04.02-00.02.01:684][837]LogModuleManager: Shutting down and abandoning module ImgMedia (418)
-[2020.04.02-00.02.01:684][837]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (416)
-[2020.04.02-00.02.01:684][837]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (414)
-[2020.04.02-00.02.01:685][837]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (412)
-[2020.04.02-00.02.01:685][837]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (410)
-[2020.04.02-00.02.01:685][837]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (408)
-[2020.04.02-00.02.01:685][837]LogModuleManager: Shutting down and abandoning module BackChannel (406)
-[2020.04.02-00.02.01:693][837]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (404)
-[2020.04.02-00.02.01:693][837]LogModuleManager: Shutting down and abandoning module AutomationUtils (402)
-[2020.04.02-00.02.01:693][837]LogModuleManager: Shutting down and abandoning module AlembicImporter (400)
-[2020.04.02-00.02.01:700][837]LogModuleManager: Shutting down and abandoning module AlembicLibrary (399)
-[2020.04.02-00.02.01:707][837]LogModuleManager: Shutting down and abandoning module GeometryCache (398)
-[2020.04.02-00.02.01:707][837]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (397)
-[2020.04.02-00.02.01:707][837]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (392)
-[2020.04.02-00.02.01:713][837]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (390)
-[2020.04.02-00.02.01:723][837]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (388)
-[2020.04.02-00.02.01:723][837]LogModuleManager: Shutting down and abandoning module PluginBrowser (386)
-[2020.04.02-00.02.01:779][837]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (384)
-[2020.04.02-00.02.01:793][837]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (382)
-[2020.04.02-00.02.01:806][837]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (380)
-[2020.04.02-00.02.01:806][837]LogModuleManager: Shutting down and abandoning module CurveEditorTools (378)
-[2020.04.02-00.02.01:823][837]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (376)
-[2020.04.02-00.02.01:823][837]LogModuleManager: Shutting down and abandoning module CryptoKeys (374)
-[2020.04.02-00.02.01:823][837]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (372)
-[2020.04.02-00.02.01:832][837]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (370)
-[2020.04.02-00.02.01:832][837]LogModuleManager: Shutting down and abandoning module UObjectPlugin (368)
-[2020.04.02-00.02.01:832][837]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (366)
-[2020.04.02-00.02.01:838][837]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (364)
-[2020.04.02-00.02.01:851][837]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (362)
-[2020.04.02-00.02.01:851][837]LogModuleManager: Shutting down and abandoning module GitSourceControl (360)
-[2020.04.02-00.02.01:865][837]LogModuleManager: Shutting down and abandoning module SourceControl (359)
-[2020.04.02-00.02.01:865][837]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (356)
-[2020.04.02-00.02.01:871][837]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (354)
-[2020.04.02-00.02.01:871][837]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (352)
-[2020.04.02-00.02.01:871][837]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (350)
-[2020.04.02-00.02.01:871][837]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (348)
-[2020.04.02-00.02.01:871][837]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (346)
-[2020.04.02-00.02.01:871][837]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (344)
-[2020.04.02-00.02.01:871][837]LogModuleManager: Shutting down and abandoning module Paper2DEditor (342)
-[2020.04.02-00.02.01:898][837]LogModuleManager: Shutting down and abandoning module SignificanceManager (340)
-[2020.04.02-00.02.01:898][837]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (338)
-[2020.04.02-00.02.01:898][837]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (336)
-[2020.04.02-00.02.01:898][837]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (332)
-[2020.04.02-00.02.01:898][837]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
-[2020.04.02-00.02.01:898][837]LogModuleManager: Shutting down and abandoning module UdpMessaging (328)
-[2020.04.02-00.02.01:999][837]LogModuleManager: Shutting down and abandoning module TcpMessaging (326)
-[2020.04.02-00.02.02:120][837]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (324)
-[2020.04.02-00.02.02:127][837]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (322)
-[2020.04.02-00.02.02:133][837]LogMagicLeapPlanes: Planes tracker already destroyed.
-[2020.04.02-00.02.02:133][837]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (320)
-[2020.04.02-00.02.02:133][837]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (318)
-[2020.04.02-00.02.02:133][837]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (316)
-[2020.04.02-00.02.02:133][837]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (314)
-[2020.04.02-00.02.02:133][837]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (312)
-[2020.04.02-00.02.02:146][837]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (310)
-[2020.04.02-00.02.02:146][837]LogModuleManager: Shutting down and abandoning module MagicLeapController (308)
-[2020.04.02-00.02.02:153][837]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2020.04.02-00.02.02:153][837]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (306)
-[2020.04.02-00.02.02:153][837]LogModuleManager: Shutting down and abandoning module MagicLeapAR (304)
-[2020.04.02-00.02.02:153][837]LogModuleManager: Shutting down and abandoning module AugmentedReality (303)
-[2020.04.02-00.02.02:153][837]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (300)
-[2020.04.02-00.02.02:153][837]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (298)
-[2020.04.02-00.02.02:164][837]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (296)
-[2020.04.02-00.02.02:165][837]LogModuleManager: Shutting down and abandoning module FacialAnimation (294)
-[2020.04.02-00.02.02:165][837]LogModuleManager: Shutting down and abandoning module DataValidation (292)
-[2020.04.02-00.02.02:165][837]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (290)
-[2020.04.02-00.02.02:175][837]LogModuleManager: Shutting down and abandoning module LevelEditor (289)
-[2020.04.02-00.02.02:263][837]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (288)
-[2020.04.02-00.02.02:278][837]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (286)
-[2020.04.02-00.02.02:278][837]LogModuleManager: Shutting down and abandoning module MainFrame (284)
-[2020.04.02-00.02.02:278][837]LogModuleManager: Shutting down and abandoning module HotReload (283)
-[2020.04.02-00.02.02:286][837]LogModuleManager: Shutting down and abandoning module ContentBrowser (279)
-[2020.04.02-00.02.02:287][837]LogModuleManager: Shutting down and abandoning module TreeMap (277)
-[2020.04.02-00.02.02:293][837]LogModuleManager: Shutting down and abandoning module AnimationSharing (274)
-[2020.04.02-00.02.02:293][837]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (272)
-[2020.04.02-00.02.02:293][837]LogModuleManager: Shutting down and abandoning module Paper2D (270)
-[2020.04.02-00.02.02:304][837]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (268)
-[2020.04.02-00.02.02:331][837]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (266)
-[2020.04.02-00.02.02:344][837]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (264)
-[2020.04.02-00.02.02:344][837]LogModuleManager: Shutting down and abandoning module PacketHandler (262)
-[2020.04.02-00.02.02:344][837]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
-[2020.04.02-00.02.02:344][837]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
-[2020.04.02-00.02.02:354][837]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
-[2020.04.02-00.02.02:362][837]LogModuleManager: Shutting down and abandoning module Overlay (254)
-[2020.04.02-00.02.02:362][837]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
-[2020.04.02-00.02.02:362][837]LogModuleManager: Shutting down and abandoning module VREditor (250)
-[2020.04.02-00.02.02:387][837]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
-[2020.04.02-00.02.02:394][837]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
-[2020.04.02-00.02.02:405][837]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
-[2020.04.02-00.02.02:429][837]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
-[2020.04.02-00.02.02:441][837]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
-[2020.04.02-00.02.02:477][837]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
-[2020.04.02-00.02.02:490][837]LogModuleManager: Shutting down and abandoning module UMG (236)
-[2020.04.02-00.02.02:498][837]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
-[2020.04.02-00.02.02:498][837]LogModuleManager: Shutting down and abandoning module MessageLog (233)
-[2020.04.02-00.02.02:498][837]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
-[2020.04.02-00.02.02:520][837]LogModuleManager: Shutting down and abandoning module Slate (226)
-[2020.04.02-00.02.02:520][837]LogModuleManager: Shutting down and abandoning module SlateCore (224)
-[2020.04.02-00.02.02:520][837]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (222)
-[2020.04.02-00.02.02:520][837]LogModuleManager: Shutting down and abandoning module UnrealEd (220)
-[2020.04.02-00.02.02:530][837]LogModuleManager: Shutting down and abandoning module MRMesh (218)
-[2020.04.02-00.02.02:530][837]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (216)
-[2020.04.02-00.02.02:530][837]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (214)
-[2020.04.02-00.02.02:541][837]LogModuleManager: Shutting down and abandoning module XAudio2 (212)
-[2020.04.02-00.02.02:560][837]LogModuleManager: Shutting down and abandoning module Networking (210)
-[2020.04.02-00.02.02:560][837]LogModuleManager: Shutting down and abandoning module Core (208)
-[2020.04.02-00.02.02:560][837]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
-[2020.04.02-00.02.02:567][837]LogModuleManager: Shutting down and abandoning module CurveEditor (205)
-[2020.04.02-00.02.02:578][837]LogModuleManager: Shutting down and abandoning module Sequencer (203)
-[2020.04.02-00.02.02:625][837]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
-[2020.04.02-00.02.02:625][837]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
-[2020.04.02-00.02.02:625][837]LogModuleManager: Shutting down and abandoning module MeshUtilities (196)
-[2020.04.02-00.02.02:632][837]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (195)
-[2020.04.02-00.02.02:641][837]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (194)
-[2020.04.02-00.02.02:642][837]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (193)
-[2020.04.02-00.02.02:645][837]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (191)
-[2020.04.02-00.02.02:653][837]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (189)
-[2020.04.02-00.02.02:668][837]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (187)
-[2020.04.02-00.02.02:673][837]LogModuleManager: Shutting down and abandoning module MaterialBaking (183)
-[2020.04.02-00.02.02:684][837]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (178)
-[2020.04.02-00.02.02:684][837]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
-[2020.04.02-00.02.02:684][837]LogDerivedDataCache: Shutdown
-[2020.04.02-00.02.02:684][837]LogModuleManager: Shutting down and abandoning module XGEController (174)
-[2020.04.02-00.02.02:684][837]LogXGEController: Cleaning working directory: C:/Users/adria/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2020.04.02-00.02.02:684][837]LogModuleManager: Shutting down and abandoning module TargetPlatform (172)
-[2020.04.02-00.02.02:684][837]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (171)
-[2020.04.02-00.02.02:690][837]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (169)
-[2020.04.02-00.02.02:695][837]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (167)
-[2020.04.02-00.02.02:761][837]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (165)
-[2020.04.02-00.02.02:761][837]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (163)
-[2020.04.02-00.02.02:779][837]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
-[2020.04.02-00.02.02:779][837]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
-[2020.04.02-00.02.02:779][837]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (157)
-[2020.04.02-00.02.02:779][837]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (155)
-[2020.04.02-00.02.02:783][837]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (153)
-[2020.04.02-00.02.02:783][837]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
-[2020.04.02-00.02.02:783][837]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (149)
-[2020.04.02-00.02.02:783][837]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
-[2020.04.02-00.02.02:793][837]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
-[2020.04.02-00.02.02:793][837]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
-[2020.04.02-00.02.02:803][837]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
-[2020.04.02-00.02.02:803][837]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
-[2020.04.02-00.02.02:803][837]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
-[2020.04.02-00.02.02:803][837]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
-[2020.04.02-00.02.02:803][837]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (133)
-[2020.04.02-00.02.02:810][837]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
-[2020.04.02-00.02.02:826][837]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (129)
-[2020.04.02-00.02.02:826][837]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (127)
-[2020.04.02-00.02.02:826][837]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (125)
-[2020.04.02-00.02.02:832][837]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
-[2020.04.02-00.02.02:832][837]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
-[2020.04.02-00.02.02:836][837]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
-[2020.04.02-00.02.02:837][837]LogModuleManager: Shutting down and abandoning module Messaging (117)
-[2020.04.02-00.02.02:837][837]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
-[2020.04.02-00.02.02:837][837]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
-[2020.04.02-00.02.02:842][837]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (111)
-[2020.04.02-00.02.02:842][837]LogModuleManager: Shutting down and abandoning module InputCore (108)
-[2020.04.02-00.02.02:842][837]LogModuleManager: Shutting down and abandoning module Settings (106)
-[2020.04.02-00.02.02:842][837]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (104)
-[2020.04.02-00.02.02:842][837]LogModuleManager: Shutting down and abandoning module PhysXCooking (102)
-[2020.04.02-00.02.02:842][837]LogModuleManager: Shutting down and abandoning module ChaosSolvers (100)
-[2020.04.02-00.02.02:860][837]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (99)
-[2020.04.02-00.02.02:860][837]LogModuleManager: Shutting down and abandoning module Chaos (96)
-[2020.04.02-00.02.02:860][837]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (94)
-[2020.04.02-00.02.02:860][837]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (93)
-[2020.04.02-00.02.02:872][837]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (90)
-[2020.04.02-00.02.02:872][837]LogModuleManager: Shutting down and abandoning module SteamVRInput (88)
-[2020.04.02-00.02.02:872][837]LogModuleManager: Shutting down and abandoning module SteamVR (86)
-[2020.04.02-00.02.02:886][837]LogHMD: Freeing OpenVRDLLHandle.
-[2020.04.02-00.02.02:886][837]LogModuleManager: Shutting down and abandoning module OculusHMD (84)
-[2020.04.02-00.02.02:917][837]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
-[2020.04.02-00.02.02:917][837]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
-[2020.04.02-00.02.02:917][837]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (78)
-[2020.04.02-00.02.02:917][837]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (74)
-[2020.04.02-00.02.03:003][837]LogModuleManager: Shutting down and abandoning module XMPP (69)
-[2020.04.02-00.02.03:016][837]LogModuleManager: Shutting down and abandoning module WebSockets (68)
-[2020.04.02-00.02.03:055][837]LogModuleManager: Shutting down and abandoning module HTTP (65)
-[2020.04.02-00.02.03:055][837]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2020.04.02-00.02.03:056][837]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B93B80957-4354-2CC3-05EB-B5A9CBFA301D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=da6927fd405052977c2edabf6ae98614%7C3761119a89f64449a3b3123981d75d50%7C3bfdaab8-7afa-47e8-9a3c-ce17dc053bfd&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
-[2020.04.02-00.02.03:069][837]LogModuleManager: Shutting down and abandoning module SSL (64)
-[2020.04.02-00.02.03:071][837]LogModuleManager: Shutting down and abandoning module WmfMedia (60)
-[2020.04.02-00.02.03:082][837]LogModuleManager: Shutting down and abandoning module Media (59)
-[2020.04.02-00.02.03:082][837]LogModuleManager: Shutting down and abandoning module MagicLeap (56)
-[2020.04.02-00.02.03:082][837]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
-[2020.04.02-00.02.03:082][837]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
-[2020.04.02-00.02.03:083][837]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
-[2020.04.02-00.02.03:083][837]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
-[2020.04.02-00.02.03:083][837]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
-[2020.04.02-00.02.03:083][837]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
-[2020.04.02-00.02.03:091][837]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
-[2020.04.02-00.02.03:091][837]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
-[2020.04.02-00.02.03:091][837]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
-[2020.04.02-00.02.03:099][837]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
-[2020.04.02-00.02.03:099][837]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
-[2020.04.02-00.02.03:122][837]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
-[2020.04.02-00.02.03:122][837]LogModuleManager: Shutting down and abandoning module RenderCore (30)
-[2020.04.02-00.02.03:122][837]LogModuleManager: Shutting down and abandoning module Landscape (28)
-[2020.04.02-00.02.03:122][837]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
-[2020.04.02-00.02.03:140][837]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
-[2020.04.02-00.02.03:150][837]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
-[2020.04.02-00.02.03:150][837]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
-[2020.04.02-00.02.03:159][837]LogModuleManager: Shutting down and abandoning module Renderer (18)
-[2020.04.02-00.02.03:170][837]LogModuleManager: Shutting down and abandoning module Engine (16)
-[2020.04.02-00.02.03:170][837]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
-[2020.04.02-00.02.03:170][837]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
-[2020.04.02-00.02.03:176][837]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
-[2020.04.02-00.02.03:176][837]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
-[2020.04.02-00.02.03:182][837]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
-[2020.04.02-00.02.03:190][837]LogModuleManager: Shutting down and abandoning module PakFile (4)
-[2020.04.02-00.02.03:191][837]LogModuleManager: Shutting down and abandoning module RSA (3)
-[2020.04.02-00.02.03:198][837]LogD3D11RHI: Shutdown
-[2020.04.02-00.02.03:198][837]LogD3D11RHI: CleanupD3DDevice
-[2020.04.02-00.02.03:275][837]LogExit: Exiting.
-[2020.04.02-00.02.03:301][837]Log file closed, 04/02/20 02:02:03
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
+[2020.04.02-00.18.00:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.02-00.18.00:173][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.02-00.18.00:174][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.02-00.18.00:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
+[2020.04.02-00.18.00:174][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
+[2020.04.02-00.18.00:178][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.02-00.18.00:178][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-00.18.00:179][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.02-00.18.00:180][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.02-00.18.00:180][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-00.18.00:180][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.02-00.18.00:182][  0]LogHAL: Display: Platform has ~ 16 GB [17126912000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.02-00.18.00:182][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.02-00.18.00:183][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.02-00.18.00:183][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.02-00.18.00:184][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
+[2020.04.02-00.18.00:184][  0]LogInit: Computer: DESKTOP-OA4G4ID
+[2020.04.02-00.18.00:184][  0]LogInit: User: adria
+[2020.04.02-00.18.00:184][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.02-00.18.00:184][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.02-00.18.00:185][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.04.02-00.18.00:185][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.02-00.18.00:185][  0]LogMemory: Process Physical Memory: 106.38 MB used, 106.39 MB peak
+[2020.04.02-00.18.00:185][  0]LogMemory: Process Virtual Memory: 102.21 MB used, 102.21 MB peak
+[2020.04.02-00.18.00:185][  0]LogMemory: Physical Memory: 8185.92 MB used,  8147.58 MB free, 16333.50 MB total
+[2020.04.02-00.18.00:185][  0]LogMemory: Virtual Memory: 5163.91 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2020.04.02-00.18.00:187][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.02-00.18.00:210][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.04.02-00.18.00:210][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.04.02-00.18.00:210][  0]LogInit: Using OS detected locale (es-ES).
+[2020.04.02-00.18.00:372][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.02-00.18.00:426][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.02-00.18.00:426][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.02-00.18.00:645][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.02-00.18.00:645][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.02-00.18.00:645][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.02-00.18.00:645][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.02-00.18.00:725][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.04.02-00.18.00:725][  0]LogD3D11RHI:       5980/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.02-00.18.00:727][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.02-00.18.00:727][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.02-00.18.00:727][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.02-00.18.00:737][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.02-00.18.00:737][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.02-00.18.00:737][  0]LogWindows: EnumDisplayDevices:
+[2020.04.02-00.18.00:737][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.04.02-00.18.00:737][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2020.04.02-00.18.00:738][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.02-00.18.00:738][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.02-00.18.00:738][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.02-00.18.00:738][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.04.02-00.18.00:738][  0]LogD3D11RHI:   Driver Version: 442.74 (internal:26.21.14.4274, unified:442.74)
+[2020.04.02-00.18.00:738][  0]LogD3D11RHI:      Driver Date: 3-13-2020
+[2020.04.02-00.18.00:738][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.04.02-00.18.00:794][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.02-00.18.00:794][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.02-00.18.00:819][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.02-00.18.01:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.02-00.18.01:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.02-00.18.01:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.02-00.18.01:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.02-00.18.01:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.02-00.18.01:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.02-00.18.01:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.02-00.18.01:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.02-00.18.01:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.02-00.18.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.02-00.18.01:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.02-00.18.01:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.02-00.18.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.02-00.18.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.02-00.18.01:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.02-00.18.01:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.02-00.18.01:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.02-00.18.01:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.02-00.18.01:216][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.02-00.18.01:219][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.02-00.18.01:238][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../GladiatorArena/HnS/Intermediate/Shaders/WorkingDirectory/16392/).
+[2020.04.02-00.18.01:238][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/adria/AppData/Local/Temp/UnrealShaderWorkingDir/F686742E40D2148B1BC63E918516EA6A/'.
+[2020.04.02-00.18.01:238][  0]LogXGEController: Cleaning working directory: C:/Users/adria/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.02-00.18.01:238][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.02-00.18.01:238][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.02-00.18.01:239][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.02-00.18.01:920][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.02-00.18.01:969][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/adria/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.02-00.18.01:969][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/adria/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.02-00.18.01:969][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GladiatorArena/HnS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.02-00.18.01:969][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.02-00.18.01:969][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GladiatorArena/HnS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-00.18.01:969][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.02-00.18.01:980][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.02-00.18.01:980][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-00.18.01:980][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.02-00.18.01:981][  0]LogDerivedDataCache: Using Local data cache path C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.02-00.18.01:981][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.02-00.18.01:981][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.02-00.18.02:005][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.02-00.18.02:008][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.02-00.18.02:009][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.02-00.18.02:066][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.04.02-00.18.02:346][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-00.18.02:487][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.02-00.18.02:487][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.02-00.18.02:487][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.02-00.18.02:487][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.02-00.18.02:487][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.02-00.18.02:499][  0]LogNetVersion: HnS 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2178421202)
+[2020.04.02-00.18.03:645][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.055074 seconds
+[2020.04.02-00.18.03:652][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.02-00.18.03:653][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.02-00.18.03:653][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.02-00.18.04:009][  0]LogPython: Using Python 2.7.14
+[2020.04.02-00.18.04:633][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.02-00.18.04:636][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-00.18.04:706][  0]SourceControl: Source control is disabled
+[2020.04.02-00.18.04:706][  0]SourceControl: Source control is disabled
+[2020.04.02-00.18.04:707][  0]SourceControl: Source control is disabled
+[2020.04.02-00.18.04:708][  0]SourceControl: Source control is disabled
+[2020.04.02-00.18.04:708][  0]SourceControl: Source control is disabled
+[2020.04.02-00.18.04:716][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.02-00.18.04:717][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.02-00.18.04:815][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.02-00.18.04:834][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.02-00.18.04:834][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.02-00.18.04:933][  0]LogOcInput: OculusInput pre-init called
+[2020.04.02-00.18.04:940][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.02-00.18.04:940][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.02-00.18.06:181][  0]LogEngine: Initializing Engine...
+[2020.04.02-00.18.06:182][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.02-00.18.06:183][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.02-00.18.06:509][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.02-00.18.06:517][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.02-00.18.06:526][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.02-00.18.06:526][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.02-00.18.06:526][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.02-00.18.06:526][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.02-00.18.06:526][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.02-00.18.06:526][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.02-00.18.06:526][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.02-00.18.06:526][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.02-00.18.06:527][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.02-00.18.06:527][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.02-00.18.06:538][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.02-00.18.06:538][  0]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.04.02-00.18.06:538][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.02-00.18.06:538][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.02-00.18.06:538][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.02-00.18.06:538][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.02-00.18.06:538][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.02-00.18.06:538][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.02-00.18.06:538][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.02-00.18.06:560][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.04.02-00.18.06:564][  0]LogInit: FAudioDevice initialized.
+[2020.04.02-00.18.06:565][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.02-00.18.06:679][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/adria/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.02-00.18.06:683][  0]LogInit: Texture streaming: Enabled
+[2020.04.02-00.18.06:694][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.02-00.18.06:694][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.02-00.18.06:695][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.02-00.18.06:755][  0]LogInit: Transaction tracking system initialized
+[2020.04.02-00.18.06:764][  0]BlueprintLog: New page: Editor Load
+[2020.04.02-00.18.06:791][  0]LocalizationService: Localization service is disabled
+[2020.04.02-00.18.06:859][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.02-00.18.06:860][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.02-00.18.07:073][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.02-00.18.07:073][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.02-00.18.07:169][  0]LogFileCache: Scanning file cache for directory 'D:/GladiatorArena/HnS/Content/' took 0.05s
+[2020.04.02-00.18.07:825][  0]SourceControl: Source control is disabled
+[2020.04.02-00.18.07:825][  0]Cmd: MAP LOAD FILE="../../../../GladiatorArena/HnS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.02-00.18.07:825][  0]LightingResults: New page: Lighting Build
+[2020.04.02-00.18.07:826][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-00.18.07:826][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-00.18.07:826][  0]MapCheck: New page: Map Check
+[2020.04.02-00.18.07:826][  0]LightingResults: New page: Lighting Build
+[2020.04.02-00.18.07:862][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.04.02-00.18.08:447][  0]LogLinker: Warning: Asset '../../../../GladiatorArena/HnS/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.02-00.18.08:448][  0]LogLinker: Warning: Asset '../../../../GladiatorArena/HnS/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.02-00.18.08:448][  0]LogLinker: Warning: Asset '../../../../GladiatorArena/HnS/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.02-00.18.08:536][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
+[2020.04.02-00.18.08:536][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
+[2020.04.02-00.18.08:536][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
+[2020.04.02-00.18.08:536][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
+[2020.04.02-00.18.08:537][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
+[2020.04.02-00.18.08:537][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
+[2020.04.02-00.18.08:537][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
+[2020.04.02-00.18.08:537][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
+[2020.04.02-00.18.08:579][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
+[2020.04.02-00.18.08:580][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
+[2020.04.02-00.18.08:580][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
+[2020.04.02-00.18.08:580][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
+[2020.04.02-00.18.08:580][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
+[2020.04.02-00.18.08:580][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
+[2020.04.02-00.18.08:580][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
+[2020.04.02-00.18.08:580][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
+[2020.04.02-00.18.08:580][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
+[2020.04.02-00.18.08:580][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
+[2020.04.02-00.18.08:580][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
+[2020.04.02-00.18.08:581][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
+[2020.04.02-00.18.08:582][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
+[2020.04.02-00.18.08:582][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
+[2020.04.02-00.18.08:837][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
+[2020.04.02-00.18.08:837][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_D.M_BlockWall_02_D Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:837][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
+[2020.04.02-00.18.08:837][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_D.M_BlockWall_02_D Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:837][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
+[2020.04.02-00.18.08:837][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D.M_BlockWall_02_Smooth_D Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:838][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
+[2020.04.02-00.18.08:838][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D.M_BlockWall_02_Smooth_D Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:838][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
+[2020.04.02-00.18.08:838][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockDeco_01.M_BlockDeco_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:838][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
+[2020.04.02-00.18.08:838][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockDeco_01.M_BlockDeco_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:838][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
+[2020.04.02-00.18.08:838][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockFloor_01.M_BlockFloor_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:838][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
+[2020.04.02-00.18.08:838][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockFloor_01.M_BlockFloor_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:838][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
+[2020.04.02-00.18.08:838][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_Rooftile_01.M_Rooftile_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:838][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
+[2020.04.02-00.18.08:838][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_Rooftile_01.M_Rooftile_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:838][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
+[2020.04.02-00.18.08:839][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_WoodBoards_01.M_WoodBoards_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:839][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
+[2020.04.02-00.18.08:839][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_WoodBoards_01.M_WoodBoards_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:839][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
+[2020.04.02-00.18.08:839][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_D.M_BlockWall_02_D Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:839][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_D': Can't find file.
+[2020.04.02-00.18.08:839][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_D.M_BlockWall_02_D Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:839][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
+[2020.04.02-00.18.08:839][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D.M_BlockWall_02_Smooth_D Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:839][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D': Can't find file.
+[2020.04.02-00.18.08:839][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockWall_02_Smooth_D.M_BlockWall_02_Smooth_D Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:839][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
+[2020.04.02-00.18.08:839][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockDeco_01.M_BlockDeco_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:839][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockDeco_01': Can't find file.
+[2020.04.02-00.18.08:839][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockDeco_01.M_BlockDeco_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:840][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
+[2020.04.02-00.18.08:840][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockFloor_01.M_BlockFloor_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:840][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_BlockFloor_01': Can't find file.
+[2020.04.02-00.18.08:840][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_BlockFloor_01.M_BlockFloor_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:840][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
+[2020.04.02-00.18.08:840][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_Rooftile_01.M_Rooftile_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:840][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_Rooftile_01': Can't find file.
+[2020.04.02-00.18.08:840][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_Rooftile_01.M_Rooftile_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:840][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
+[2020.04.02-00.18.08:840][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_WoodBoards_01.M_WoodBoards_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:840][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Meshes/EnvironmentPack_1/SM_Castle_Back.uasset' failed to load '/Game/EnvironmentPack1/Materials/M_WoodBoards_01': Can't find file.
+[2020.04.02-00.18.08:840][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Materials/M_WoodBoards_01.M_WoodBoards_01 Referenced by SM_Castle_Back
+[2020.04.02-00.18.08:858][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
+[2020.04.02-00.18.08:858][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Textures/T_MarbleBrick_00.T_MarbleBrick_00 Referenced by MaterialExpressionTextureSample_0
+[2020.04.02-00.18.08:858][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00': Can't find file.
+[2020.04.02-00.18.08:858][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Textures/T_MarbleBrick_00.T_MarbleBrick_00 Referenced by MaterialExpressionTextureSample_0
+[2020.04.02-00.18.08:858][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
+[2020.04.02-00.18.08:858][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM.T_MarbleBrick_00_NRM Referenced by MaterialExpressionTextureSample_1
+[2020.04.02-00.18.08:859][  0]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/IB_Assets/Materials/M_MarbleBrick_00.uasset' failed to load '/Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM': Can't find file.
+[2020.04.02-00.18.08:859][  0]LoadErrors: Failed to load /Game/EnvironmentPack1/Textures/T_MarbleBrick_00_NRM.T_MarbleBrick_00_NRM Referenced by MaterialExpressionTextureSample_1
+[2020.04.02-00.18.09:393][  0]LogMaterial: Display: Missing cached shader map for material M_MarbleBrick_00, compiling. 
+[2020.04.02-00.18.09:394][  0]LogMaterial: Warning: D:\GladiatorArena\HnS\Content\IB_Assets\Materials\M_MarbleBrick_00.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.02-00.18.09:394][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.02-00.18.09:584][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.02-00.18.09:596][  0]LogMaterial: Display: Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.04.02-00.18.09:606][  0]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.04.02-00.18.09:691][  0]MapCheck: Warning: MS_DefaultMaterial Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.04.02-00.18.09:751][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 47
+[2020.04.02-00.18.09:751][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2020.04.02-00.18.09:751][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2020.04.02-00.18.09:751][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2020.04.02-00.18.09:751][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.04.02-00.18.09:751][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2020.04.02-00.18.09:751][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.04.02-00.18.09:751][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.04.02-00.18.09:751][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.02-00.18.09:752][  0]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=186.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.04.02-00.18.09:823][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.04.02-00.18.09:824][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.02-00.18.09:824][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,205ms to complete.
+[2020.04.02-00.18.09:832][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.008
+[2020.04.02-00.18.10:005][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-00.18.10:018][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-00.18.10:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-00.18.10:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-00.18.10:060][  0]LogCollectionManager: Loaded 0 collections in 0.004752 seconds
+[2020.04.02-00.18.10:088][  0]LogFileCache: Scanning file cache for directory 'D:/GladiatorArena/HnS/Saved/Collections/' took 0.00s
+[2020.04.02-00.18.10:088][  0]LogFileCache: Scanning file cache for directory 'D:/GladiatorArena/HnS/Content/Developers/adria/Collections/' took 0.00s
+[2020.04.02-00.18.10:088][  0]LogFileCache: Scanning file cache for directory 'D:/GladiatorArena/HnS/Content/Collections/' took 0.00s
+[2020.04.02-00.18.10:088][  0]LogContentBrowser: Native class hierarchy populated in 0.0159 seconds. Added 3038 classes and 727 folders.
+[2020.04.02-00.18.10:093][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.04.02-00.18.10:206][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.04.02-00.18.10:216][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2020.04.02-00.18.10:564][  0]LogSlate: Took 0.000573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.02-00.18.10:567][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.02-00.18.10:573][  0]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.02-00.18.10:770][  0]LogRenderer: Reallocating scene render targets to support 1224x640 Format 10 NumSamples 1 (Frame:1).
+[2020.04.02-00.18.10:973][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.04.02-00.18.10:973][  0]LogLoad: (Engine Initialization) Total time: 12.49 seconds
+[2020.04.02-00.18.10:973][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.02-00.18.11:043][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.02-00.18.11:211][  0]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-00.18.11:245][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/GladiatorArena/HnS/Content/' took 0.25s
+[2020.04.02-00.18.11:523][  3]LogAssetRegistry: Asset discovery search completed in 9.4581 seconds
+[2020.04.02-00.18.11:530][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000020 seconds (updated 0 objects)
+[2020.04.02-00.18.13:367][ 81]LogSlate: Window 'Message Log' being destroyed
+[2020.04.02-00.18.13:371][ 81]LogSlate: Window 'Message Log' being destroyed
+[2020.04.02-00.18.23:006][  1]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-00.18.29:944][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Normal_Tex': Can't find file.
+[2020.04.02-00.18.29:944][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Normal_Tex': Can't find file.
+[2020.04.02-00.18.29:944][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Tex': Can't find file.
+[2020.04.02-00.18.29:944][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Tex': Can't find file.
+[2020.04.02-00.18.29:944][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Normal_Tex': Can't find file.
+[2020.04.02-00.18.29:945][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Normal_Tex': Can't find file.
+[2020.04.02-00.18.29:945][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Tex': Can't find file.
+[2020.04.02-00.18.29:945][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Tex': Can't find file.
+[2020.04.02-00.18.29:945][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Tex': Can't find file.
+[2020.04.02-00.18.29:945][763]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Tex.ScotsPineTall_01_Atlas_Billboards_Tex Referenced by MaterialExpressionTextureSample_11
+[2020.04.02-00.18.29:945][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Tex': Can't find file.
+[2020.04.02-00.18.29:946][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Normal_Tex': Can't find file.
+[2020.04.02-00.18.29:946][763]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Normal_Tex.ScotsPineTall_01_Atlas_Billboards_Normal_Tex Referenced by MaterialExpressionTextureSample_12
+[2020.04.02-00.18.29:946][763]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Normal_Tex': Can't find file.
+[2020.04.02-00.18.29:950][763]LogMaterial: Display: Missing cached shader map for material ScotsPineTall_01_Billboard_Mat, compiling. 
+[2020.04.02-00.18.29:951][763]LogMaterial: Warning: D:\GladiatorArena\HnS\Content\Assets\Enviroments\Trees\ScotsPineTall_01\ScotsPineTall_01_Billboard_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.02-00.18.29:951][763]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.02-00.18.34:353][245]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.ScotsPineTall_01_Billboard_Mat
+[2020.04.02-00.18.34:358][245]LogMaterial: Display: Missing cached shader map for material ScotsPineTall_01_Billboard_Mat, compiling. 
+[2020.04.02-00.18.34:359][245]LogMaterial: Warning: /Engine/Transient.ScotsPineTall_01_Billboard_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.02-00.18.34:359][245]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.02-00.18.34:901][245]LogMaterial: Display: Missing cached shader map for material ScotsPineTall_01_Billboard_Mat, compiling. 
+[2020.04.02-00.18.34:902][245]LogMaterial: Warning: /Engine/Transient.ScotsPineTall_01_Billboard_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.02-00.18.34:902][245]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.02-00.18.34:907][245]LogMaterial: Display: Missing cached shader map for material ScotsPineTall_01_Billboard_Mat, compiling. 
+[2020.04.02-00.18.34:908][245]LogMaterial: Warning: /Engine/Transient.ScotsPineTall_01_Billboard_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.02-00.18.34:908][245]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.02-00.18.34:920][245]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2020.04.02-00.18.34:924][245]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2020.04.02-00.18.34:964][245]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.04.02-00.18.34:998][245]LogSlate: Took 0.029081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.02-00.18.35:159][248]LogSlate: Took 0.005070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.02-00.18.43:686][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat': Can't find file.
+[2020.04.02-00.18.43:686][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat': Can't find file.
+[2020.04.02-00.18.43:686][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat': Can't find file.
+[2020.04.02-00.18.43:686][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat': Can't find file.
+[2020.04.02-00.18.43:686][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat': Can't find file.
+[2020.04.02-00.18.43:686][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat': Can't find file.
+[2020.04.02-00.18.43:686][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat': Can't find file.
+[2020.04.02-00.18.43:687][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat': Can't find file.
+[2020.04.02-00.18.43:687][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat': Can't find file.
+[2020.04.02-00.18.43:687][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat': Can't find file.
+[2020.04.02-00.18.43:687][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat': Can't find file.
+[2020.04.02-00.18.43:687][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat': Can't find file.
+[2020.04.02-00.18.43:687][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat': Can't find file.
+[2020.04.02-00.18.43:687][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat': Can't find file.
+[2020.04.02-00.18.43:687][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat': Can't find file.
+[2020.04.02-00.18.43:687][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat': Can't find file.
+[2020.04.02-00.18.43:687][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat': Can't find file.
+[2020.04.02-00.18.43:688][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat': Can't find file.
+[2020.04.02-00.18.43:688][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat': Can't find file.
+[2020.04.02-00.18.43:688][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat': Can't find file.
+[2020.04.02-00.18.43:688][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat': Can't find file.
+[2020.04.02-00.18.43:688][  9]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat.ScotsPine_01_Branches_Mat Referenced by ScotsPineTall_01
+[2020.04.02-00.18.43:688][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat': Can't find file.
+[2020.04.02-00.18.43:688][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat': Can't find file.
+[2020.04.02-00.18.43:688][  9]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat.ScotsPine_01_Branches_2_Mat Referenced by ScotsPineTall_01
+[2020.04.02-00.18.43:688][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat': Can't find file.
+[2020.04.02-00.18.43:689][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat': Can't find file.
+[2020.04.02-00.18.43:689][  9]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat.ScotsPine_01_Leaves_Mat Referenced by ScotsPineTall_01
+[2020.04.02-00.18.43:689][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat': Can't find file.
+[2020.04.02-00.18.43:689][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat': Can't find file.
+[2020.04.02-00.18.43:689][  9]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat.ScotsPine_01_Fronds_Mat Referenced by ScotsPineTall_01
+[2020.04.02-00.18.43:689][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat': Can't find file.
+[2020.04.02-00.18.43:689][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat': Can't find file.
+[2020.04.02-00.18.43:689][  9]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.ScotsPineTall_01_Billboard_Mat Referenced by ScotsPineTall_01
+[2020.04.02-00.18.43:689][  9]LogLinker: Warning: While loading '../../../../GladiatorArena/HnS/Content/Assets/Enviroments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset' failed to load '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat': Can't find file.
+[2020.04.02-00.18.44:313][  9]LogStaticMesh: Building static mesh ScotsPineTall_01...
