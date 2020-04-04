@@ -4360,3 +4360,104 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.04-16.54.02:837][ 87]LogSlate: Window 'Message Log' being destroyed
 [2020.04.04-16.54.02:842][ 87]LogSlate: Window 'Message Log' being destroyed
 [2020.04.04-16.54.54:892][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.04-16.54.56:239][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ThirdPersonExampleMap_Auto814359104415F218B859844A0907B0FC5.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2020.04.04-16.54.56:266][328]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.420
+[2020.04.04-16.54.56:266][328]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.420
+[2020.04.04-16.54.56:266][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Blueprints/BP_Torch] ([1] browsable assets)...
+[2020.04.04-16.54.56:298][328]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch]
+[2020.04.04-16.54.56:298][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Blueprints/BP_Torch]
+[2020.04.04-16.54.56:606][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/BP_Torch_Auto87DADCB42437DE17C8C2D5DB8DDF52250.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/MedievalDungeon/Blueprints/BP_Torch_Auto8.uasset'
+[2020.04.04-16.54.56:607][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MedievalDungeon/Materials/M_Edge_Stones_Inst] ([1] browsable assets)...
+[2020.04.04-16.54.56:607][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Materials/M_Edge_Stones_Inst]
+[2020.04.04-16.54.56:620][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/M_Edge_Stones_Inst_Auto84806F91B4B0801F41E7A1DB5BF859541.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/MedievalDungeon/Materials/M_Edge_Stones_Inst_Auto8.uasset'
+[2020.04.04-16.54.56:620][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Megascans/Surfaces/Weathered_Wood_Slate_Roof_2x2_M_00/Weathered_Wood_Slate_Roof_2x2_M_00_inst] ([1] browsable assets)...
+[2020.04.04-16.54.56:621][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Weathered_Wood_Slate_Roof_2x2_M_00/Weathered_Wood_Slate_Roof_2x2_M_00_inst]
+[2020.04.04-16.54.56:680][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Weathered_Wood_Slate_Roof_2x2_M_128E00404E6A8F298684DAB9F2D34052.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/Surfaces/Weathered_Wood_Slate_Roof_2x2_M_00/Weathered_Wood_Slate_Roof_2x2_M_00_inst_Auto8.uasset'
+[2020.04.04-16.54.56:680][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Megascans/Surfaces/Wooden_Planks_2x2_M_00/Wooden_Planks_2x2_M_00_inst] ([1] browsable assets)...
+[2020.04.04-16.54.56:680][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Wooden_Planks_2x2_M_00/Wooden_Planks_2x2_M_00_inst]
+[2020.04.04-16.54.56:695][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Wooden_Planks_2x2_M_00_inst_Auto0E5D7CC84C49BE363D08239EB905FE33.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/Surfaces/Wooden_Planks_2x2_M_00/Wooden_Planks_2x2_M_00_inst_Auto8.uasset'
+[2020.04.04-16.54.56:696][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Megascans/Surfaces/Old_Log_Wall_00/Old_Log_Wall_00_inst] ([1] browsable assets)...
+[2020.04.04-16.54.56:696][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Old_Log_Wall_00/Old_Log_Wall_00_inst]
+[2020.04.04-16.54.56:723][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Old_Log_Wall_00_inst_Auto86E64BBC64F67D622D1CCE4A0FA433D14.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/Surfaces/Old_Log_Wall_00/Old_Log_Wall_00_inst_Auto8.uasset'
+[2020.04.04-16.54.56:724][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Axe_00/Axe_00_inst] ([1] browsable assets)...
+[2020.04.04-16.54.56:745][328]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/3D_Assets/Axe_00/Axe_00_inst.Axe_00_inst]
+[2020.04.04-16.54.56:745][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Axe_00/Axe_00_inst]
+[2020.04.04-16.54.56:813][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Axe_00_inst_Auto84915B4574D50C5FA5DF4E58374299BEC.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Axe_00/Axe_00_inst_Auto8.uasset'
+[2020.04.04-16.54.56:814][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Albedo] ([1] browsable assets)...
+[2020.04.04-16.54.56:822][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Albedo.ubglcesiw_2K_Albedo]
+[2020.04.04-16.54.56:822][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Albedo]
+[2020.04.04-16.54.56:846][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglcesiw_2K_Albedo_Auto86F0495C04CE9DED181B71182CA4C500F.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Albedo_Auto8.uasset'
+[2020.04.04-16.54.56:847][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_AO] ([1] browsable assets)...
+[2020.04.04-16.54.56:853][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_AO.ubglcesiw_2K_AO]
+[2020.04.04-16.54.56:853][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_AO]
+[2020.04.04-16.54.56:872][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglcesiw_2K_AO_Auto895A4DEF349815EE9525457B1349615A5.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_AO_Auto8.uasset'
+[2020.04.04-16.54.56:872][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Cavity] ([1] browsable assets)...
+[2020.04.04-16.54.56:967][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Cavity.ubglcesiw_2K_Cavity]
+[2020.04.04-16.54.56:967][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Cavity]
+[2020.04.04-16.54.56:989][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglcesiw_2K_Cavity_Auto8CF77833649B9771B11D0B0A6A0FFC48D.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Cavity_Auto8.uasset'
+[2020.04.04-16.54.56:990][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Normal_LOD0] ([1] browsable assets)...
+[2020.04.04-16.54.56:996][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Normal_LOD0.ubglcesiw_2K_Normal_LOD0]
+[2020.04.04-16.54.56:996][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Normal_LOD0]
+[2020.04.04-16.54.57:026][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglcesiw_2K_Normal_LOD0_Auto8881DA9234BF7C0D69701E1ADA4D0B512.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Normal_LOD0_Auto8.uasset'
+[2020.04.04-16.54.57:085][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Roughness] ([1] browsable assets)...
+[2020.04.04-16.54.57:093][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Roughness.ubglcesiw_2K_Roughness]
+[2020.04.04-16.54.57:093][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Roughness]
+[2020.04.04-16.54.57:114][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglcesiw_2K_Roughness_Auto84149276040E1D011CAC8CC96C5F73E8C.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_2K_Roughness_Auto8.uasset'
+[2020.04.04-16.54.57:115][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_LOD0] ([1] browsable assets)...
+[2020.04.04-16.54.57:138][328]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Megascans/3D_Assets/Axe_00/ubglcesiw_LOD0.ubglcesiw_LOD0]
+[2020.04.04-16.54.57:138][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_LOD0]
+[2020.04.04-16.54.57:222][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/ubglcesiw_LOD0_Auto8B9CB012C4789F3CB417BC38D4D43CC4B.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Axe_00/ubglcesiw_LOD0_Auto8.uasset'
+[2020.04.04-16.54.57:223][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Wood_Log_00/Wood_Log_00_inst] ([1] browsable assets)...
+[2020.04.04-16.54.57:248][328]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/3D_Assets/Wood_Log_00/Wood_Log_00_inst.Wood_Log_00_inst]
+[2020.04.04-16.54.57:248][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Wood_Log_00/Wood_Log_00_inst]
+[2020.04.04-16.54.57:281][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Wood_Log_00_inst_Auto8640D295842DC823F809ADA8539B1CF59.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Wood_Log_00/Wood_Log_00_inst_Auto8.uasset'
+[2020.04.04-16.54.57:282][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Albedo] ([1] browsable assets)...
+[2020.04.04-16.54.57:291][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Albedo.Aset_rlCaz_2K_Albedo]
+[2020.04.04-16.54.57:291][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Albedo]
+[2020.04.04-16.54.57:329][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rlCaz_2K_Albedo_Auto8C1682EA84D98CFB90B1FC1A48CBB1DD3.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Albedo_Auto8.uasset'
+[2020.04.04-16.54.57:330][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Cavity] ([1] browsable assets)...
+[2020.04.04-16.54.57:336][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Cavity.Aset_rlCaz_2K_Cavity]
+[2020.04.04-16.54.57:336][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Cavity]
+[2020.04.04-16.54.57:358][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rlCaz_2K_Cavity_Auto889229DF64D4B81A61421FEA3B5F4AFA5.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Cavity_Auto8.uasset'
+[2020.04.04-16.54.57:359][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Normal_LOD0] ([1] browsable assets)...
+[2020.04.04-16.54.57:365][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Normal_LOD0.Aset_rlCaz_2K_Normal_LOD0]
+[2020.04.04-16.54.57:366][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Normal_LOD0]
+[2020.04.04-16.54.57:395][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rlCaz_2K_Normal_LOD0_Auto868A6BB3F47BA417B3151628B9473658E.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Normal_LOD0_Auto8.uasset'
+[2020.04.04-16.54.57:396][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Roughness] ([1] browsable assets)...
+[2020.04.04-16.54.57:404][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Roughness.Aset_rlCaz_2K_Roughness]
+[2020.04.04-16.54.57:404][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Roughness]
+[2020.04.04-16.54.57:509][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rlCaz_2K_Roughness_Auto8505A0CB04897B6088D6F1E9FFA937CEF.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_2K_Roughness_Auto8.uasset'
+[2020.04.04-16.54.57:567][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_LOD0] ([1] browsable assets)...
+[2020.04.04-16.54.57:598][328]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_LOD0.Aset_rlCaz_LOD0]
+[2020.04.04-16.54.57:598][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_LOD0]
+[2020.04.04-16.54.58:023][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_rlCaz_LOD0_Auto8C38FFCF54442B6E5136E389C6E3BCE51.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Wood_Log_00/Aset_rlCaz_LOD0_Auto8.uasset'
+[2020.04.04-16.54.58:024][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Cracked_Stump_00_inst] ([1] browsable assets)...
+[2020.04.04-16.54.58:036][328]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/3D_Assets/Cracked_Stump_00/Cracked_Stump_00_inst.Cracked_Stump_00_inst]
+[2020.04.04-16.54.58:036][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Cracked_Stump_00_inst]
+[2020.04.04-16.54.58:054][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Cracked_Stump_00_inst_Auto80FB6908A4EF97C37AB51F094EA7CFAC4.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Cracked_Stump_00/Cracked_Stump_00_inst_Auto8.uasset'
+[2020.04.04-16.54.58:056][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Albedo] ([1] browsable assets)...
+[2020.04.04-16.54.58:061][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Albedo.Aset_wood_stump_M_rchvR_2K_Albedo]
+[2020.04.04-16.54.58:061][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Albedo]
+[2020.04.04-16.54.58:147][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_stump_M_rchvR_2K_Albed704620C8426A1C5BA41175AA43824841.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Albedo_Auto8.uasset'
+[2020.04.04-16.54.58:148][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Cavity] ([1] browsable assets)...
+[2020.04.04-16.54.58:154][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Cavity.Aset_wood_stump_M_rchvR_2K_Cavity]
+[2020.04.04-16.54.58:154][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Cavity]
+[2020.04.04-16.54.58:178][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_stump_M_rchvR_2K_Cavit10250C4D4F95449ACD8EA5AE63138056.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Cavity_Auto8.uasset'
+[2020.04.04-16.54.58:179][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Normal_LOD0] ([1] browsable assets)...
+[2020.04.04-16.54.58:186][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Normal_LOD0.Aset_wood_stump_M_rchvR_2K_Normal_LOD0]
+[2020.04.04-16.54.58:186][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Normal_LOD0]
+[2020.04.04-16.54.58:212][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_stump_M_rchvR_2K_NormaFB08BB804E80BC13ABC33F85BD0B2DEA.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Normal_LOD0_Auto8.uasset'
+[2020.04.04-16.54.58:215][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Roughness] ([1] browsable assets)...
+[2020.04.04-16.54.58:221][328]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Roughness.Aset_wood_stump_M_rchvR_2K_Roughness]
+[2020.04.04-16.54.58:221][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Roughness]
+[2020.04.04-16.54.58:333][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_stump_M_rchvR_2K_Rough334873294D5ED09301271E8AF77B3517.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_2K_Roughness_Auto8.uasset'
+[2020.04.04-16.54.58:334][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_LOD0] ([1] browsable assets)...
+[2020.04.04-16.54.58:345][328]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_LOD0.Aset_wood_stump_M_rchvR_LOD0]
+[2020.04.04-16.54.58:345][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_LOD0]
+[2020.04.04-16.54.58:595][328]LogSavePackage: Moving '../../../../GladiatorArena/HnS/Saved/Aset_wood_stump_M_rchvR_LOD0_Aut8BEDE01946B627FC16CD5FB8DD3BE2EB.tmp' to '../../../../GladiatorArena/HnS/Saved/Autosaves/Game/Megascans/3D_Assets/Cracked_Stump_00/Aset_wood_stump_M_rchvR_LOD0_Auto8.uasset'
+[2020.04.04-16.54.58:595][328]LogFileHelpers: Auto-saving content packages took 2.330
+[2020.04.04-16.55.07:411][356]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.04-16.57.03:539][701]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.04-16.57.27:463][772]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.04-16.58.07:756][892]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.04-16.58.12:491][906]LogAudioMixer: Display: Audio Buffer Underrun detected.
