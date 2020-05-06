@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 05/03/20 15:25:56
+=======
+﻿Log file open, 05/04/20 11:53:02
+>>>>>>> parent of 14a45e9... Pause Menu
 =======
 ﻿Log file open, 05/04/20 11:53:02
 >>>>>>> parent of 14a45e9... Pause Menu
@@ -14,7 +18,11 @@ LogInit: Display: Running engine for game: HnS
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.063493
+=======
+LogStats: Stats thread started at 0.057150
+>>>>>>> parent of 14a45e9... Pause Menu
 =======
 LogStats: Stats thread started at 0.057150
 >>>>>>> parent of 14a45e9... Pause Menu
@@ -171,6 +179,7 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2020.05.03-13.25.56:692][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.05.03-13.25.56:692][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -3661,6 +3670,8 @@ Script Stack (0 frames):
 [2020.05.03-14.17.24:036][592]LogExit: Exiting.
 [2020.05.03-14.17.24:346][592]Log file closed, 05/03/20 16:17:24
 =======
+=======
+>>>>>>> parent of 14a45e9... Pause Menu
 [2020.05.04-09.53.03:096][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.05.04-09.53.03:096][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.05.04-09.53.03:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Toni/Desktop/Toni/GladiatorArena/HnS/Saved/Config/Windows/Engine.ini]
@@ -7234,4 +7245,7 @@ Script Stack (0 frames):
 [2020.05.04-11.46.56:844][322]LogD3D11RHI: CleanupD3DDevice
 [2020.05.04-11.46.56:924][322]LogExit: Exiting.
 [2020.05.04-11.46.56:948][322]Log file closed, 05/04/20 13:46:56
+<<<<<<< HEAD
+>>>>>>> parent of 14a45e9... Pause Menu
+=======
 >>>>>>> parent of 14a45e9... Pause Menu
